@@ -1,0 +1,2658 @@
+[
+  {
+    "MaCTHD": 1,
+    "MaHD": 1,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #22 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 12500000.0
+  },
+  {
+    "MaCTHD": 2,
+    "MaHD": 1,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Bấm Huyệt Ngải Cứu Đông Y Toàn Thân (Spa)",
+    "SoLuong": 2,
+    "DonGia": 850000.0
+  },
+  {
+    "MaCTHD": 3,
+    "MaHD": 1,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Đại Tiệc Buffet Hải Sản Tôm Hùm & Cua Hoàng Đế (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 650000.0
+  },
+  {
+    "MaCTHD": 4,
+    "MaHD": 1,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bữa Tối Nến Lãng Mạn Bò Wagyu A5 & Rượu Vang Đỏ (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 5,
+    "MaHD": 1,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya (Spa)",
+    "SoLuong": 2,
+    "DonGia": 600000.0
+  },
+  {
+    "MaCTHD": 6,
+    "MaHD": 1,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #187) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1528000.0
+  },
+  {
+    "MaCTHD": 7,
+    "MaHD": 1,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #698) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 522000.0
+  },
+  {
+    "MaCTHD": 8,
+    "MaHD": 1,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Nem Nướng Nha Trang Cuốn Bánh Tráng Nước Lèo (Gói Cao Cấp #413) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 781000.0
+  },
+  {
+    "MaCTHD": 9,
+    "MaHD": 1,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #507) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 1510000.0
+  },
+  {
+    "MaCTHD": 10,
+    "MaHD": 2,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #11 (10 đêm)",
+    "SoLuong": 10,
+    "DonGia": 1800000.0
+  },
+  {
+    "MaCTHD": 11,
+    "MaHD": 2,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #488) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 943000.0
+  },
+  {
+    "MaCTHD": 12,
+    "MaHD": 2,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Chèo Thuyền Kayak Vịnh Lan Hạ Đảo Cát Bà (Gói Cao Cấp #691) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 1146000.0
+  },
+  {
+    "MaCTHD": 13,
+    "MaHD": 2,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #611) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 744000.0
+  },
+  {
+    "MaCTHD": 14,
+    "MaHD": 2,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Chợ Nổi Cái Răng Bến Ninh Kiều Cần Thơ (Gói Cao Cấp #573) (Tour)",
+    "SoLuong": 1,
+    "DonGia": 1101000.0
+  },
+  {
+    "MaCTHD": 15,
+    "MaHD": 3,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #21 (5 đêm)",
+    "SoLuong": 5,
+    "DonGia": 12500000.0
+  },
+  {
+    "MaCTHD": 16,
+    "MaHD": 3,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bún Chả Hà Nội Nướng Than Hoa Bát Gốm (Gói Cao Cấp #436) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 840000.0
+  },
+  {
+    "MaCTHD": 17,
+    "MaHD": 3,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Máy Khám Phá Thắng Cảnh Tự Túc (Gói Cao Cấp #777) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 886000.0
+  },
+  {
+    "MaCTHD": 18,
+    "MaHD": 3,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #737) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 738000.0
+  },
+  {
+    "MaCTHD": 19,
+    "MaHD": 4,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #31 (6 đêm)",
+    "SoLuong": 6,
+    "DonGia": 25000000.0
+  },
+  {
+    "MaCTHD": 20,
+    "MaHD": 4,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chăm Sóc Toàn Thân Tinh Chất Ngọc Trai Biển (Gói Cao Cấp #125) (Spa)",
+    "SoLuong": 3,
+    "DonGia": 322000.0
+  },
+  {
+    "MaCTHD": 21,
+    "MaHD": 4,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #906) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 1142000.0
+  },
+  {
+    "MaCTHD": 22,
+    "MaHD": 5,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #41 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 23,
+    "MaHD": 5,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #499) (Nhà hàng)",
+    "SoLuong": 3,
+    "DonGia": 1404000.0
+  },
+  {
+    "MaCTHD": 24,
+    "MaHD": 5,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trông Giữ & Hướng Dẫn Kỹ Năng Cho Trẻ Em Kids Club (Gói Cao Cấp #834) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 1481000.0
+  },
+  {
+    "MaCTHD": 25,
+    "MaHD": 5,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Cá Tầm Nóng Hổi Nấm Rừng Tây Bắc (Gói Cao Cấp #315) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 1072000.0
+  },
+  {
+    "MaCTHD": 26,
+    "MaHD": 6,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #41 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 27,
+    "MaHD": 6,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #284) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 644000.0
+  },
+  {
+    "MaCTHD": 28,
+    "MaHD": 6,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #801) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 1163000.0
+  },
+  {
+    "MaCTHD": 29,
+    "MaHD": 7,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #42 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 30,
+    "MaHD": 7,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trông Giữ & Hướng Dẫn Kỹ Năng Cho Trẻ Em Kids Club (Gói Cao Cấp #820) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 531000.0
+  },
+  {
+    "MaCTHD": 31,
+    "MaHD": 8,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #42 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 32,
+    "MaHD": 8,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tẩy Tế Bào Chết Cà Phê Đắk Lắk & Dầu Dừa Bến Tre (Gói Cao Cấp #143) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1637000.0
+  },
+  {
+    "MaCTHD": 33,
+    "MaHD": 8,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #693) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 1519000.0
+  },
+  {
+    "MaCTHD": 34,
+    "MaHD": 8,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #809) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 751000.0
+  },
+  {
+    "MaCTHD": 35,
+    "MaHD": 9,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #43 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 36,
+    "MaHD": 9,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #280) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 520000.0
+  },
+  {
+    "MaCTHD": 37,
+    "MaHD": 9,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bún Chả Hà Nội Nướng Than Hoa Bát Gốm (Gói Cao Cấp #429) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 460000.0
+  },
+  {
+    "MaCTHD": 38,
+    "MaHD": 9,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bún Chả Hà Nội Nướng Than Hoa Bát Gốm (Gói Cao Cấp #437) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 1776000.0
+  },
+  {
+    "MaCTHD": 39,
+    "MaHD": 9,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bê Chao Mộc Châu Sốt Tương Gừng Cay Nồng (Gói Cao Cấp #465) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 1480000.0
+  },
+  {
+    "MaCTHD": 40,
+    "MaHD": 9,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Xe Jeep Địa Hình Khám Phá Đồi Cát Trắng Mũi Né (Gói Cao Cấp #631) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 1736000.0
+  },
+  {
+    "MaCTHD": 41,
+    "MaHD": 10,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #44 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 42,
+    "MaHD": 10,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trông Giữ & Hướng Dẫn Kỹ Năng Cho Trẻ Em Kids Club (Gói Cao Cấp #835) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 1191000.0
+  },
+  {
+    "MaCTHD": 43,
+    "MaHD": 10,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #180) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 253000.0
+  },
+  {
+    "MaCTHD": 44,
+    "MaHD": 11,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #44 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 45,
+    "MaHD": 12,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #45 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 46,
+    "MaHD": 12,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #956) (Khác)",
+    "SoLuong": 1,
+    "DonGia": 956000.0
+  },
+  {
+    "MaCTHD": 47,
+    "MaHD": 12,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #761) (Tour)",
+    "SoLuong": 1,
+    "DonGia": 1019000.0
+  },
+  {
+    "MaCTHD": 48,
+    "MaHD": 13,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #45 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 49,
+    "MaHD": 13,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Máy Khám Phá Thắng Cảnh Tự Túc (Gói Cao Cấp #769) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 831000.0
+  },
+  {
+    "MaCTHD": 50,
+    "MaHD": 14,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #46 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 51,
+    "MaHD": 14,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Nem Nướng Nha Trang Cuốn Bánh Tráng Nước Lèo (Gói Cao Cấp #404) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 1649000.0
+  },
+  {
+    "MaCTHD": 52,
+    "MaHD": 15,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #47 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 53,
+    "MaHD": 15,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #883) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 1258000.0
+  },
+  {
+    "MaCTHD": 54,
+    "MaHD": 16,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #47 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 55,
+    "MaHD": 16,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #721) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 1184000.0
+  },
+  {
+    "MaCTHD": 56,
+    "MaHD": 16,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #510) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 1096000.0
+  },
+  {
+    "MaCTHD": 57,
+    "MaHD": 17,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #48 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 58,
+    "MaHD": 17,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya (Spa)",
+    "SoLuong": 3,
+    "DonGia": 376000.0
+  },
+  {
+    "MaCTHD": 59,
+    "MaHD": 17,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #644) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 480000.0
+  },
+  {
+    "MaCTHD": 60,
+    "MaHD": 17,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #231) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1008000.0
+  },
+  {
+    "MaCTHD": 61,
+    "MaHD": 18,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #48 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 62,
+    "MaHD": 18,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #54) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 829000.0
+  },
+  {
+    "MaCTHD": 63,
+    "MaHD": 19,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #49 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 64,
+    "MaHD": 19,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bánh Mì Kẹp Thịt Nướng Bơ Tỏi Đặc Sản Phố Cổ (Gói Cao Cấp #381) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 1156000.0
+  },
+  {
+    "MaCTHD": 65,
+    "MaHD": 20,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #49 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 66,
+    "MaHD": 20,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #53) (Spa)",
+    "SoLuong": 3,
+    "DonGia": 754000.0
+  },
+  {
+    "MaCTHD": 67,
+    "MaHD": 20,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chả Cá Lã Vọng Hà Nội Bếp Cổ Truyền (Gói Cao Cấp #348) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 1126000.0
+  },
+  {
+    "MaCTHD": 68,
+    "MaHD": 21,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #50 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 69,
+    "MaHD": 21,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chăm Sóc Toàn Thân Tinh Chất Ngọc Trai Biển (Gói Cao Cấp #136) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 688000.0
+  },
+  {
+    "MaCTHD": 70,
+    "MaHD": 21,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #99) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 659000.0
+  },
+  {
+    "MaCTHD": 71,
+    "MaHD": 21,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chăm Sóc Toàn Thân Tinh Chất Ngọc Trai Biển (Gói Cao Cấp #118) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1495000.0
+  },
+  {
+    "MaCTHD": 72,
+    "MaHD": 21,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #890) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 416000.0
+  },
+  {
+    "MaCTHD": 73,
+    "MaHD": 21,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #753) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 610000.0
+  },
+  {
+    "MaCTHD": 74,
+    "MaHD": 21,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #274) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 721000.0
+  },
+  {
+    "MaCTHD": 75,
+    "MaHD": 22,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #50 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 76,
+    "MaHD": 22,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #187) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 369000.0
+  },
+  {
+    "MaCTHD": 77,
+    "MaHD": 22,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #880) (Khác)",
+    "SoLuong": 1,
+    "DonGia": 1308000.0
+  },
+  {
+    "MaCTHD": 78,
+    "MaHD": 22,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #236) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 752000.0
+  },
+  {
+    "MaCTHD": 79,
+    "MaHD": 23,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #51 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 80,
+    "MaHD": 23,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Liệu Trình Giảm Mỡ Bụng Đông Y Đắp Cao Thảo Dược (Gói Cao Cấp #213) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1259000.0
+  },
+  {
+    "MaCTHD": 81,
+    "MaHD": 24,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #51 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 82,
+    "MaHD": 24,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bánh Mì Kẹp Thịt Nướng Bơ Tỏi Đặc Sản Phố Cổ (Gói Cao Cấp #378) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 1229000.0
+  },
+  {
+    "MaCTHD": 83,
+    "MaHD": 24,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Khám Phá Quần Thể Di Sản Tràng An Ninh Bình (Gói Cao Cấp #534) (Tour)",
+    "SoLuong": 1,
+    "DonGia": 1499000.0
+  },
+  {
+    "MaCTHD": 84,
+    "MaHD": 25,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #52 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 85,
+    "MaHD": 25,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Quản Gia Riêng Phục Vụ 24/7 Phong Cách Hoàng Gia (Gói Cao Cấp #850) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 922000.0
+  },
+  {
+    "MaCTHD": 86,
+    "MaHD": 26,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #53 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 87,
+    "MaHD": 26,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Cá Tầm Nóng Hổi Nấm Rừng Tây Bắc (Gói Cao Cấp #304) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 899000.0
+  },
+  {
+    "MaCTHD": 88,
+    "MaHD": 26,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #178) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 702000.0
+  },
+  {
+    "MaCTHD": 89,
+    "MaHD": 26,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #93) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 486000.0
+  },
+  {
+    "MaCTHD": 90,
+    "MaHD": 27,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #53 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 91,
+    "MaHD": 28,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #54 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 92,
+    "MaHD": 28,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya (Spa)",
+    "SoLuong": 1,
+    "DonGia": 395000.0
+  },
+  {
+    "MaCTHD": 93,
+    "MaHD": 28,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tẩy Tế Bào Chết Cà Phê Đắk Lắk & Dầu Dừa Bến Tre (Gói Cao Cấp #158) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 574000.0
+  },
+  {
+    "MaCTHD": 94,
+    "MaHD": 28,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Trị Liệu Chuông Xoay Tây Tạng Cân Bằng Năng Lượng (Gói Cao Cấp #71) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 872000.0
+  },
+  {
+    "MaCTHD": 95,
+    "MaHD": 29,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #54 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 96,
+    "MaHD": 29,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Xe Jeep Địa Hình Khám Phá Đồi Cát Trắng Mũi Né (Gói Cao Cấp #617) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 1302000.0
+  },
+  {
+    "MaCTHD": 97,
+    "MaHD": 29,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Khám Phá Quần Thể Di Sản Tràng An Ninh Bình (Gói Cao Cấp #529) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 796000.0
+  },
+  {
+    "MaCTHD": 98,
+    "MaHD": 29,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #911) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 843000.0
+  },
+  {
+    "MaCTHD": 99,
+    "MaHD": 29,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Set Trà Chiều Cung Đình Huế & Bánh Đậu Xanh (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 782000.0
+  },
+  {
+    "MaCTHD": 100,
+    "MaHD": 30,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #55 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 101,
+    "MaHD": 31,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #55 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 102,
+    "MaHD": 31,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Trị Liệu Chuông Xoay Tây Tạng Cân Bằng Năng Lượng (Gói Cao Cấp #84) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 1398000.0
+  },
+  {
+    "MaCTHD": 103,
+    "MaHD": 31,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bê Chao Mộc Châu Sốt Tương Gừng Cay Nồng (Gói Cao Cấp #464) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 1204000.0
+  },
+  {
+    "MaCTHD": 104,
+    "MaHD": 31,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Cá Tầm Nóng Hổi Nấm Rừng Tây Bắc (Gói Cao Cấp #301) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 1741000.0
+  },
+  {
+    "MaCTHD": 105,
+    "MaHD": 32,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #56 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 106,
+    "MaHD": 32,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #869) (Khác)",
+    "SoLuong": 1,
+    "DonGia": 1105000.0
+  },
+  {
+    "MaCTHD": 107,
+    "MaHD": 32,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #493) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 1585000.0
+  },
+  {
+    "MaCTHD": 108,
+    "MaHD": 33,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #56 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 109,
+    "MaHD": 34,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #57 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 110,
+    "MaHD": 34,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #902) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 450000.0
+  },
+  {
+    "MaCTHD": 111,
+    "MaHD": 34,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Liệu Trình Giảm Mỡ Bụng Đông Y Đắp Cao Thảo Dược (Gói Cao Cấp #206) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1519000.0
+  },
+  {
+    "MaCTHD": 112,
+    "MaHD": 35,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #57 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 113,
+    "MaHD": 35,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #896) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 437000.0
+  },
+  {
+    "MaCTHD": 114,
+    "MaHD": 35,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Dọn Phòng Nhanh Theo Yêu Cầu Express Housekeeping (Gói Cao Cấp #982) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 844000.0
+  },
+  {
+    "MaCTHD": 115,
+    "MaHD": 36,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #58 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 116,
+    "MaHD": 36,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Khám Phá Quần Thể Di Sản Tràng An Ninh Bình (Gói Cao Cấp #537) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 1549000.0
+  },
+  {
+    "MaCTHD": 117,
+    "MaHD": 36,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Chèo Thuyền Kayak Vịnh Lan Hạ Đảo Cát Bà (Gói Cao Cấp #691) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 310000.0
+  },
+  {
+    "MaCTHD": 118,
+    "MaHD": 37,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #58 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 119,
+    "MaHD": 37,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #180) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 1415000.0
+  },
+  {
+    "MaCTHD": 120,
+    "MaHD": 37,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #884) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 1756000.0
+  },
+  {
+    "MaCTHD": 121,
+    "MaHD": 37,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #112) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1246000.0
+  },
+  {
+    "MaCTHD": 122,
+    "MaHD": 38,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #59 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 123,
+    "MaHD": 38,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Trị Liệu Chuông Xoay Tây Tạng Cân Bằng Năng Lượng (Gói Cao Cấp #75) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 872000.0
+  },
+  {
+    "MaCTHD": 124,
+    "MaHD": 38,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #186) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 636000.0
+  },
+  {
+    "MaCTHD": 125,
+    "MaHD": 39,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #59 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 126,
+    "MaHD": 39,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Máy Khám Phá Thắng Cảnh Tự Túc (Gói Cao Cấp #778) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 980000.0
+  },
+  {
+    "MaCTHD": 127,
+    "MaHD": 40,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #60 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 128,
+    "MaHD": 40,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Máy Khám Phá Thắng Cảnh Tự Túc (Gói Cao Cấp #790) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 619000.0
+  },
+  {
+    "MaCTHD": 129,
+    "MaHD": 41,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #60 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 130,
+    "MaHD": 41,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #490) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 1301000.0
+  },
+  {
+    "MaCTHD": 131,
+    "MaHD": 41,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #719) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 1409000.0
+  },
+  {
+    "MaCTHD": 132,
+    "MaHD": 41,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #736) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 1185000.0
+  },
+  {
+    "MaCTHD": 133,
+    "MaHD": 41,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Dọn Phòng Nhanh Theo Yêu Cầu Express Housekeeping (Gói Cao Cấp #972) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 1213000.0
+  },
+  {
+    "MaCTHD": 134,
+    "MaHD": 42,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #61 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 135,
+    "MaHD": 42,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #50) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 1639000.0
+  },
+  {
+    "MaCTHD": 136,
+    "MaHD": 43,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #61 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 137,
+    "MaHD": 43,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bê Chao Mộc Châu Sốt Tương Gừng Cay Nồng (Gói Cao Cấp #456) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 786000.0
+  },
+  {
+    "MaCTHD": 138,
+    "MaHD": 44,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #62 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 139,
+    "MaHD": 45,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #63 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 140,
+    "MaHD": 46,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #63 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 141,
+    "MaHD": 46,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Gỏi Cá Trích Phú Quốc Cuốn Bánh Tráng Rau Rừng (Gói Cao Cấp #325) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 1495000.0
+  },
+  {
+    "MaCTHD": 142,
+    "MaHD": 46,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #906) (Khác)",
+    "SoLuong": 1,
+    "DonGia": 1215000.0
+  },
+  {
+    "MaCTHD": 143,
+    "MaHD": 46,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #174) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 793000.0
+  },
+  {
+    "MaCTHD": 144,
+    "MaHD": 46,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #608) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 688000.0
+  },
+  {
+    "MaCTHD": 145,
+    "MaHD": 47,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #64 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 146,
+    "MaHD": 48,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #64 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 147,
+    "MaHD": 48,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bún Chả Hà Nội Nướng Than Hoa Bát Gốm (Gói Cao Cấp #441) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 371000.0
+  },
+  {
+    "MaCTHD": 148,
+    "MaHD": 49,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #65 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 149,
+    "MaHD": 49,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #715) (Tour)",
+    "SoLuong": 1,
+    "DonGia": 1203000.0
+  },
+  {
+    "MaCTHD": 150,
+    "MaHD": 49,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #764) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 893000.0
+  },
+  {
+    "MaCTHD": 151,
+    "MaHD": 49,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #912) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 1778000.0
+  },
+  {
+    "MaCTHD": 152,
+    "MaHD": 50,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #65 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 153,
+    "MaHD": 51,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #66 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 154,
+    "MaHD": 52,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #66 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 155,
+    "MaHD": 52,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #879) (Khác)",
+    "SoLuong": 1,
+    "DonGia": 1502000.0
+  },
+  {
+    "MaCTHD": 156,
+    "MaHD": 52,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Xe Jeep Địa Hình Khám Phá Đồi Cát Trắng Mũi Né (Gói Cao Cấp #631) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 1201000.0
+  },
+  {
+    "MaCTHD": 157,
+    "MaHD": 52,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #800) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 1620000.0
+  },
+  {
+    "MaCTHD": 158,
+    "MaHD": 53,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #67 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 159,
+    "MaHD": 53,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #182) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 1150000.0
+  },
+  {
+    "MaCTHD": 160,
+    "MaHD": 53,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #593) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 1332000.0
+  },
+  {
+    "MaCTHD": 161,
+    "MaHD": 53,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #950) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 466000.0
+  },
+  {
+    "MaCTHD": 162,
+    "MaHD": 54,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #67 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 163,
+    "MaHD": 54,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Gỏi Cá Trích Phú Quốc Cuốn Bánh Tráng Rau Rừng (Gói Cao Cấp #318) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 842000.0
+  },
+  {
+    "MaCTHD": 164,
+    "MaHD": 54,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chả Cá Lã Vọng Hà Nội Bếp Cổ Truyền (Gói Cao Cấp #342) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 1204000.0
+  },
+  {
+    "MaCTHD": 165,
+    "MaHD": 54,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #961) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 1449000.0
+  },
+  {
+    "MaCTHD": 166,
+    "MaHD": 55,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #68 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 167,
+    "MaHD": 55,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #482) (Nhà hàng)",
+    "SoLuong": 3,
+    "DonGia": 282000.0
+  },
+  {
+    "MaCTHD": 168,
+    "MaHD": 55,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #734) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 1256000.0
+  },
+  {
+    "MaCTHD": 169,
+    "MaHD": 55,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Nem Nướng Nha Trang Cuốn Bánh Tráng Nước Lèo (Gói Cao Cấp #401) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 950000.0
+  },
+  {
+    "MaCTHD": 170,
+    "MaHD": 55,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Thám Hiểm Hang Động Phong Nha Kẻ Bàng (Gói Cao Cấp #552) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 862000.0
+  },
+  {
+    "MaCTHD": 171,
+    "MaHD": 55,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #498) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 1180000.0
+  },
+  {
+    "MaCTHD": 172,
+    "MaHD": 55,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #870) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 1768000.0
+  },
+  {
+    "MaCTHD": 173,
+    "MaHD": 55,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #235) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 1331000.0
+  },
+  {
+    "MaCTHD": 174,
+    "MaHD": 56,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #69 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 175,
+    "MaHD": 56,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bún Chả Hà Nội Nướng Than Hoa Bát Gốm (Gói Cao Cấp #417) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 383000.0
+  },
+  {
+    "MaCTHD": 176,
+    "MaHD": 57,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #69 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 177,
+    "MaHD": 57,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #643) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 1272000.0
+  },
+  {
+    "MaCTHD": 178,
+    "MaHD": 58,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #70 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 179,
+    "MaHD": 58,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #48) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1217000.0
+  },
+  {
+    "MaCTHD": 180,
+    "MaHD": 58,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #703) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 508000.0
+  },
+  {
+    "MaCTHD": 181,
+    "MaHD": 59,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #70 (15 đêm)",
+    "SoLuong": 15,
+    "DonGia": 2500000.0
+  },
+  {
+    "MaCTHD": 182,
+    "MaHD": 59,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bê Chao Mộc Châu Sốt Tương Gừng Cay Nồng (Gói Cao Cấp #449) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 1205000.0
+  },
+  {
+    "MaCTHD": 228,
+    "MaHD": 76,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #39 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 1918000.0
+  },
+  {
+    "MaCTHD": 229,
+    "MaHD": 76,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #55) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1258000.0
+  },
+  {
+    "MaCTHD": 247,
+    "MaHD": 82,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #33 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 4750000.0
+  },
+  {
+    "MaCTHD": 248,
+    "MaHD": 82,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #170) (Spa)",
+    "SoLuong": 3,
+    "DonGia": 1349000.0
+  },
+  {
+    "MaCTHD": 249,
+    "MaHD": 82,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chăm Sóc Toàn Thân Tinh Chất Ngọc Trai Biển (Gói Cao Cấp #118) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 508000.0
+  },
+  {
+    "MaCTHD": 250,
+    "MaHD": 82,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #98) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 1176000.0
+  },
+  {
+    "MaCTHD": 265,
+    "MaHD": 87,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #1474 (5 đêm)",
+    "SoLuong": 5,
+    "DonGia": 1718000.0
+  },
+  {
+    "MaCTHD": 266,
+    "MaHD": 87,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Bấm Huyệt Ngải Cứu Đông Y Toàn Thân (Spa)",
+    "SoLuong": 2,
+    "DonGia": 1234000.0
+  },
+  {
+    "MaCTHD": 304,
+    "MaHD": 105,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #1474 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 3251000.0
+  },
+  {
+    "MaCTHD": 305,
+    "MaHD": 105,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Khám Phá Quần Thể Di Sản Tràng An Ninh Bình (Gói Cao Cấp #523) (Tour)",
+    "SoLuong": 1,
+    "DonGia": 604000.0
+  },
+  {
+    "MaCTHD": 306,
+    "MaHD": 105,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Liệu Trình Giảm Mỡ Bụng Đông Y Đắp Cao Thảo Dược (Gói Cao Cấp #204) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 1023000.0
+  },
+  {
+    "MaCTHD": 369,
+    "MaHD": 128,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #26 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 3165000.0
+  },
+  {
+    "MaCTHD": 370,
+    "MaHD": 128,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tẩy Tế Bào Chết Cà Phê Đắk Lắk & Dầu Dừa Bến Tre (Gói Cao Cấp #146) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 255000.0
+  },
+  {
+    "MaCTHD": 394,
+    "MaHD": 137,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #58 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 2391000.0
+  },
+  {
+    "MaCTHD": 395,
+    "MaHD": 137,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #909) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 1111000.0
+  },
+  {
+    "MaCTHD": 502,
+    "MaHD": 176,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #68 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 2829000.0
+  },
+  {
+    "MaCTHD": 503,
+    "MaHD": 176,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #487) (Nhà hàng)",
+    "SoLuong": 3,
+    "DonGia": 1364000.0
+  },
+  {
+    "MaCTHD": 653,
+    "MaHD": 232,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #15 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 1889000.0
+  },
+  {
+    "MaCTHD": 654,
+    "MaHD": 232,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #758) (Tour)",
+    "SoLuong": 1,
+    "DonGia": 1776000.0
+  },
+  {
+    "MaCTHD": 655,
+    "MaHD": 232,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #98) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 536000.0
+  },
+  {
+    "MaCTHD": 669,
+    "MaHD": 238,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #54 (5 đêm)",
+    "SoLuong": 5,
+    "DonGia": 3828000.0
+  },
+  {
+    "MaCTHD": 670,
+    "MaHD": 238,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Quản Gia Riêng Phục Vụ 24/7 Phong Cách Hoàng Gia (Gói Cao Cấp #857) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 1261000.0
+  },
+  {
+    "MaCTHD": 671,
+    "MaHD": 238,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #26) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 1349000.0
+  },
+  {
+    "MaCTHD": 728,
+    "MaHD": 258,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #27 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 4705000.0
+  },
+  {
+    "MaCTHD": 729,
+    "MaHD": 258,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Dọn Phòng Nhanh Theo Yêu Cầu Express Housekeeping (Gói Cao Cấp #974) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 534000.0
+  },
+  {
+    "MaCTHD": 730,
+    "MaHD": 258,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bánh Mì Kẹp Thịt Nướng Bơ Tỏi Đặc Sản Phố Cổ (Gói Cao Cấp #373) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 788000.0
+  },
+  {
+    "MaCTHD": 801,
+    "MaHD": 285,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #32 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 1810000.0
+  },
+  {
+    "MaCTHD": 802,
+    "MaHD": 285,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Khám Phá Quần Thể Di Sản Tràng An Ninh Bình (Gói Cao Cấp #530) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 1369000.0
+  },
+  {
+    "MaCTHD": 803,
+    "MaHD": 285,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #886) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 475000.0
+  },
+  {
+    "MaCTHD": 876,
+    "MaHD": 314,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #69 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 1766000.0
+  },
+  {
+    "MaCTHD": 877,
+    "MaHD": 314,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Liệu Trình Giảm Mỡ Bụng Đông Y Đắp Cao Thảo Dược (Gói Cao Cấp #205) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 342000.0
+  },
+  {
+    "MaCTHD": 878,
+    "MaHD": 314,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #707) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 851000.0
+  },
+  {
+    "MaCTHD": 891,
+    "MaHD": 319,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #48 (5 đêm)",
+    "SoLuong": 5,
+    "DonGia": 4358000.0
+  },
+  {
+    "MaCTHD": 892,
+    "MaHD": 319,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Nem Nướng Nha Trang Cuốn Bánh Tráng Nước Lèo (Gói Cao Cấp #414) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 1303000.0
+  },
+  {
+    "MaCTHD": 893,
+    "MaHD": 319,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #53) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 857000.0
+  },
+  {
+    "MaCTHD": 905,
+    "MaHD": 324,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #3 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 2856000.0
+  },
+  {
+    "MaCTHD": 906,
+    "MaHD": 324,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #890) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 894000.0
+  },
+  {
+    "MaCTHD": 950,
+    "MaHD": 343,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #37 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 3920000.0
+  },
+  {
+    "MaCTHD": 951,
+    "MaHD": 343,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #765) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 1488000.0
+  },
+  {
+    "MaCTHD": 952,
+    "MaHD": 343,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #291) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 529000.0
+  },
+  {
+    "MaCTHD": 953,
+    "MaHD": 343,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #947) (Khác)",
+    "SoLuong": 1,
+    "DonGia": 664000.0
+  },
+  {
+    "MaCTHD": 954,
+    "MaHD": 343,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Dọn Phòng Nhanh Theo Yêu Cầu Express Housekeeping (Gói Cao Cấp #969) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 505000.0
+  },
+  {
+    "MaCTHD": 970,
+    "MaHD": 352,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #20 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 1659000.0
+  },
+  {
+    "MaCTHD": 971,
+    "MaHD": 352,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #692) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 403000.0
+  },
+  {
+    "MaCTHD": 972,
+    "MaHD": 352,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Thám Hiểm Hang Động Phong Nha Kẻ Bàng (Gói Cao Cấp #561) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 1075000.0
+  },
+  {
+    "MaCTHD": 973,
+    "MaHD": 352,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lớp Học Nấu Ăn Ẩm Thực Việt Nam Cùng Bếp Trưởng 5 Sao (Gói Cao Cấp #924) (Khác)",
+    "SoLuong": 1,
+    "DonGia": 1588000.0
+  },
+  {
+    "MaCTHD": 1042,
+    "MaHD": 378,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #7 (5 đêm)",
+    "SoLuong": 5,
+    "DonGia": 2422000.0
+  },
+  {
+    "MaCTHD": 1043,
+    "MaHD": 378,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #510) (Nhà hàng)",
+    "SoLuong": 3,
+    "DonGia": 1645000.0
+  },
+  {
+    "MaCTHD": 1044,
+    "MaHD": 378,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #953) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 1675000.0
+  },
+  {
+    "MaCTHD": 1165,
+    "MaHD": 418,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #62 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 3693000.0
+  },
+  {
+    "MaCTHD": 1166,
+    "MaHD": 418,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Quản Gia Riêng Phục Vụ 24/7 Phong Cách Hoàng Gia (Gói Cao Cấp #846) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 1593000.0
+  },
+  {
+    "MaCTHD": 1167,
+    "MaHD": 418,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Trị Liệu Chuông Xoay Tây Tạng Cân Bằng Năng Lượng (Gói Cao Cấp #70) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 530000.0
+  },
+  {
+    "MaCTHD": 1218,
+    "MaHD": 438,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #6 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 2172000.0
+  },
+  {
+    "MaCTHD": 1266,
+    "MaHD": 461,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #70 (5 đêm)",
+    "SoLuong": 5,
+    "DonGia": 3470000.0
+  },
+  {
+    "MaCTHD": 1314,
+    "MaHD": 479,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #54 (5 đêm)",
+    "SoLuong": 5,
+    "DonGia": 5154000.0
+  },
+  {
+    "MaCTHD": 1315,
+    "MaHD": 479,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Quản Gia Riêng Phục Vụ 24/7 Phong Cách Hoàng Gia (Gói Cao Cấp #844) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 1717000.0
+  },
+  {
+    "MaCTHD": 1429,
+    "MaHD": 524,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #62 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 2203000.0
+  },
+  {
+    "MaCTHD": 1430,
+    "MaHD": 524,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chả Cá Lã Vọng Hà Nội Bếp Cổ Truyền (Gói Cao Cấp #363) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 1706000.0
+  },
+  {
+    "MaCTHD": 1493,
+    "MaHD": 546,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #26 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 4012000.0
+  },
+  {
+    "MaCTHD": 1494,
+    "MaHD": 546,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Dọn Phòng Nhanh Theo Yêu Cầu Express Housekeeping (Gói Cao Cấp #989) (Khác)",
+    "SoLuong": 1,
+    "DonGia": 1063000.0
+  },
+  {
+    "MaCTHD": 1495,
+    "MaHD": 546,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #604) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 338000.0
+  },
+  {
+    "MaCTHD": 1530,
+    "MaHD": 562,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #57 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 3323000.0
+  },
+  {
+    "MaCTHD": 1531,
+    "MaHD": 562,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #217) (Spa)",
+    "SoLuong": 3,
+    "DonGia": 670000.0
+  },
+  {
+    "MaCTHD": 1532,
+    "MaHD": 562,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trông Giữ & Hướng Dẫn Kỹ Năng Cho Trẻ Em Kids Club (Gói Cao Cấp #839) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 446000.0
+  },
+  {
+    "MaCTHD": 1533,
+    "MaHD": 562,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Gỏi Cá Trích Phú Quốc Cuốn Bánh Tráng Rau Rừng (Gói Cao Cấp #338) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 1358000.0
+  },
+  {
+    "MaCTHD": 1534,
+    "MaHD": 562,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #46) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 312000.0
+  },
+  {
+    "MaCTHD": 1557,
+    "MaHD": 572,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #59 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 4217000.0
+  },
+  {
+    "MaCTHD": 1573,
+    "MaHD": 577,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #1 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 2629000.0
+  },
+  {
+    "MaCTHD": 1574,
+    "MaHD": 577,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #802) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 702000.0
+  },
+  {
+    "MaCTHD": 1634,
+    "MaHD": 598,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #67 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 4915000.0
+  },
+  {
+    "MaCTHD": 1635,
+    "MaHD": 598,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #642) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 1588000.0
+  },
+  {
+    "MaCTHD": 1655,
+    "MaHD": 606,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #60 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 3051000.0
+  },
+  {
+    "MaCTHD": 1656,
+    "MaHD": 606,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tẩy Tế Bào Chết Cà Phê Đắk Lắk & Dầu Dừa Bến Tre (Gói Cao Cấp #147) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1097000.0
+  },
+  {
+    "MaCTHD": 1657,
+    "MaHD": 606,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bê Chao Mộc Châu Sốt Tương Gừng Cay Nồng (Gói Cao Cấp #454) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 779000.0
+  },
+  {
+    "MaCTHD": 1658,
+    "MaHD": 606,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lớp Học Nấu Ăn Ẩm Thực Việt Nam Cùng Bếp Trưởng 5 Sao (Gói Cao Cấp #931) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 876000.0
+  },
+  {
+    "MaCTHD": 1685,
+    "MaHD": 618,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #8 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 3694000.0
+  },
+  {
+    "MaCTHD": 1686,
+    "MaHD": 618,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #912) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 1002000.0
+  },
+  {
+    "MaCTHD": 1687,
+    "MaHD": 618,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #25) (Spa)",
+    "SoLuong": 3,
+    "DonGia": 285000.0
+  },
+  {
+    "MaCTHD": 1688,
+    "MaHD": 618,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #471) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 1075000.0
+  },
+  {
+    "MaCTHD": 1699,
+    "MaHD": 622,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #13 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 3696000.0
+  },
+  {
+    "MaCTHD": 1700,
+    "MaHD": 622,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #467) (Nhà hàng)",
+    "SoLuong": 3,
+    "DonGia": 286000.0
+  },
+  {
+    "MaCTHD": 1823,
+    "MaHD": 672,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #42 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 3925000.0
+  },
+  {
+    "MaCTHD": 1824,
+    "MaHD": 672,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Cho Thuê Trang Phục Cổ Trang Việt Cổ & Áo Dài (Gói Cao Cấp #994) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 563000.0
+  },
+  {
+    "MaCTHD": 2006,
+    "MaHD": 749,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #15 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 2956000.0
+  },
+  {
+    "MaCTHD": 2007,
+    "MaHD": 749,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #953) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 998000.0
+  },
+  {
+    "MaCTHD": 2008,
+    "MaHD": 749,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #956) (Khác)",
+    "SoLuong": 1,
+    "DonGia": 1593000.0
+  },
+  {
+    "MaCTHD": 2009,
+    "MaHD": 749,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tẩy Tế Bào Chết Cà Phê Đắk Lắk & Dầu Dừa Bến Tre (Gói Cao Cấp #157) (Spa)",
+    "SoLuong": 4,
+    "DonGia": 1665000.0
+  },
+  {
+    "MaCTHD": 2010,
+    "MaHD": 749,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #733) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 1163000.0
+  },
+  {
+    "MaCTHD": 2011,
+    "MaHD": 749,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Cá Tầm Nóng Hổi Nấm Rừng Tây Bắc (Gói Cao Cấp #305) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 1155000.0
+  },
+  {
+    "MaCTHD": 2071,
+    "MaHD": 774,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #1 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 3137000.0
+  },
+  {
+    "MaCTHD": 2084,
+    "MaHD": 781,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #41 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 2744000.0
+  },
+  {
+    "MaCTHD": 2085,
+    "MaHD": 781,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Cá Tầm Nóng Hổi Nấm Rừng Tây Bắc (Gói Cao Cấp #298) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 1120000.0
+  },
+  {
+    "MaCTHD": 2182,
+    "MaHD": 817,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #29 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 2089000.0
+  },
+  {
+    "MaCTHD": 2183,
+    "MaHD": 817,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Xe Jeep Địa Hình Khám Phá Đồi Cát Trắng Mũi Né (Gói Cao Cấp #638) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 1174000.0
+  },
+  {
+    "MaCTHD": 2184,
+    "MaHD": 817,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #867) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 922000.0
+  },
+  {
+    "MaCTHD": 2185,
+    "MaHD": 817,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #111) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 695000.0
+  },
+  {
+    "MaCTHD": 2225,
+    "MaHD": 832,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #60 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 2991000.0
+  },
+  {
+    "MaCTHD": 2226,
+    "MaHD": 832,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #29) (Spa)",
+    "SoLuong": 3,
+    "DonGia": 1224000.0
+  },
+  {
+    "MaCTHD": 2265,
+    "MaHD": 846,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #35 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 2476000.0
+  },
+  {
+    "MaCTHD": 2266,
+    "MaHD": 846,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #724) (Tour)",
+    "SoLuong": 1,
+    "DonGia": 982000.0
+  },
+  {
+    "MaCTHD": 2267,
+    "MaHD": 846,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #66) (Spa)",
+    "SoLuong": 3,
+    "DonGia": 1437000.0
+  },
+  {
+    "MaCTHD": 2268,
+    "MaHD": 846,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #235) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 1131000.0
+  },
+  {
+    "MaCTHD": 2275,
+    "MaHD": 850,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #70 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 1823000.0
+  },
+  {
+    "MaCTHD": 2276,
+    "MaHD": 850,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #272) (Nhà hàng)",
+    "SoLuong": 3,
+    "DonGia": 612000.0
+  },
+  {
+    "MaCTHD": 2277,
+    "MaHD": 850,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #604) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 304000.0
+  },
+  {
+    "MaCTHD": 2278,
+    "MaHD": 851,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #36 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 2406000.0
+  },
+  {
+    "MaCTHD": 2279,
+    "MaHD": 851,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #650) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 743000.0
+  },
+  {
+    "MaCTHD": 2280,
+    "MaHD": 851,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #271) (Nhà hàng)",
+    "SoLuong": 3,
+    "DonGia": 646000.0
+  },
+  {
+    "MaCTHD": 2289,
+    "MaHD": 856,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #70 (5 đêm)",
+    "SoLuong": 5,
+    "DonGia": 3292000.0
+  },
+  {
+    "MaCTHD": 2290,
+    "MaHD": 856,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #475) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 788000.0
+  },
+  {
+    "MaCTHD": 2291,
+    "MaHD": 856,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #593) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 1491000.0
+  },
+  {
+    "MaCTHD": 2355,
+    "MaHD": 878,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #30 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 2784000.0
+  },
+  {
+    "MaCTHD": 2356,
+    "MaHD": 878,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #662) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 366000.0
+  },
+  {
+    "MaCTHD": 2357,
+    "MaHD": 878,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Thám Hiểm Hang Động Phong Nha Kẻ Bàng (Gói Cao Cấp #562) (Tour)",
+    "SoLuong": 2,
+    "DonGia": 1626000.0
+  },
+  {
+    "MaCTHD": 2358,
+    "MaHD": 878,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Trị Liệu Chuông Xoay Tây Tạng Cân Bằng Năng Lượng (Gói Cao Cấp #77) (Spa)",
+    "SoLuong": 2,
+    "DonGia": 1586000.0
+  },
+  {
+    "MaCTHD": 2359,
+    "MaHD": 878,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trông Giữ & Hướng Dẫn Kỹ Năng Cho Trẻ Em Kids Club (Gói Cao Cấp #827) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 878000.0
+  },
+  {
+    "MaCTHD": 2360,
+    "MaHD": 878,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Quản Gia Riêng Phục Vụ 24/7 Phong Cách Hoàng Gia (Gói Cao Cấp #863) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 1610000.0
+  },
+  {
+    "MaCTHD": 2361,
+    "MaHD": 878,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #739) (Tour)",
+    "SoLuong": 4,
+    "DonGia": 1795000.0
+  },
+  {
+    "MaCTHD": 2367,
+    "MaHD": 882,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #7 (5 đêm)",
+    "SoLuong": 5,
+    "DonGia": 2959000.0
+  },
+  {
+    "MaCTHD": 2368,
+    "MaHD": 882,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #648) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 1561000.0
+  },
+  {
+    "MaCTHD": 2369,
+    "MaHD": 882,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #765) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 1779000.0
+  },
+  {
+    "MaCTHD": 2443,
+    "MaHD": 910,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #34 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 1848000.0
+  },
+  {
+    "MaCTHD": 2444,
+    "MaHD": 911,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #1 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 2657000.0
+  },
+  {
+    "MaCTHD": 2445,
+    "MaHD": 911,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #226) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 369000.0
+  },
+  {
+    "MaCTHD": 2446,
+    "MaHD": 912,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #42 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 1593000.0
+  },
+  {
+    "MaCTHD": 2447,
+    "MaHD": 912,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #735) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 1652000.0
+  },
+  {
+    "MaCTHD": 2448,
+    "MaHD": 912,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Máy Khám Phá Thắng Cảnh Tự Túc (Gói Cao Cấp #773) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 1669000.0
+  },
+  {
+    "MaCTHD": 2449,
+    "MaHD": 912,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Gỏi Cá Trích Phú Quốc Cuốn Bánh Tráng Rau Rừng (Gói Cao Cấp #325) (Nhà hàng)",
+    "SoLuong": 3,
+    "DonGia": 1541000.0
+  },
+  {
+    "MaCTHD": 2450,
+    "MaHD": 912,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #806) (Khác)",
+    "SoLuong": 2,
+    "DonGia": 1349000.0
+  },
+  {
+    "MaCTHD": 2451,
+    "MaHD": 912,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Bánh Mì Kẹp Thịt Nướng Bơ Tỏi Đặc Sản Phố Cổ (Gói Cao Cấp #388) (Nhà hàng)",
+    "SoLuong": 4,
+    "DonGia": 1749000.0
+  },
+  {
+    "MaCTHD": 2452,
+    "MaHD": 912,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #737) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 1527000.0
+  },
+  {
+    "MaCTHD": 2486,
+    "MaHD": 927,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #36 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 2299000.0
+  },
+  {
+    "MaCTHD": 2487,
+    "MaHD": 927,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #910) (Khác)",
+    "SoLuong": 4,
+    "DonGia": 1181000.0
+  },
+  {
+    "MaCTHD": 2689,
+    "MaHD": 1005,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #35 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 4826000.0
+  },
+  {
+    "MaCTHD": 2690,
+    "MaHD": 1005,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Chèo Thuyền Kayak Vịnh Lan Hạ Đảo Cát Bà (Gói Cao Cấp #680) (Tour)",
+    "SoLuong": 1,
+    "DonGia": 1486000.0
+  },
+  {
+    "MaCTHD": 2697,
+    "MaHD": 1009,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #54 (4 đêm)",
+    "SoLuong": 4,
+    "DonGia": 4140000.0
+  },
+  {
+    "MaCTHD": 2698,
+    "MaHD": 1009,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #24) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 999000.0
+  },
+  {
+    "MaCTHD": 2699,
+    "MaHD": 1009,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #505) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 654000.0
+  },
+  {
+    "MaCTHD": 2854,
+    "MaHD": 1068,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #27 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 4765000.0
+  },
+  {
+    "MaCTHD": 2910,
+    "MaHD": 1090,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #55 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 2719000.0
+  },
+  {
+    "MaCTHD": 2911,
+    "MaHD": 1090,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #594) (Tour)",
+    "SoLuong": 3,
+    "DonGia": 542000.0
+  },
+  {
+    "MaCTHD": 2971,
+    "MaHD": 1112,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #52 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 2567000.0
+  },
+  {
+    "MaCTHD": 2972,
+    "MaHD": 1112,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #812) (Khác)",
+    "SoLuong": 3,
+    "DonGia": 1607000.0
+  },
+  {
+    "MaCTHD": 2973,
+    "MaHD": 1112,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #724) (Tour)",
+    "SoLuong": 1,
+    "DonGia": 882000.0
+  },
+  {
+    "MaCTHD": 2974,
+    "MaHD": 1112,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Liệu Trình Giảm Mỡ Bụng Đông Y Đắp Cao Thảo Dược (Gói Cao Cấp #205) (Spa)",
+    "SoLuong": 1,
+    "DonGia": 1736000.0
+  },
+  {
+    "MaCTHD": 2975,
+    "MaHD": 1112,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Chả Cá Lã Vọng Hà Nội Bếp Cổ Truyền (Gói Cao Cấp #349) (Nhà hàng)",
+    "SoLuong": 3,
+    "DonGia": 1550000.0
+  },
+  {
+    "MaCTHD": 3098,
+    "MaHD": 1157,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #68 (2 đêm)",
+    "SoLuong": 2,
+    "DonGia": 4298000.0
+  },
+  {
+    "MaCTHD": 3099,
+    "MaHD": 1157,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Nem Nướng Nha Trang Cuốn Bánh Tráng Nước Lèo (Gói Cao Cấp #406) (Nhà hàng)",
+    "SoLuong": 2,
+    "DonGia": 1404000.0
+  },
+  {
+    "MaCTHD": 3100,
+    "MaHD": 1157,
+    "LoaiKhoanThu": "Dịch vụ",
+    "MoTa": "Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #472) (Nhà hàng)",
+    "SoLuong": 1,
+    "DonGia": 585000.0
+  },
+  {
+    "MaCTHD": 3147,
+    "MaHD": 1177,
+    "LoaiKhoanThu": "Tiền phòng",
+    "MoTa": "Tiền thuê phòng #45 (3 đêm)",
+    "SoLuong": 3,
+    "DonGia": 1956000.0
+  }
+]

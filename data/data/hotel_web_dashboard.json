@@ -1,0 +1,559 @@
+{
+  "summary": {
+    "total_branches": 1000,
+    "total_rooms": 1500,
+    "total_room_types": 1000,
+    "total_services": 1000,
+    "total_customers": 1200,
+    "total_bookings": 1200,
+    "total_revenue": 20935715000.0,
+    "total_parks": 1000,
+    "total_etickets": 2000,
+    "total_combos": 1000,
+    "total_vouchers": 1000,
+    "total_payment_txns": 1500,
+    "total_online_revenue": 32675554000.0
+  },
+  "branches_sample": [
+    {
+      "MaCN": 1,
+      "TenCN": "Chi nhánh 1 - Grand Hanoi Hotel & Spa (Hà Nội)",
+      "DiaChi": "Số 120 Hoàng Hoa Thám, Phường Thụy Khuê, Quận Ba Đình, Hà Nội",
+      "SDT": "02439998888",
+      "Email": "hanoi.grand@luxuryresort.vn"
+    },
+    {
+      "MaCN": 2,
+      "TenCN": "Chi nhánh 2 - Danang Beachfront Luxury Resort (Đà Nẵng)",
+      "DiaChi": "Số 50 Võ Nguyên Giáp, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, TP. Đà Nẵng",
+      "SDT": "02363999999",
+      "Email": "danang.beach@luxuryresort.vn"
+    },
+    {
+      "MaCN": 3,
+      "TenCN": "Chi nhánh 3 - Phu Quoc Emerald Bay Retreat (Phú Quốc)",
+      "DiaChi": "Khu Du Lịch Sinh Thái Bãi Trường, Xã Dương Tơ, TP. Phú Quốc, Tỉnh Kiên Giang",
+      "SDT": "02973888888",
+      "Email": "phuquoc.emerald@luxuryresort.vn"
+    },
+    {
+      "MaCN": 4,
+      "TenCN": "Chi nhánh 4 - Nha Trang Ocean Pearl Resort (Nha Trang)",
+      "DiaChi": "Số 78 Trần Phú, Phường Lộc Thọ, TP. Nha Trang, Tỉnh Khánh Hòa",
+      "SDT": "02583889999",
+      "Email": "nhatrang.pearl@luxuryresort.vn"
+    },
+    {
+      "MaCN": 5,
+      "TenCN": "Chi nhánh 5 - Sapa Misty Mountain Resort & Spa (Sa Pa)",
+      "DiaChi": "Thung Lũng Mường Hoa, Phường Cầu Mây, Thị Xã Sa Pa, Tỉnh Lào Cai",
+      "SDT": "02143778899",
+      "Email": "sapa.misty@luxuryresort.vn"
+    },
+    {
+      "MaCN": 6,
+      "TenCN": "Chi nhánh 6 - Dalat Pine Forest Palace (Đà Lạt)",
+      "DiaChi": "Số 15 Trần Hưng Đạo, Phường 10, TP. Đà Lạt, Tỉnh Lâm Đồng",
+      "SDT": "02633887766",
+      "Email": "dalat.pine@luxuryresort.vn"
+    },
+    {
+      "MaCN": 7,
+      "TenCN": "Chi nhánh 7 - Duy Xuyên Ocean View Residence (Quảng Nam)",
+      "DiaChi": "Số 674 Đường Nguyễn Du, Duy Xuyên, Tỉnh/TP. Quảng Nam",
+      "SDT": "02234746093",
+      "Email": "chinhanh7.quảngnam@luxuryresort.vn"
+    },
+    {
+      "MaCN": 8,
+      "TenCN": "Chi nhánh 8 - Thung Nai - Hồ Hòa Bình Lagoon Villas & Suites (Hòa Bình)",
+      "DiaChi": "Số 612 Đường Bùi Thị Xuân, Thung Nai - Hồ Hòa Bình, Tỉnh/TP. Hòa Bình",
+      "SDT": "02665025425",
+      "Email": "chinhanh8.hòabình@luxuryresort.vn"
+    },
+    {
+      "MaCN": 9,
+      "TenCN": "Chi nhánh 9 - Ba Đình Heritage Grand Hotel (Hà Nội)",
+      "DiaChi": "Số 112 Đường Nguyễn Thị Minh Khai, Ba Đình, Tỉnh/TP. Hà Nội",
+      "SDT": "02671192750",
+      "Email": "chinhanh9.hànội@luxuryresort.vn"
+    },
+    {
+      "MaCN": 10,
+      "TenCN": "Chi nhánh 10 - Bãi Lữ Colonial Historic Hotel (Nghệ An)",
+      "DiaChi": "Số 227 Đường Phạm Văn Đồng, Bãi Lữ, Tỉnh/TP. Nghệ An",
+      "SDT": "02605219689",
+      "Email": "chinhanh10.nghệan@luxuryresort.vn"
+    }
+  ],
+  "room_types_sample": [
+    {
+      "MaLP": 1,
+      "TenLP": "Standard Room",
+      "MoTa": "Phòng tiêu chuẩn ấm cúng 28m2, giường Queen êm ái, phòng tắm đứng vòi sen nóng lạnh, truyền hình cáp thông minh, view sân vườn nhiệt đới thanh bình.",
+      "SucChua": 2
+    },
+    {
+      "MaLP": 2,
+      "TenLP": "Superior Garden View",
+      "MoTa": "Phòng cao cấp 36m2 hướng vườn hoa bốn mùa, ban công riêng đón gió mát tự nhiên, trang bị bồn tắm nằm cao cấp, minibar trà sen Tây Hồ miễn phí.",
+      "SucChua": 2
+    },
+    {
+      "MaLP": 3,
+      "TenLP": "Deluxe Ocean View",
+      "MoTa": "Phòng sang trọng 48m2 trực diện biển với vách kính panorama kịch trần, giường King đệm lông vũ, bồn tắm sục đôi jacuzzi ngắm hoàng hôn vịnh biển.",
+      "SucChua": 2
+    },
+    {
+      "MaLP": 4,
+      "TenLP": "Executive Family Suite",
+      "MoTa": "Căn hộ suite gia đình 78m2 gồm 1 phòng khách thanh lịch, 2 phòng ngủ độc lập, bàn ăn ấm cúng và quầy pha chế tiện nghi cho kỳ nghỉ cả nhà.",
+      "SucChua": 4
+    },
+    {
+      "MaLP": 5,
+      "TenLP": "Suite Bungalow",
+      "MoTa": "Bungalow biệt lập 95m2 hòa mình giữa thiên nhiên, hồ bơi riêng tràn bờ mini, sân tắm nắng riêng tư và lối đi bộ trải sỏi thẳng ra bãi biển cát trắng.",
+      "SucChua": 4
+    },
+    {
+      "MaLP": 6,
+      "TenLP": "President",
+      "MoTa": "Phòng Tổng Thống vương giả 180m2 trên tầng cao nhất, phòng khách đại sảnh bài trí tranh sơn mài và đồ đồng tinh xảo, thang máy riêng, quản gia phục vụ 24/7.",
+      "SucChua": 4
+    },
+    {
+      "MaLP": 7,
+      "TenLP": "Royal Penthouse",
+      "MoTa": "Dinh thự hoàng gia trên mây 320m2 với hồ bơi chân mây vô cực view 360 độ ngắm trọn biển trời, phòng chiếu phim tư nhân, quầy bar thưởng thức rượu vang hảo hạng.",
+      "SucChua": 6
+    },
+    {
+      "MaLP": 8,
+      "TenLP": "Phòng Tiêu Chuẩn Hướng Biển (Phong Cách Đông Dương Indochine #8)",
+      "MoTa": "Phòng Tiêu Chuẩn diện tích rộng rãi mang Phong Cách Đông Dương Indochine (nội thất gỗ gụ, gạch bông cổ điển và quạt trần mây tre đan). Vị trí hướng biển giúp quý khách ngắm trọn làn nước biển trong xanh và đón gió đại dương mát lành. Không gian ấm cúng, đầy đủ tiện nghi, phù hợp cặp đôi và khách công tác.",
+      "SucChua": 2
+    },
+    {
+      "MaLP": 9,
+      "TenLP": "Phòng Tiêu Chuẩn Hướng Biển (Phong Cách Thuần Việt Dân Gian #9)",
+      "MoTa": "Phòng Tiêu Chuẩn diện tích rộng rãi mang Phong Cách Thuần Việt Dân Gian (sử dụng vật liệu tre nứa, nón lá trang trí và gốm sứ Bát Tràng). Vị trí hướng biển giúp quý khách ngắm trọn làn nước biển trong xanh và đón gió đại dương mát lành. Không gian ấm cúng, đầy đủ tiện nghi, phù hợp cặp đôi và khách công tác.",
+      "SucChua": 2
+    },
+    {
+      "MaLP": 10,
+      "TenLP": "Phòng Tiêu Chuẩn Hướng Biển (Phong Cách Hiện Đại Sang Trọng #10)",
+      "MoTa": "Phòng Tiêu Chuẩn diện tích rộng rãi mang Phong Cách Hiện Đại Sang Trọng (đường nét tối giản tinh tế, thiết bị thông minh smart-room điều khiển tự động). Vị trí hướng biển giúp quý khách ngắm trọn làn nước biển trong xanh và đón gió đại dương mát lành. Không gian ấm cúng, đầy đủ tiện nghi, phù hợp cặp đôi và khách công tác.",
+      "SucChua": 2
+    }
+  ],
+  "services_sample": [
+    {
+      "MaDV": 1,
+      "TenDV": "Massage Bấm Huyệt Ngải Cứu Đông Y Toàn Thân",
+      "LoaiDV": "Spa",
+      "MoTa": "Liệu pháp bấm huyệt cổ truyền kết hợp túi ngải cứu sao muối gừng tươi, giải tỏa căng thẳng cơ bắp và đả thông kinh lạc trong 90 phút."
+    },
+    {
+      "MaDV": 2,
+      "TenDV": "Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya",
+      "LoaiDV": "Spa",
+      "MoTa": "Phòng xông hơi đá muối khoáng hồng Himalaya nguyên khối giải phóng ion âm thanh lọc đường hô hấp, đào thải độc tố và mang lại giấc ngủ sâu."
+    },
+    {
+      "MaDV": 3,
+      "TenDV": "Tắm Khoáng Nóng Thảo Dược Người Dao Đỏ Sa Pa",
+      "LoaiDV": "Spa",
+      "MoTa": "Bài thuốc tắm gia truyền hơn 30 vị lá quý ngâm trong bồn gỗ pơ mu bốc hơi nghi ngút, phục hồi sinh lực và xua tan mệt mỏi tức thì."
+    },
+    {
+      "MaDV": 4,
+      "TenDV": "Chăm Sóc & Trẻ Hóa Da Mặt Tinh Chất Sen Tây Hồ",
+      "LoaiDV": "Spa",
+      "MoTa": "Quy trình chăm sóc da mặt chuyên sâu chiết xuất từ tinh dầu hoa sen bách diệp Hồ Tây, cấp ẩm đa tầng và làm sáng hồng làn da."
+    },
+    {
+      "MaDV": 5,
+      "TenDV": "Gội Đầu Dưỡng Sinh Thảo Mộc Bồ Kết Sả Chanh",
+      "LoaiDV": "Spa",
+      "MoTa": "Gội đầu thảo dược đun từ bồ kết, hương nhu, vỏ bưởi kết hợp massage bấm huyệt vùng đầu cổ vai gáy giảm đau đầu căng thẳng."
+    },
+    {
+      "MaDV": 6,
+      "TenDV": "Đại Tiệc Buffet Hải Sản Tôm Hùm & Cua Hoàng Đế",
+      "LoaiDV": "Nhà hàng",
+      "MoTa": "Buffet tối thượng hạng hơn 80 món: tôm hùm nướng phô mai, cua huỳnh đế hấp nước dừa, hàu nướng mỡ hành, cá hồi sashimi và quầy bánh ngọt phong phú."
+    },
+    {
+      "MaDV": 7,
+      "TenDV": "Bữa Tối Nến Lãng Mạn Bò Wagyu A5 & Rượu Vang Đỏ",
+      "LoaiDV": "Nhà hàng",
+      "MoTa": "Set menu 5 món chuẩn phong cách fine-dining: Bò Wagyu A5 áp chảo gan ngỗng béo ngậy, súp nấm cục truffle và rượu vang Bordeaux bên bờ biển."
+    },
+    {
+      "MaDV": 8,
+      "TenDV": "Set Trà Chiều Cung Đình Huế & Bánh Đậu Xanh",
+      "LoaiDV": "Nhà hàng",
+      "MoTa": "Thưởng thức trà sen cung đình Huế thanh tao, bánh đậu xanh trái cây ngũ sắc, mứt sen trần và các loại bánh ngọt truyền thống tinh tế."
+    },
+    {
+      "MaDV": 9,
+      "TenDV": "Tiệc Nướng BBQ Hải Sản Tươi Sống Sân Vườn Biệt Thự",
+      "LoaiDV": "Nhà hàng",
+      "MoTa": "Đầu bếp resort nướng trực tiếp tại villa: ghẹ xanh nướng muối ớt, mực ống một nắng, sườn cừu ướp thảo mộc và rau củ Đà Lạt nướng than hoa."
+    },
+    {
+      "MaDV": 10,
+      "TenDV": "Bữa Sáng Nổi Khay Gỗ Hồ Bơi Floating Breakfast",
+      "LoaiDV": "Nhà hàng",
+      "MoTa": "Khay đồ ăn sáng nổi bềnh bồng trên mặt nước hồ bơi: bánh sừng bò giòn rụm, trứng cá hồi xông khói, nước ép hoa quả nhiệt đới và cà phê phin đậm đà."
+    }
+  ],
+  "parks_sample": [
+    {
+      "MaKhu": 1,
+      "MaCN": 1,
+      "TenKhu": "VinWonders Grand Theme Park (Phân khu #1)",
+      "LoaiKhu": "Công viên chủ đề",
+      "GioMoCua": "08:00:00",
+      "GioDongCua": "21:00:00",
+      "MoTa": "VinWonders Grand Theme Park (Phân khu #1): Khu vui chơi giải trí chủ đề quy mô hàng đầu Đông Nam Á với hơn 100 trò chơi cảm giác mạnh, rạp phim bay 5D và show diễn triệu đô Tata Show."
+    },
+    {
+      "MaKhu": 2,
+      "MaCN": 2,
+      "TenKhu": "Vinpearl Safari Bán Hoang Dã (Phân khu #2)",
+      "LoaiKhu": "Safari bán hoang dã",
+      "GioMoCua": "08:30:00",
+      "GioDongCua": "16:30:00",
+      "MoTa": "Vinpearl Safari Bán Hoang Dã (Phân khu #2): Công viên bảo tồn và chăm sóc động vật hoang dã lớn nhất Việt Nam, trải nghiệm xe bus chuyên dụng đi giữa đàn hổ Bengal, sư tử và hươu cao cổ."
+    },
+    {
+      "MaKhu": 3,
+      "MaCN": 3,
+      "TenKhu": "Typhoon Water Park & Vịnh Sóng Thần (Phân khu #3)",
+      "LoaiKhu": "Công viên nước",
+      "GioMoCua": "09:00:00",
+      "GioDongCua": "18:00:00",
+      "MoTa": "Typhoon Water Park & Vịnh Sóng Thần (Phân khu #3): Tổ hợp công viên nước khổng lồ với bể tạo sóng thần nhân tạo, cụm đường trượt lốc xoáy boomerang và sông lười thư giãn nhiệt đới."
+    },
+    {
+      "MaKhu": 4,
+      "MaCN": 4,
+      "TenKhu": "Cung Điện Hải Vương & Thủy Cung Khổng Lồ (Phân khu #4)",
+      "LoaiKhu": "Thủy cung",
+      "GioMoCua": "09:00:00",
+      "GioDongCua": "20:00:00",
+      "MoTa": "Cung Điện Hải Vương & Thủy Cung Khổng Lồ (Phân khu #4): Thủy cung mang biểu tượng rùa biển lọt top 5 thế giới, chiêm ngưỡng hơn 300 loài sinh vật biển quý hiếm và show biểu diễn nàng tiên cá."
+    },
+    {
+      "MaKhu": 5,
+      "MaCN": 5,
+      "TenKhu": "Tuyến Cáp Treo Vượt Biển Kỷ Lục (Phân khu #5)",
+      "LoaiKhu": "Cáp treo",
+      "GioMoCua": "08:30:00",
+      "GioDongCua": "19:00:00",
+      "MoTa": "Tuyến Cáp Treo Vượt Biển Kỷ Lục (Phân khu #5): Tuyến cáp treo 3 dây vượt biển dài kỷ lục thế giới nối liền đất liền ra quần đảo ngắm toàn cảnh đại dương xanh ngọc bích từ trên cao."
+    },
+    {
+      "MaKhu": 6,
+      "MaCN": 6,
+      "TenKhu": "Grand World Thành Phố Không Ngủ (Phân khu #6)",
+      "LoaiKhu": "Khu giải trí tổng hợp",
+      "GioMoCua": "07:00:00",
+      "GioDongCua": "23:59:00",
+      "MoTa": "Grand World Thành Phố Không Ngủ (Phân khu #6): Thành phố lễ hội rực rỡ 24/7 với kênh đào Venice lãng mạn ngồi thuyền Gondola, bảo tàng gấu Teddy và show nhạc nước Tinh Hoa Việt Nam."
+    },
+    {
+      "MaKhu": 7,
+      "MaCN": 7,
+      "TenKhu": "VinWonders Grand Theme Park (Phân khu #7)",
+      "LoaiKhu": "Công viên chủ đề",
+      "GioMoCua": "08:00:00",
+      "GioDongCua": "21:00:00",
+      "MoTa": "VinWonders Grand Theme Park (Phân khu #7): Khu vui chơi giải trí chủ đề quy mô hàng đầu Đông Nam Á với hơn 100 trò chơi cảm giác mạnh, rạp phim bay 5D và show diễn triệu đô Tata Show."
+    },
+    {
+      "MaKhu": 8,
+      "MaCN": 8,
+      "TenKhu": "Vinpearl Safari Bán Hoang Dã (Phân khu #8)",
+      "LoaiKhu": "Safari bán hoang dã",
+      "GioMoCua": "08:30:00",
+      "GioDongCua": "16:30:00",
+      "MoTa": "Vinpearl Safari Bán Hoang Dã (Phân khu #8): Công viên bảo tồn và chăm sóc động vật hoang dã lớn nhất Việt Nam, trải nghiệm xe bus chuyên dụng đi giữa đàn hổ Bengal, sư tử và hươu cao cổ."
+    },
+    {
+      "MaKhu": 9,
+      "MaCN": 9,
+      "TenKhu": "Typhoon Water Park & Vịnh Sóng Thần (Phân khu #9)",
+      "LoaiKhu": "Công viên nước",
+      "GioMoCua": "09:00:00",
+      "GioDongCua": "18:00:00",
+      "MoTa": "Typhoon Water Park & Vịnh Sóng Thần (Phân khu #9): Tổ hợp công viên nước khổng lồ với bể tạo sóng thần nhân tạo, cụm đường trượt lốc xoáy boomerang và sông lười thư giãn nhiệt đới."
+    },
+    {
+      "MaKhu": 10,
+      "MaCN": 10,
+      "TenKhu": "Cung Điện Hải Vương & Thủy Cung Khổng Lồ (Phân khu #10)",
+      "LoaiKhu": "Thủy cung",
+      "GioMoCua": "09:00:00",
+      "GioDongCua": "20:00:00",
+      "MoTa": "Cung Điện Hải Vương & Thủy Cung Khổng Lồ (Phân khu #10): Thủy cung mang biểu tượng rùa biển lọt top 5 thế giới, chiêm ngưỡng hơn 300 loài sinh vật biển quý hiếm và show biểu diễn nàng tiên cá."
+    }
+  ],
+  "combos_sample": [
+    {
+      "MaCombo": 1,
+      "MaCN": 1,
+      "MaLP": 1,
+      "TenCombo": "Combo Nghỉ Dưỡng Thiên Đường 3N2Đ: Phòng Deluxe + Vé Vui Chơi & Safari + 3 Bữa Buffet (Chi nhánh #1)",
+      "SoNgayLuuTru": 3,
+      "BaoGomVeVuiChoi": true,
+      "BaoGomBuffet": true,
+      "BaoGomDonSanBay": true,
+      "GiaGoi": 11700000.0,
+      "MoTa": "Gói kỳ nghỉ trọn gói 3 ngày 2 đêm: 02 đêm phòng Deluxe hướng biển, vé vui chơi không giới hạn VinWonders & Safari, trọn gói 03 bữa ăn buffet Á - Âu thượng hạng và xe riêng đón tiễn sân bay."
+    },
+    {
+      "MaCombo": 2,
+      "MaCN": 2,
+      "MaLP": 2,
+      "TenCombo": "Combo Siêu Trải Nghiệm 4N3Đ: Biệt Thự Hồ Bơi Riêng + Trọn Gói Công Viên Nước & Cáp Treo (Chi nhánh #2)",
+      "SoNgayLuuTru": 4,
+      "BaoGomVeVuiChoi": true,
+      "BaoGomBuffet": true,
+      "BaoGomDonSanBay": true,
+      "GiaGoi": 22200000.0,
+      "MoTa": "Kỳ nghỉ đẳng cấp 4 ngày 3 đêm tại biệt thự có hồ bơi riêng, vé cáp treo vượt biển, vé công viên nước không giới hạn và tiệc nướng BBQ hải sản phục vụ riêng tại villa."
+    },
+    {
+      "MaCombo": 3,
+      "MaCN": 3,
+      "MaLP": 3,
+      "TenCombo": "Combo Trăng Mật Lãng Mạn 3N2Đ: Suite Hướng Biển + Bữa Tối Nến Rượu Vang & Spa Đôi (Chi nhánh #3)",
+      "SoNgayLuuTru": 3,
+      "BaoGomVeVuiChoi": true,
+      "BaoGomBuffet": true,
+      "BaoGomDonSanBay": true,
+      "GiaGoi": 14800000.0,
+      "MoTa": "Gói trăng mật ngọt ngào: phòng Suite trang trí hoa tươi nến thơm, set menu bữa tối nến lãng mạn bên bãi biển cùng vang Pháp, liệu trình massage đôi Aroma Honeymoon 90 phút."
+    },
+    {
+      "MaCombo": 4,
+      "MaCN": 4,
+      "MaLP": 4,
+      "TenCombo": "Combo Gia Đình Gắn Kết 3N2Đ: Executive Family Suite + Vé Vui Chơi Cho Cả Nhà (Chi nhánh #4)",
+      "SoNgayLuuTru": 3,
+      "BaoGomVeVuiChoi": true,
+      "BaoGomBuffet": true,
+      "BaoGomDonSanBay": true,
+      "GiaGoi": 17300000.0,
+      "MoTa": "Thiết kế riêng cho gia đình 4 người: căn hộ suite 2 phòng ngủ ấm cúng, 4 vé vào cổng toàn khu công viên chủ đề, miễn phí câu lạc bộ trẻ em Kids Club và buffet sáng mỗi ngày."
+    },
+    {
+      "MaCombo": 5,
+      "MaCN": 5,
+      "MaLP": 5,
+      "TenCombo": "Combo Nghỉ Dưỡng Thiên Đường 3N2Đ: Phòng Deluxe + Vé Vui Chơi & Safari + 3 Bữa Buffet (Chi nhánh #5)",
+      "SoNgayLuuTru": 3,
+      "BaoGomVeVuiChoi": true,
+      "BaoGomBuffet": true,
+      "BaoGomDonSanBay": true,
+      "GiaGoi": 12500000.0,
+      "MoTa": "Gói kỳ nghỉ trọn gói 3 ngày 2 đêm: 02 đêm phòng Deluxe hướng biển, vé vui chơi không giới hạn VinWonders & Safari, trọn gói 03 bữa ăn buffet Á - Âu thượng hạng và xe riêng đón tiễn sân bay."
+    },
+    {
+      "MaCombo": 6,
+      "MaCN": 6,
+      "MaLP": 6,
+      "TenCombo": "Combo Siêu Trải Nghiệm 4N3Đ: Biệt Thự Hồ Bơi Riêng + Trọn Gói Công Viên Nước & Cáp Treo (Chi nhánh #6)",
+      "SoNgayLuuTru": 4,
+      "BaoGomVeVuiChoi": true,
+      "BaoGomBuffet": true,
+      "BaoGomDonSanBay": true,
+      "GiaGoi": 23000000.0,
+      "MoTa": "Kỳ nghỉ đẳng cấp 4 ngày 3 đêm tại biệt thự có hồ bơi riêng, vé cáp treo vượt biển, vé công viên nước không giới hạn và tiệc nướng BBQ hải sản phục vụ riêng tại villa."
+    },
+    {
+      "MaCombo": 7,
+      "MaCN": 7,
+      "MaLP": 7,
+      "TenCombo": "Combo Trăng Mật Lãng Mạn 3N2Đ: Suite Hướng Biển + Bữa Tối Nến Rượu Vang & Spa Đôi (Chi nhánh #7)",
+      "SoNgayLuuTru": 3,
+      "BaoGomVeVuiChoi": true,
+      "BaoGomBuffet": true,
+      "BaoGomDonSanBay": true,
+      "GiaGoi": 15600000.0,
+      "MoTa": "Gói trăng mật ngọt ngào: phòng Suite trang trí hoa tươi nến thơm, set menu bữa tối nến lãng mạn bên bãi biển cùng vang Pháp, liệu trình massage đôi Aroma Honeymoon 90 phút."
+    },
+    {
+      "MaCombo": 8,
+      "MaCN": 8,
+      "MaLP": 8,
+      "TenCombo": "Combo Gia Đình Gắn Kết 3N2Đ: Executive Family Suite + Vé Vui Chơi Cho Cả Nhà (Chi nhánh #8)",
+      "SoNgayLuuTru": 3,
+      "BaoGomVeVuiChoi": true,
+      "BaoGomBuffet": true,
+      "BaoGomDonSanBay": true,
+      "GiaGoi": 18100000.0,
+      "MoTa": "Thiết kế riêng cho gia đình 4 người: căn hộ suite 2 phòng ngủ ấm cúng, 4 vé vào cổng toàn khu công viên chủ đề, miễn phí câu lạc bộ trẻ em Kids Club và buffet sáng mỗi ngày."
+    },
+    {
+      "MaCombo": 9,
+      "MaCN": 9,
+      "MaLP": 9,
+      "TenCombo": "Combo Nghỉ Dưỡng Thiên Đường 3N2Đ: Phòng Deluxe + Vé Vui Chơi & Safari + 3 Bữa Buffet (Chi nhánh #9)",
+      "SoNgayLuuTru": 3,
+      "BaoGomVeVuiChoi": true,
+      "BaoGomBuffet": true,
+      "BaoGomDonSanBay": true,
+      "GiaGoi": 13300000.0,
+      "MoTa": "Gói kỳ nghỉ trọn gói 3 ngày 2 đêm: 02 đêm phòng Deluxe hướng biển, vé vui chơi không giới hạn VinWonders & Safari, trọn gói 03 bữa ăn buffet Á - Âu thượng hạng và xe riêng đón tiễn sân bay."
+    },
+    {
+      "MaCombo": 10,
+      "MaCN": 10,
+      "MaLP": 10,
+      "TenCombo": "Combo Siêu Trải Nghiệm 4N3Đ: Biệt Thự Hồ Bơi Riêng + Trọn Gói Công Viên Nước & Cáp Treo (Chi nhánh #10)",
+      "SoNgayLuuTru": 4,
+      "BaoGomVeVuiChoi": true,
+      "BaoGomBuffet": true,
+      "BaoGomDonSanBay": true,
+      "GiaGoi": 23800000.0,
+      "MoTa": "Kỳ nghỉ đẳng cấp 4 ngày 3 đêm tại biệt thự có hồ bơi riêng, vé cáp treo vượt biển, vé công viên nước không giới hạn và tiệc nướng BBQ hải sản phục vụ riêng tại villa."
+    }
+  ],
+  "vouchers_sample": [
+    {
+      "MaVoucher": 1,
+      "Code": "VINPEARL0001",
+      "LoaiGiam": "Số tiền cố định",
+      "GiaTriGiam": 500000.0,
+      "DonHangToiThieu": 3000000.0,
+      "GiamToiDa": 500000.0,
+      "SoLuongPhatHanh": 1966,
+      "SoLuongDaDung": 1235,
+      "NgayBatDau": "2025-01-01",
+      "NgayKetThuc": "2025-12-31",
+      "TrangThai": "Hiệu lực"
+    },
+    {
+      "MaVoucher": 2,
+      "Code": "SUMMER0002",
+      "LoaiGiam": "Phần trăm",
+      "GiaTriGiam": 30.0,
+      "DonHangToiThieu": 3000000.0,
+      "GiamToiDa": 1500000.0,
+      "SoLuongPhatHanh": 570,
+      "SoLuongDaDung": 92,
+      "NgayBatDau": "2025-01-01",
+      "NgayKetThuc": "2025-12-31",
+      "TrangThai": "Hiệu lực"
+    },
+    {
+      "MaVoucher": 3,
+      "Code": "EARLYBIRD0003",
+      "LoaiGiam": "Số tiền cố định",
+      "GiaTriGiam": 200000.0,
+      "DonHangToiThieu": 5000000.0,
+      "GiamToiDa": 200000.0,
+      "SoLuongPhatHanh": 1824,
+      "SoLuongDaDung": 525,
+      "NgayBatDau": "2025-01-01",
+      "NgayKetThuc": "2025-12-31",
+      "TrangThai": "Hiệu lực"
+    },
+    {
+      "MaVoucher": 4,
+      "Code": "STAYMORE0004",
+      "LoaiGiam": "Phần trăm",
+      "GiaTriGiam": 30.0,
+      "DonHangToiThieu": 5000000.0,
+      "GiamToiDa": 1500000.0,
+      "SoLuongPhatHanh": 728,
+      "SoLuongDaDung": 405,
+      "NgayBatDau": "2025-01-01",
+      "NgayKetThuc": "2025-12-31",
+      "TrangThai": "Hiệu lực"
+    },
+    {
+      "MaVoucher": 5,
+      "Code": "WONDERS0005",
+      "LoaiGiam": "Số tiền cố định",
+      "GiaTriGiam": 500000.0,
+      "DonHangToiThieu": 1500000.0,
+      "GiamToiDa": 500000.0,
+      "SoLuongPhatHanh": 1516,
+      "SoLuongDaDung": 880,
+      "NgayBatDau": "2025-01-01",
+      "NgayKetThuc": "2025-12-31",
+      "TrangThai": "Hiệu lực"
+    },
+    {
+      "MaVoucher": 6,
+      "Code": "DISCOVERY0006",
+      "LoaiGiam": "Phần trăm",
+      "GiaTriGiam": 10.0,
+      "DonHangToiThieu": 1500000.0,
+      "GiamToiDa": 2000000.0,
+      "SoLuongPhatHanh": 1663,
+      "SoLuongDaDung": 724,
+      "NgayBatDau": "2025-01-01",
+      "NgayKetThuc": "2025-12-31",
+      "TrangThai": "Hiệu lực"
+    },
+    {
+      "MaVoucher": 7,
+      "Code": "LUXURY0007",
+      "LoaiGiam": "Số tiền cố định",
+      "GiaTriGiam": 500000.0,
+      "DonHangToiThieu": 3000000.0,
+      "GiamToiDa": 500000.0,
+      "SoLuongPhatHanh": 1975,
+      "SoLuongDaDung": 1922,
+      "NgayBatDau": "2025-01-01",
+      "NgayKetThuc": "2025-12-31",
+      "TrangThai": "Hiệu lực"
+    },
+    {
+      "MaVoucher": 8,
+      "Code": "FLASH0008",
+      "LoaiGiam": "Phần trăm",
+      "GiaTriGiam": 30.0,
+      "DonHangToiThieu": 5000000.0,
+      "GiamToiDa": 500000.0,
+      "SoLuongPhatHanh": 1675,
+      "SoLuongDaDung": 418,
+      "NgayBatDau": "2025-01-01",
+      "NgayKetThuc": "2025-12-31",
+      "TrangThai": "Hiệu lực"
+    },
+    {
+      "MaVoucher": 9,
+      "Code": "WEEKEND0009",
+      "LoaiGiam": "Số tiền cố định",
+      "GiaTriGiam": 1500000.0,
+      "DonHangToiThieu": 3000000.0,
+      "GiamToiDa": 1500000.0,
+      "SoLuongPhatHanh": 1877,
+      "SoLuongDaDung": 279,
+      "NgayBatDau": "2025-01-01",
+      "NgayKetThuc": "2025-12-31",
+      "TrangThai": "Hiệu lực"
+    },
+    {
+      "MaVoucher": 10,
+      "Code": "HERITAGE0010",
+      "LoaiGiam": "Phần trăm",
+      "GiaTriGiam": 25.0,
+      "DonHangToiThieu": 3000000.0,
+      "GiamToiDa": 500000.0,
+      "SoLuongPhatHanh": 778,
+      "SoLuongDaDung": 690,
+      "NgayBatDau": "2025-01-01",
+      "NgayKetThuc": "2025-12-31",
+      "TrangThai": "Hiệu lực"
+    }
+  ]
+}

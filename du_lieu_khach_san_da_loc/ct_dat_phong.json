@@ -1,0 +1,898 @@
+[
+  {
+    "MaCTDP": 1,
+    "MaDP": 1,
+    "MaPhong": 22,
+    "NgayCheckIn": "2025-05-10",
+    "NgayCheckOut": "2025-05-13",
+    "GiaThoaThuan": 12500000.0
+  },
+  {
+    "MaCTDP": 2,
+    "MaDP": 2,
+    "MaPhong": 11,
+    "NgayCheckIn": "2025-06-15",
+    "NgayCheckOut": "2025-06-25",
+    "GiaThoaThuan": 1800000.0
+  },
+  {
+    "MaCTDP": 3,
+    "MaDP": 3,
+    "MaPhong": 21,
+    "NgayCheckIn": "2025-09-20",
+    "NgayCheckOut": "2025-09-25",
+    "GiaThoaThuan": 12500000.0
+  },
+  {
+    "MaCTDP": 4,
+    "MaDP": 4,
+    "MaPhong": 31,
+    "NgayCheckIn": "2025-12-24",
+    "NgayCheckOut": "2025-12-30",
+    "GiaThoaThuan": 25000000.0
+  },
+  {
+    "MaCTDP": 5,
+    "MaDP": 5,
+    "MaPhong": 41,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 6,
+    "MaDP": 6,
+    "MaPhong": 41,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 7,
+    "MaDP": 7,
+    "MaPhong": 42,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 8,
+    "MaDP": 8,
+    "MaPhong": 42,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 9,
+    "MaDP": 9,
+    "MaPhong": 43,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 10,
+    "MaDP": 10,
+    "MaPhong": 44,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 11,
+    "MaDP": 11,
+    "MaPhong": 44,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 12,
+    "MaDP": 12,
+    "MaPhong": 45,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 13,
+    "MaDP": 13,
+    "MaPhong": 45,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 14,
+    "MaDP": 14,
+    "MaPhong": 46,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 15,
+    "MaDP": 15,
+    "MaPhong": 47,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 16,
+    "MaDP": 16,
+    "MaPhong": 47,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 17,
+    "MaDP": 17,
+    "MaPhong": 48,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 18,
+    "MaDP": 18,
+    "MaPhong": 48,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 19,
+    "MaDP": 19,
+    "MaPhong": 49,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 20,
+    "MaDP": 20,
+    "MaPhong": 49,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 21,
+    "MaDP": 21,
+    "MaPhong": 50,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 22,
+    "MaDP": 22,
+    "MaPhong": 50,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 23,
+    "MaDP": 23,
+    "MaPhong": 51,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 24,
+    "MaDP": 24,
+    "MaPhong": 51,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 25,
+    "MaDP": 25,
+    "MaPhong": 52,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 26,
+    "MaDP": 26,
+    "MaPhong": 53,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 27,
+    "MaDP": 27,
+    "MaPhong": 53,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 28,
+    "MaDP": 28,
+    "MaPhong": 54,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 29,
+    "MaDP": 29,
+    "MaPhong": 54,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 30,
+    "MaDP": 30,
+    "MaPhong": 55,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 31,
+    "MaDP": 31,
+    "MaPhong": 55,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 32,
+    "MaDP": 32,
+    "MaPhong": 56,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 33,
+    "MaDP": 33,
+    "MaPhong": 56,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 34,
+    "MaDP": 34,
+    "MaPhong": 57,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 35,
+    "MaDP": 35,
+    "MaPhong": 57,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 36,
+    "MaDP": 36,
+    "MaPhong": 58,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 37,
+    "MaDP": 37,
+    "MaPhong": 58,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 38,
+    "MaDP": 38,
+    "MaPhong": 59,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 39,
+    "MaDP": 39,
+    "MaPhong": 59,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 40,
+    "MaDP": 40,
+    "MaPhong": 60,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 41,
+    "MaDP": 41,
+    "MaPhong": 60,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 42,
+    "MaDP": 42,
+    "MaPhong": 61,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 43,
+    "MaDP": 43,
+    "MaPhong": 61,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 44,
+    "MaDP": 44,
+    "MaPhong": 62,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 45,
+    "MaDP": 45,
+    "MaPhong": 63,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 46,
+    "MaDP": 46,
+    "MaPhong": 63,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 47,
+    "MaDP": 47,
+    "MaPhong": 64,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 48,
+    "MaDP": 48,
+    "MaPhong": 64,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 49,
+    "MaDP": 49,
+    "MaPhong": 65,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 50,
+    "MaDP": 50,
+    "MaPhong": 65,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 51,
+    "MaDP": 51,
+    "MaPhong": 66,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 52,
+    "MaDP": 52,
+    "MaPhong": 66,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 53,
+    "MaDP": 53,
+    "MaPhong": 67,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 54,
+    "MaDP": 54,
+    "MaPhong": 67,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 55,
+    "MaDP": 55,
+    "MaPhong": 68,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 56,
+    "MaDP": 56,
+    "MaPhong": 69,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 57,
+    "MaDP": 57,
+    "MaPhong": 69,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 58,
+    "MaDP": 58,
+    "MaPhong": 70,
+    "NgayCheckIn": "2025-07-01",
+    "NgayCheckOut": "2025-07-16",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 59,
+    "MaDP": 59,
+    "MaPhong": 70,
+    "NgayCheckIn": "2025-07-16",
+    "NgayCheckOut": "2025-07-31",
+    "GiaThoaThuan": 2500000.0
+  },
+  {
+    "MaCTDP": 76,
+    "MaDP": 76,
+    "MaPhong": 39,
+    "NgayCheckIn": "2025-06-14",
+    "NgayCheckOut": "2025-06-16",
+    "GiaThoaThuan": 1918000.0
+  },
+  {
+    "MaCTDP": 82,
+    "MaDP": 82,
+    "MaPhong": 33,
+    "NgayCheckIn": "2025-01-17",
+    "NgayCheckOut": "2025-01-21",
+    "GiaThoaThuan": 4750000.0
+  },
+  {
+    "MaCTDP": 87,
+    "MaDP": 87,
+    "MaPhong": 1474,
+    "NgayCheckIn": "2025-01-06",
+    "NgayCheckOut": "2025-01-11",
+    "GiaThoaThuan": 1718000.0
+  },
+  {
+    "MaCTDP": 105,
+    "MaDP": 105,
+    "MaPhong": 1474,
+    "NgayCheckIn": "2025-09-24",
+    "NgayCheckOut": "2025-09-26",
+    "GiaThoaThuan": 3251000.0
+  },
+  {
+    "MaCTDP": 128,
+    "MaDP": 128,
+    "MaPhong": 26,
+    "NgayCheckIn": "2025-12-02",
+    "NgayCheckOut": "2025-12-06",
+    "GiaThoaThuan": 3165000.0
+  },
+  {
+    "MaCTDP": 137,
+    "MaDP": 137,
+    "MaPhong": 58,
+    "NgayCheckIn": "2025-10-18",
+    "NgayCheckOut": "2025-10-21",
+    "GiaThoaThuan": 2391000.0
+  },
+  {
+    "MaCTDP": 176,
+    "MaDP": 176,
+    "MaPhong": 68,
+    "NgayCheckIn": "2025-09-08",
+    "NgayCheckOut": "2025-09-12",
+    "GiaThoaThuan": 2829000.0
+  },
+  {
+    "MaCTDP": 232,
+    "MaDP": 232,
+    "MaPhong": 15,
+    "NgayCheckIn": "2025-09-08",
+    "NgayCheckOut": "2025-09-10",
+    "GiaThoaThuan": 1889000.0
+  },
+  {
+    "MaCTDP": 238,
+    "MaDP": 238,
+    "MaPhong": 54,
+    "NgayCheckIn": "2025-12-17",
+    "NgayCheckOut": "2025-12-22",
+    "GiaThoaThuan": 3828000.0
+  },
+  {
+    "MaCTDP": 258,
+    "MaDP": 258,
+    "MaPhong": 27,
+    "NgayCheckIn": "2025-08-14",
+    "NgayCheckOut": "2025-08-18",
+    "GiaThoaThuan": 4705000.0
+  },
+  {
+    "MaCTDP": 285,
+    "MaDP": 285,
+    "MaPhong": 32,
+    "NgayCheckIn": "2025-05-12",
+    "NgayCheckOut": "2025-05-14",
+    "GiaThoaThuan": 1810000.0
+  },
+  {
+    "MaCTDP": 314,
+    "MaDP": 314,
+    "MaPhong": 69,
+    "NgayCheckIn": "2025-12-06",
+    "NgayCheckOut": "2025-12-09",
+    "GiaThoaThuan": 1766000.0
+  },
+  {
+    "MaCTDP": 319,
+    "MaDP": 319,
+    "MaPhong": 48,
+    "NgayCheckIn": "2025-03-10",
+    "NgayCheckOut": "2025-03-15",
+    "GiaThoaThuan": 4358000.0
+  },
+  {
+    "MaCTDP": 324,
+    "MaDP": 324,
+    "MaPhong": 3,
+    "NgayCheckIn": "2025-07-09",
+    "NgayCheckOut": "2025-07-11",
+    "GiaThoaThuan": 2856000.0
+  },
+  {
+    "MaCTDP": 343,
+    "MaDP": 343,
+    "MaPhong": 37,
+    "NgayCheckIn": "2025-02-12",
+    "NgayCheckOut": "2025-02-15",
+    "GiaThoaThuan": 3920000.0
+  },
+  {
+    "MaCTDP": 352,
+    "MaDP": 352,
+    "MaPhong": 20,
+    "NgayCheckIn": "2025-12-20",
+    "NgayCheckOut": "2025-12-22",
+    "GiaThoaThuan": 1659000.0
+  },
+  {
+    "MaCTDP": 378,
+    "MaDP": 378,
+    "MaPhong": 7,
+    "NgayCheckIn": "2025-02-02",
+    "NgayCheckOut": "2025-02-07",
+    "GiaThoaThuan": 2422000.0
+  },
+  {
+    "MaCTDP": 418,
+    "MaDP": 418,
+    "MaPhong": 62,
+    "NgayCheckIn": "2025-08-10",
+    "NgayCheckOut": "2025-08-14",
+    "GiaThoaThuan": 3693000.0
+  },
+  {
+    "MaCTDP": 438,
+    "MaDP": 438,
+    "MaPhong": 6,
+    "NgayCheckIn": "2025-10-21",
+    "NgayCheckOut": "2025-10-23",
+    "GiaThoaThuan": 2172000.0
+  },
+  {
+    "MaCTDP": 461,
+    "MaDP": 461,
+    "MaPhong": 70,
+    "NgayCheckIn": "2025-11-02",
+    "NgayCheckOut": "2025-11-07",
+    "GiaThoaThuan": 3470000.0
+  },
+  {
+    "MaCTDP": 479,
+    "MaDP": 479,
+    "MaPhong": 54,
+    "NgayCheckIn": "2025-11-22",
+    "NgayCheckOut": "2025-11-27",
+    "GiaThoaThuan": 5154000.0
+  },
+  {
+    "MaCTDP": 524,
+    "MaDP": 524,
+    "MaPhong": 62,
+    "NgayCheckIn": "2025-10-06",
+    "NgayCheckOut": "2025-10-09",
+    "GiaThoaThuan": 2203000.0
+  },
+  {
+    "MaCTDP": 546,
+    "MaDP": 546,
+    "MaPhong": 26,
+    "NgayCheckIn": "2025-06-24",
+    "NgayCheckOut": "2025-06-27",
+    "GiaThoaThuan": 4012000.0
+  },
+  {
+    "MaCTDP": 562,
+    "MaDP": 562,
+    "MaPhong": 57,
+    "NgayCheckIn": "2025-11-07",
+    "NgayCheckOut": "2025-11-09",
+    "GiaThoaThuan": 3323000.0
+  },
+  {
+    "MaCTDP": 572,
+    "MaDP": 572,
+    "MaPhong": 59,
+    "NgayCheckIn": "2025-05-08",
+    "NgayCheckOut": "2025-05-11",
+    "GiaThoaThuan": 4217000.0
+  },
+  {
+    "MaCTDP": 577,
+    "MaDP": 577,
+    "MaPhong": 1,
+    "NgayCheckIn": "2025-08-10",
+    "NgayCheckOut": "2025-08-12",
+    "GiaThoaThuan": 2629000.0
+  },
+  {
+    "MaCTDP": 598,
+    "MaDP": 598,
+    "MaPhong": 67,
+    "NgayCheckIn": "2025-03-12",
+    "NgayCheckOut": "2025-03-15",
+    "GiaThoaThuan": 4915000.0
+  },
+  {
+    "MaCTDP": 606,
+    "MaDP": 606,
+    "MaPhong": 60,
+    "NgayCheckIn": "2025-09-18",
+    "NgayCheckOut": "2025-09-22",
+    "GiaThoaThuan": 3051000.0
+  },
+  {
+    "MaCTDP": 618,
+    "MaDP": 618,
+    "MaPhong": 8,
+    "NgayCheckIn": "2025-03-14",
+    "NgayCheckOut": "2025-03-16",
+    "GiaThoaThuan": 3694000.0
+  },
+  {
+    "MaCTDP": 622,
+    "MaDP": 622,
+    "MaPhong": 13,
+    "NgayCheckIn": "2025-02-04",
+    "NgayCheckOut": "2025-02-08",
+    "GiaThoaThuan": 3696000.0
+  },
+  {
+    "MaCTDP": 672,
+    "MaDP": 672,
+    "MaPhong": 42,
+    "NgayCheckIn": "2025-08-06",
+    "NgayCheckOut": "2025-08-08",
+    "GiaThoaThuan": 3925000.0
+  },
+  {
+    "MaCTDP": 749,
+    "MaDP": 749,
+    "MaPhong": 15,
+    "NgayCheckIn": "2025-01-08",
+    "NgayCheckOut": "2025-01-11",
+    "GiaThoaThuan": 2956000.0
+  },
+  {
+    "MaCTDP": 774,
+    "MaDP": 774,
+    "MaPhong": 1,
+    "NgayCheckIn": "2025-11-20",
+    "NgayCheckOut": "2025-11-24",
+    "GiaThoaThuan": 3137000.0
+  },
+  {
+    "MaCTDP": 781,
+    "MaDP": 781,
+    "MaPhong": 41,
+    "NgayCheckIn": "2025-02-03",
+    "NgayCheckOut": "2025-02-05",
+    "GiaThoaThuan": 2744000.0
+  },
+  {
+    "MaCTDP": 817,
+    "MaDP": 817,
+    "MaPhong": 29,
+    "NgayCheckIn": "2025-08-08",
+    "NgayCheckOut": "2025-08-10",
+    "GiaThoaThuan": 2089000.0
+  },
+  {
+    "MaCTDP": 832,
+    "MaDP": 832,
+    "MaPhong": 60,
+    "NgayCheckIn": "2025-03-01",
+    "NgayCheckOut": "2025-03-03",
+    "GiaThoaThuan": 2991000.0
+  },
+  {
+    "MaCTDP": 846,
+    "MaDP": 846,
+    "MaPhong": 35,
+    "NgayCheckIn": "2025-08-05",
+    "NgayCheckOut": "2025-08-09",
+    "GiaThoaThuan": 2476000.0
+  },
+  {
+    "MaCTDP": 850,
+    "MaDP": 850,
+    "MaPhong": 70,
+    "NgayCheckIn": "2025-04-19",
+    "NgayCheckOut": "2025-04-23",
+    "GiaThoaThuan": 1823000.0
+  },
+  {
+    "MaCTDP": 851,
+    "MaDP": 851,
+    "MaPhong": 36,
+    "NgayCheckIn": "2025-12-07",
+    "NgayCheckOut": "2025-12-11",
+    "GiaThoaThuan": 2406000.0
+  },
+  {
+    "MaCTDP": 856,
+    "MaDP": 856,
+    "MaPhong": 70,
+    "NgayCheckIn": "2025-12-22",
+    "NgayCheckOut": "2025-12-27",
+    "GiaThoaThuan": 3292000.0
+  },
+  {
+    "MaCTDP": 878,
+    "MaDP": 878,
+    "MaPhong": 30,
+    "NgayCheckIn": "2025-08-24",
+    "NgayCheckOut": "2025-08-28",
+    "GiaThoaThuan": 2784000.0
+  },
+  {
+    "MaCTDP": 882,
+    "MaDP": 882,
+    "MaPhong": 7,
+    "NgayCheckIn": "2025-10-13",
+    "NgayCheckOut": "2025-10-18",
+    "GiaThoaThuan": 2959000.0
+  },
+  {
+    "MaCTDP": 910,
+    "MaDP": 910,
+    "MaPhong": 34,
+    "NgayCheckIn": "2025-09-18",
+    "NgayCheckOut": "2025-09-21",
+    "GiaThoaThuan": 1848000.0
+  },
+  {
+    "MaCTDP": 911,
+    "MaDP": 911,
+    "MaPhong": 1,
+    "NgayCheckIn": "2025-05-19",
+    "NgayCheckOut": "2025-05-21",
+    "GiaThoaThuan": 2657000.0
+  },
+  {
+    "MaCTDP": 912,
+    "MaDP": 912,
+    "MaPhong": 42,
+    "NgayCheckIn": "2025-02-15",
+    "NgayCheckOut": "2025-02-17",
+    "GiaThoaThuan": 1593000.0
+  },
+  {
+    "MaCTDP": 927,
+    "MaDP": 927,
+    "MaPhong": 36,
+    "NgayCheckIn": "2025-10-23",
+    "NgayCheckOut": "2025-10-25",
+    "GiaThoaThuan": 2299000.0
+  },
+  {
+    "MaCTDP": 1005,
+    "MaDP": 1005,
+    "MaPhong": 35,
+    "NgayCheckIn": "2025-02-19",
+    "NgayCheckOut": "2025-02-22",
+    "GiaThoaThuan": 4826000.0
+  },
+  {
+    "MaCTDP": 1009,
+    "MaDP": 1009,
+    "MaPhong": 54,
+    "NgayCheckIn": "2025-05-18",
+    "NgayCheckOut": "2025-05-22",
+    "GiaThoaThuan": 4140000.0
+  },
+  {
+    "MaCTDP": 1068,
+    "MaDP": 1068,
+    "MaPhong": 27,
+    "NgayCheckIn": "2025-04-11",
+    "NgayCheckOut": "2025-04-14",
+    "GiaThoaThuan": 4765000.0
+  },
+  {
+    "MaCTDP": 1090,
+    "MaDP": 1090,
+    "MaPhong": 55,
+    "NgayCheckIn": "2025-01-15",
+    "NgayCheckOut": "2025-01-17",
+    "GiaThoaThuan": 2719000.0
+  },
+  {
+    "MaCTDP": 1112,
+    "MaDP": 1112,
+    "MaPhong": 52,
+    "NgayCheckIn": "2025-01-11",
+    "NgayCheckOut": "2025-01-13",
+    "GiaThoaThuan": 2567000.0
+  },
+  {
+    "MaCTDP": 1157,
+    "MaDP": 1157,
+    "MaPhong": 68,
+    "NgayCheckIn": "2025-01-06",
+    "NgayCheckOut": "2025-01-08",
+    "GiaThoaThuan": 4298000.0
+  },
+  {
+    "MaCTDP": 1177,
+    "MaDP": 1177,
+    "MaPhong": 45,
+    "NgayCheckIn": "2025-08-24",
+    "NgayCheckOut": "2025-08-27",
+    "GiaThoaThuan": 1956000.0
+  }
+]

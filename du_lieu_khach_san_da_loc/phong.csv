@@ -1,0 +1,75 @@
+﻿MaPhong,MaCN,MaLP,SoPhong,Tang,TrangThai
+1,1,LP003,101,1,Bảo trì
+2,1,LP001,102,1,Trống
+3,1,LP001,103,1,Trống
+4,1,LP004,104,1,Đã sẵn sàng
+5,1,LP003,105,1,Đã sẵn sàng
+6,1,LP003,106,1,Đã sẵn sàng
+7,1,LP005,107,1,Đã sẵn sàng
+8,1,LP003,108,1,Bảo trì
+9,1,LP005,109,1,Đã sẵn sàng
+10,1,LP004,110,1,Đã sẵn sàng
+11,1,LP002,201,2,Trống
+12,1,LP005,202,2,Bảo trì
+13,1,LP002,203,2,Đang sử dụng
+14,1,LP003,204,2,Trống
+15,1,LP003,205,2,Trống
+16,1,LP004,206,2,Bảo trì
+17,1,LP001,207,2,Đã sẵn sàng
+18,1,LP004,208,2,Trống
+19,1,LP003,209,2,Trống
+20,1,LP005,210,2,Trống
+21,1,LP006,301,3,Trống
+22,1,LP006,302,3,Đã sẵn sàng
+23,1,LP003,303,3,Trống
+24,1,LP003,304,3,Đã sẵn sàng
+25,1,LP003,305,3,Đã sẵn sàng
+26,1,LP003,306,3,Đã sẵn sàng
+27,1,LP001,307,3,Đã sẵn sàng
+28,1,LP004,308,3,Bảo trì
+29,1,LP003,309,3,Trống
+30,1,LP003,310,3,Bảo trì
+31,1,LP006,401,4,Trống
+32,1,LP006,402,4,Trống
+33,1,LP002,403,4,Đang sử dụng
+34,1,LP001,404,4,Trống
+35,1,LP003,405,4,Trống
+36,1,LP003,406,4,Đã sẵn sàng
+37,1,LP001,407,4,Bảo trì
+38,1,LP001,408,4,Đã sẵn sàng
+39,1,LP004,409,4,Bảo trì
+40,1,LP004,410,4,Bảo trì
+41,2,LP005,DN-101,1,Đang sử dụng
+42,2,LP004,DN-102,1,Đang sử dụng
+43,2,LP005,DN-103,1,Đang sử dụng
+44,2,LP005,DN-104,1,Đang sử dụng
+45,2,LP001,DN-105,1,Đang sử dụng
+46,2,LP002,DN-106,1,Đang sử dụng
+47,2,LP005,DN-107,1,Đang sử dụng
+48,2,LP005,DN-108,1,Đang sử dụng
+49,2,LP002,DN-109,1,Trống
+50,2,LP002,DN-110,1,Trống
+51,2,LP004,DN-201,2,Đang sử dụng
+52,2,LP005,DN-202,2,Đang sử dụng
+53,2,LP003,DN-203,2,Đang sử dụng
+54,2,LP001,DN-204,2,Đang sử dụng
+55,2,LP002,DN-205,2,Đang sử dụng
+56,2,LP002,DN-206,2,Đang sử dụng
+57,2,LP001,DN-207,2,Đang sử dụng
+58,2,LP001,DN-208,2,Đang sử dụng
+59,2,LP005,DN-209,2,Trống
+60,2,LP003,DN-210,2,Trống
+61,2,LP002,DN-301,3,Đang sử dụng
+62,2,LP005,DN-302,3,Đang sử dụng
+63,2,LP001,DN-303,3,Đang sử dụng
+64,2,LP003,DN-304,3,Đang sử dụng
+65,2,LP001,DN-305,3,Đang sử dụng
+66,2,LP005,DN-306,3,Đang sử dụng
+67,2,LP005,DN-307,3,Đang sử dụng
+68,2,LP003,DN-308,3,Đang sử dụng
+69,2,LP002,DN-309,3,Trống
+70,2,LP002,DN-310,3,Trống
+266,3,LP004,612,6,Trống
+969,5,LP004,412,4,Đã sẵn sàng
+1233,6,LP003,420,4,Đã sẵn sàng
+1474,6,LP005,409,4,Bảo trì

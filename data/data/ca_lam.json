@@ -1,0 +1,6002 @@
+[
+  {
+    "MaCa": 1,
+    "TenCa": "Ca Sáng Lễ Tân (06:00 - 14:30)",
+    "GioBD": "06:00:00",
+    "GioKT": "14:30:00"
+  },
+  {
+    "MaCa": 2,
+    "TenCa": "Ca Chiều Lễ Tân (14:00 - 22:30)",
+    "GioBD": "14:00:00",
+    "GioKT": "22:30:00"
+  },
+  {
+    "MaCa": 3,
+    "TenCa": "Ca Đêm Lễ Tân & Kiểm Toán Đêm (22:00 - 06:30)",
+    "GioBD": "22:00:00",
+    "GioKT": "06:30:00"
+  },
+  {
+    "MaCa": 4,
+    "TenCa": "Ca Sáng Buồng Phòng Housekeeping (07:00 - 15:30)",
+    "GioBD": "07:00:00",
+    "GioKT": "15:30:00"
+  },
+  {
+    "MaCa": 5,
+    "TenCa": "Ca Chiều Dọn Phòng Turndown Service (14:30 - 23:00)",
+    "GioBD": "14:30:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 6,
+    "TenCa": "Ca Sáng Bếp Buffet Sáng (05:30 - 14:00)",
+    "GioBD": "05:30:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 7,
+    "TenCa": "Ca Chiều Tối Nhà Hàng Fine Dining (15:00 - 23:30)",
+    "GioBD": "15:00:00",
+    "GioKT": "23:30:00"
+  },
+  {
+    "MaCa": 8,
+    "TenCa": "Ca Gãy Nhà Hàng Split Shift (10:00 - 14:00 & 17:30 - 21:30)",
+    "GioBD": "10:00:00",
+    "GioKT": "21:30:00"
+  },
+  {
+    "MaCa": 9,
+    "TenCa": "Ca Kỹ Thuật Bảo Trì Điện Lạnh (08:00 - 16:30)",
+    "GioBD": "08:00:00",
+    "GioKT": "16:30:00"
+  },
+  {
+    "MaCa": 10,
+    "TenCa": "Ca An Ninh & Bảo Vệ Cổng Chính (06:00 - 18:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 11,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #11 (01:00 - 09:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 12,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #12 (08:00 - 13:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 13,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #13 (12:00 - 18:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 14,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #14 (08:00 - 12:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 15,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #15 (23:00 - 04:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 16,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #16 (02:00 - 06:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 17,
+    "TenCa": "Ca trực Pha chế Quầy Bar #17 (18:00 - 00:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 18,
+    "TenCa": "Ca trực Buồng phòng Villa #18 (10:00 - 19:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 19,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #19 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 20,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #20 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 21,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #21 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 22,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #22 (12:00 - 16:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 23,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #23 (09:00 - 14:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 24,
+    "TenCa": "Ca trực Lễ tân Check-in #24 (22:00 - 02:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 25,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #25 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 26,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #26 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 27,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #27 (21:00 - 03:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 28,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #28 (18:00 - 02:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 29,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #29 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 30,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #30 (12:00 - 17:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 31,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #31 (10:00 - 18:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 32,
+    "TenCa": "Ca trực Lễ tân Check-in #32 (21:00 - 02:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 33,
+    "TenCa": "Ca trực Pha chế Quầy Bar #33 (07:00 - 13:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 34,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #34 (12:00 - 21:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 35,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #35 (11:00 - 17:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 36,
+    "TenCa": "Ca trực Pha chế Quầy Bar #36 (19:00 - 23:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 37,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #37 (19:00 - 01:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 38,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #38 (18:00 - 02:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 39,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #39 (21:00 - 02:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 40,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #40 (14:00 - 22:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 41,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #41 (02:00 - 10:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 42,
+    "TenCa": "Ca trực Buồng phòng Villa #42 (06:00 - 10:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 43,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #43 (00:00 - 07:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 44,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #44 (03:00 - 07:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 45,
+    "TenCa": "Ca trực Lễ tân Check-in #45 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 46,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #46 (05:00 - 10:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 47,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #47 (19:00 - 02:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 48,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #48 (21:00 - 04:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 49,
+    "TenCa": "Ca trực Buồng phòng Villa #49 (01:00 - 10:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 50,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #50 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 51,
+    "TenCa": "Ca trực Pha chế Quầy Bar #51 (12:00 - 21:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 52,
+    "TenCa": "Ca trực Pha chế Quầy Bar #52 (01:00 - 08:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 53,
+    "TenCa": "Ca trực Buồng phòng Villa #53 (07:00 - 16:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 54,
+    "TenCa": "Ca trực Lễ tân Check-in #54 (11:00 - 15:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 55,
+    "TenCa": "Ca trực Lễ tân Check-in #55 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 56,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #56 (12:00 - 20:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 57,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #57 (15:00 - 22:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 58,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #58 (18:00 - 22:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 59,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #59 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 60,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #60 (07:00 - 12:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 61,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #61 (10:00 - 18:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 62,
+    "TenCa": "Ca trực Lễ tân Check-in #62 (12:00 - 21:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 63,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #63 (13:00 - 19:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 64,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #64 (03:00 - 09:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 65,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #65 (10:00 - 19:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 66,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #66 (07:00 - 14:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 67,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #67 (01:00 - 07:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 68,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #68 (14:00 - 18:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 69,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #69 (10:00 - 18:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 70,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #70 (11:00 - 18:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 71,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #71 (11:00 - 17:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 72,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #72 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 73,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #73 (12:00 - 19:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 74,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #74 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 75,
+    "TenCa": "Ca trực Buồng phòng Villa #75 (02:00 - 09:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 76,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #76 (23:00 - 06:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 77,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #77 (12:00 - 16:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 78,
+    "TenCa": "Ca trực Pha chế Quầy Bar #78 (03:00 - 07:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 79,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #79 (11:00 - 17:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 80,
+    "TenCa": "Ca trực Buồng phòng Villa #80 (01:00 - 10:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 81,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #81 (21:00 - 01:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 82,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #82 (13:00 - 22:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 83,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #83 (20:00 - 05:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 84,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #84 (07:00 - 13:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 85,
+    "TenCa": "Ca trực Pha chế Quầy Bar #85 (20:00 - 03:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 86,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #86 (21:00 - 03:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 87,
+    "TenCa": "Ca trực Lễ tân Check-in #87 (21:00 - 04:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 88,
+    "TenCa": "Ca trực Buồng phòng Villa #88 (20:00 - 01:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 89,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #89 (04:00 - 08:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 90,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #90 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 91,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #91 (09:00 - 16:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 92,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #92 (05:00 - 13:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 93,
+    "TenCa": "Ca trực Pha chế Quầy Bar #93 (14:00 - 21:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 94,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #94 (06:00 - 12:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 95,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #95 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 96,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #96 (10:00 - 18:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 97,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #97 (19:00 - 01:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 98,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #98 (06:00 - 12:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 99,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #99 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 100,
+    "TenCa": "Ca trực Pha chế Quầy Bar #100 (01:00 - 08:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 101,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #101 (04:00 - 09:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 102,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #102 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 103,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #103 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 104,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #104 (16:00 - 22:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 105,
+    "TenCa": "Ca trực Pha chế Quầy Bar #105 (19:00 - 02:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 106,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #106 (14:00 - 21:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 107,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #107 (19:00 - 00:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 108,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #108 (21:00 - 01:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 109,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #109 (20:00 - 02:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 110,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #110 (18:00 - 03:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 111,
+    "TenCa": "Ca trực Pha chế Quầy Bar #111 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 112,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #112 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 113,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #113 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 114,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #114 (15:00 - 23:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 115,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #115 (01:00 - 10:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 116,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #116 (12:00 - 20:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 117,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #117 (17:00 - 00:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 118,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #118 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 119,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #119 (20:00 - 01:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 120,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #120 (15:00 - 23:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 121,
+    "TenCa": "Ca trực Lễ tân Check-in #121 (17:00 - 22:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 122,
+    "TenCa": "Ca trực Pha chế Quầy Bar #122 (13:00 - 22:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 123,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #123 (05:00 - 13:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 124,
+    "TenCa": "Ca trực Pha chế Quầy Bar #124 (18:00 - 02:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 125,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #125 (12:00 - 19:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 126,
+    "TenCa": "Ca trực Buồng phòng Villa #126 (13:00 - 18:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 127,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #127 (08:00 - 14:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 128,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #128 (03:00 - 11:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 129,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #129 (09:00 - 13:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 130,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #130 (04:00 - 10:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 131,
+    "TenCa": "Ca trực Pha chế Quầy Bar #131 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 132,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #132 (06:00 - 13:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 133,
+    "TenCa": "Ca trực Pha chế Quầy Bar #133 (22:00 - 05:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 134,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #134 (00:00 - 07:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 135,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #135 (02:00 - 07:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 136,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #136 (18:00 - 00:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 137,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #137 (09:00 - 17:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 138,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #138 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 139,
+    "TenCa": "Ca trực Buồng phòng Villa #139 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 140,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #140 (07:00 - 16:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 141,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #141 (06:00 - 11:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 142,
+    "TenCa": "Ca trực Buồng phòng Villa #142 (19:00 - 23:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 143,
+    "TenCa": "Ca trực Pha chế Quầy Bar #143 (01:00 - 07:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 144,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #144 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 145,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #145 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 146,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #146 (09:00 - 13:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 147,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #147 (17:00 - 22:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 148,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #148 (18:00 - 22:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 149,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #149 (19:00 - 02:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 150,
+    "TenCa": "Ca trực Pha chế Quầy Bar #150 (10:00 - 18:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 151,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #151 (07:00 - 13:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 152,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #152 (21:00 - 06:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 153,
+    "TenCa": "Ca trực Pha chế Quầy Bar #153 (10:00 - 17:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 154,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #154 (11:00 - 15:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 155,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #155 (23:00 - 03:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 156,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #156 (09:00 - 18:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 157,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #157 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 158,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #158 (08:00 - 12:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 159,
+    "TenCa": "Ca trực Buồng phòng Villa #159 (05:00 - 13:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 160,
+    "TenCa": "Ca trực Buồng phòng Villa #160 (21:00 - 05:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 161,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #161 (20:00 - 01:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 162,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #162 (22:00 - 06:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 163,
+    "TenCa": "Ca trực Lễ tân Check-in #163 (19:00 - 04:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 164,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #164 (07:00 - 16:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 165,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #165 (18:00 - 00:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 166,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #166 (07:00 - 14:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 167,
+    "TenCa": "Ca trực Buồng phòng Villa #167 (12:00 - 18:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 168,
+    "TenCa": "Ca trực Lễ tân Check-in #168 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 169,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #169 (22:00 - 05:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 170,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #170 (14:00 - 21:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 171,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #171 (08:00 - 13:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 172,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #172 (14:00 - 23:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 173,
+    "TenCa": "Ca trực Lễ tân Check-in #173 (05:00 - 14:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 174,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #174 (03:00 - 08:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 175,
+    "TenCa": "Ca trực Buồng phòng Villa #175 (00:00 - 04:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 176,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #176 (02:00 - 10:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 177,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #177 (23:00 - 08:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 178,
+    "TenCa": "Ca trực Pha chế Quầy Bar #178 (10:00 - 17:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 179,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #179 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 180,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #180 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 181,
+    "TenCa": "Ca trực Lễ tân Check-in #181 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 182,
+    "TenCa": "Ca trực Lễ tân Check-in #182 (07:00 - 12:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 183,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #183 (05:00 - 14:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 184,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #184 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 185,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #185 (22:00 - 04:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 186,
+    "TenCa": "Ca trực Lễ tân Check-in #186 (04:00 - 08:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 187,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #187 (20:00 - 00:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 188,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #188 (15:00 - 21:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 189,
+    "TenCa": "Ca trực Buồng phòng Villa #189 (00:00 - 09:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 190,
+    "TenCa": "Ca trực Lễ tân Check-in #190 (21:00 - 01:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 191,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #191 (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 192,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #192 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 193,
+    "TenCa": "Ca trực Lễ tân Check-in #193 (11:00 - 20:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 194,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #194 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 195,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #195 (14:00 - 22:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 196,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #196 (15:00 - 21:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 197,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #197 (02:00 - 09:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 198,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #198 (07:00 - 15:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 199,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #199 (23:00 - 04:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 200,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #200 (07:00 - 15:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 201,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #201 (11:00 - 17:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 202,
+    "TenCa": "Ca trực Buồng phòng Villa #202 (01:00 - 08:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 203,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #203 (09:00 - 18:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 204,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #204 (03:00 - 11:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 205,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #205 (04:00 - 13:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 206,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #206 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 207,
+    "TenCa": "Ca trực Buồng phòng Villa #207 (03:00 - 08:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 208,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #208 (14:00 - 18:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 209,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #209 (03:00 - 09:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 210,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #210 (16:00 - 22:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 211,
+    "TenCa": "Ca trực Lễ tân Check-in #211 (18:00 - 03:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 212,
+    "TenCa": "Ca trực Pha chế Quầy Bar #212 (19:00 - 02:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 213,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #213 (16:00 - 22:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 214,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #214 (08:00 - 15:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 215,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #215 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 216,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #216 (03:00 - 08:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 217,
+    "TenCa": "Ca trực Buồng phòng Villa #217 (02:00 - 06:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 218,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #218 (20:00 - 03:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 219,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #219 (23:00 - 06:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 220,
+    "TenCa": "Ca trực Buồng phòng Villa #220 (04:00 - 10:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 221,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #221 (23:00 - 08:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 222,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #222 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 223,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #223 (12:00 - 21:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 224,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #224 (13:00 - 18:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 225,
+    "TenCa": "Ca trực Lễ tân Check-in #225 (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 226,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #226 (05:00 - 12:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 227,
+    "TenCa": "Ca trực Buồng phòng Villa #227 (07:00 - 12:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 228,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #228 (13:00 - 17:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 229,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #229 (12:00 - 18:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 230,
+    "TenCa": "Ca trực Buồng phòng Villa #230 (00:00 - 09:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 231,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #231 (15:00 - 00:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 232,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #232 (02:00 - 11:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 233,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #233 (00:00 - 06:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 234,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #234 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 235,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #235 (05:00 - 12:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 236,
+    "TenCa": "Ca trực Buồng phòng Villa #236 (23:00 - 05:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 237,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #237 (05:00 - 14:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 238,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #238 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 239,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #239 (08:00 - 16:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 240,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #240 (08:00 - 17:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 241,
+    "TenCa": "Ca trực Pha chế Quầy Bar #241 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 242,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #242 (07:00 - 14:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 243,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #243 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 244,
+    "TenCa": "Ca trực Buồng phòng Villa #244 (01:00 - 05:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 245,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #245 (03:00 - 08:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 246,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #246 (14:00 - 19:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 247,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #247 (22:00 - 06:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 248,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #248 (10:00 - 14:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 249,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #249 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 250,
+    "TenCa": "Ca trực Lễ tân Check-in #250 (04:00 - 08:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 251,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #251 (12:00 - 16:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 252,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #252 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 253,
+    "TenCa": "Ca trực Pha chế Quầy Bar #253 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 254,
+    "TenCa": "Ca trực Pha chế Quầy Bar #254 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 255,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #255 (21:00 - 04:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 256,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #256 (05:00 - 14:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 257,
+    "TenCa": "Ca trực Buồng phòng Villa #257 (01:00 - 06:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 258,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #258 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 259,
+    "TenCa": "Ca trực Buồng phòng Villa #259 (08:00 - 15:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 260,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #260 (13:00 - 17:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 261,
+    "TenCa": "Ca trực Lễ tân Check-in #261 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 262,
+    "TenCa": "Ca trực Buồng phòng Villa #262 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 263,
+    "TenCa": "Ca trực Lễ tân Check-in #263 (02:00 - 10:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 264,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #264 (06:00 - 10:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 265,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #265 (15:00 - 00:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 266,
+    "TenCa": "Ca trực Buồng phòng Villa #266 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 267,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #267 (10:00 - 18:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 268,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #268 (15:00 - 19:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 269,
+    "TenCa": "Ca trực Pha chế Quầy Bar #269 (19:00 - 01:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 270,
+    "TenCa": "Ca trực Pha chế Quầy Bar #270 (00:00 - 07:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 271,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #271 (14:00 - 19:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 272,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #272 (01:00 - 06:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 273,
+    "TenCa": "Ca trực Lễ tân Check-in #273 (05:00 - 09:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 274,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #274 (22:00 - 07:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 275,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #275 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 276,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #276 (11:00 - 16:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 277,
+    "TenCa": "Ca trực Pha chế Quầy Bar #277 (12:00 - 20:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 278,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #278 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 279,
+    "TenCa": "Ca trực Lễ tân Check-in #279 (09:00 - 14:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 280,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #280 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 281,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #281 (01:00 - 09:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 282,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #282 (21:00 - 01:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 283,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #283 (04:00 - 11:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 284,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #284 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 285,
+    "TenCa": "Ca trực Buồng phòng Villa #285 (20:00 - 05:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 286,
+    "TenCa": "Ca trực Pha chế Quầy Bar #286 (01:00 - 09:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 287,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #287 (20:00 - 03:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 288,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #288 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 289,
+    "TenCa": "Ca trực Lễ tân Check-in #289 (11:00 - 20:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 290,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #290 (20:00 - 00:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 291,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #291 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 292,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #292 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 293,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #293 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 294,
+    "TenCa": "Ca trực Lễ tân Check-in #294 (21:00 - 02:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 295,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #295 (06:00 - 10:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 296,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #296 (06:00 - 11:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 297,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #297 (13:00 - 19:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 298,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #298 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 299,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #299 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 300,
+    "TenCa": "Ca trực Buồng phòng Villa #300 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 301,
+    "TenCa": "Ca trực Buồng phòng Villa #301 (20:00 - 02:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 302,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #302 (18:00 - 00:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 303,
+    "TenCa": "Ca trực Buồng phòng Villa #303 (05:00 - 12:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 304,
+    "TenCa": "Ca trực Buồng phòng Villa #304 (01:00 - 06:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 305,
+    "TenCa": "Ca trực Buồng phòng Villa #305 (10:00 - 14:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 306,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #306 (02:00 - 09:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 307,
+    "TenCa": "Ca trực Lễ tân Check-in #307 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 308,
+    "TenCa": "Ca trực Lễ tân Check-in #308 (00:00 - 05:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 309,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #309 (13:00 - 22:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 310,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #310 (20:00 - 01:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 311,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #311 (11:00 - 16:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 312,
+    "TenCa": "Ca trực Lễ tân Check-in #312 (17:00 - 00:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 313,
+    "TenCa": "Ca trực Buồng phòng Villa #313 (00:00 - 04:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 314,
+    "TenCa": "Ca trực Pha chế Quầy Bar #314 (22:00 - 05:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 315,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #315 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 316,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #316 (22:00 - 03:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 317,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #317 (11:00 - 18:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 318,
+    "TenCa": "Ca trực Buồng phòng Villa #318 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 319,
+    "TenCa": "Ca trực Lễ tân Check-in #319 (04:00 - 13:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 320,
+    "TenCa": "Ca trực Pha chế Quầy Bar #320 (06:00 - 13:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 321,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #321 (05:00 - 12:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 322,
+    "TenCa": "Ca trực Lễ tân Check-in #322 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 323,
+    "TenCa": "Ca trực Buồng phòng Villa #323 (23:00 - 05:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 324,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #324 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 325,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #325 (01:00 - 07:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 326,
+    "TenCa": "Ca trực Lễ tân Check-in #326 (21:00 - 01:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 327,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #327 (04:00 - 09:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 328,
+    "TenCa": "Ca trực Pha chế Quầy Bar #328 (09:00 - 15:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 329,
+    "TenCa": "Ca trực Lễ tân Check-in #329 (09:00 - 14:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 330,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #330 (01:00 - 05:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 331,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #331 (09:00 - 16:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 332,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #332 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 333,
+    "TenCa": "Ca trực Pha chế Quầy Bar #333 (23:00 - 07:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 334,
+    "TenCa": "Ca trực Pha chế Quầy Bar #334 (22:00 - 06:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 335,
+    "TenCa": "Ca trực Pha chế Quầy Bar #335 (09:00 - 16:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 336,
+    "TenCa": "Ca trực Lễ tân Check-in #336 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 337,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #337 (18:00 - 00:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 338,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #338 (10:00 - 16:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 339,
+    "TenCa": "Ca trực Pha chế Quầy Bar #339 (09:00 - 16:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 340,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #340 (06:00 - 12:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 341,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #341 (13:00 - 17:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 342,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #342 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 343,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #343 (23:00 - 05:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 344,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #344 (03:00 - 12:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 345,
+    "TenCa": "Ca trực Buồng phòng Villa #345 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 346,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #346 (17:00 - 22:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 347,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #347 (00:00 - 07:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 348,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #348 (09:00 - 15:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 349,
+    "TenCa": "Ca trực Lễ tân Check-in #349 (06:00 - 10:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 350,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #350 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 351,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #351 (08:00 - 12:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 352,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #352 (10:00 - 16:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 353,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #353 (09:00 - 18:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 354,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #354 (00:00 - 05:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 355,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #355 (09:00 - 13:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 356,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #356 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 357,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #357 (19:00 - 04:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 358,
+    "TenCa": "Ca trực Pha chế Quầy Bar #358 (10:00 - 16:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 359,
+    "TenCa": "Ca trực Buồng phòng Villa #359 (18:00 - 02:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 360,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #360 (09:00 - 17:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 361,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #361 (19:00 - 02:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 362,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #362 (05:00 - 11:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 363,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #363 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 364,
+    "TenCa": "Ca trực Pha chế Quầy Bar #364 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 365,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #365 (12:00 - 17:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 366,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #366 (08:00 - 13:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 367,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #367 (06:00 - 11:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 368,
+    "TenCa": "Ca trực Buồng phòng Villa #368 (11:00 - 17:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 369,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #369 (21:00 - 06:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 370,
+    "TenCa": "Ca trực Buồng phòng Villa #370 (19:00 - 01:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 371,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #371 (19:00 - 04:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 372,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #372 (00:00 - 04:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 373,
+    "TenCa": "Ca trực Lễ tân Check-in #373 (15:00 - 22:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 374,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #374 (02:00 - 09:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 375,
+    "TenCa": "Ca trực Buồng phòng Villa #375 (00:00 - 06:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 376,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #376 (23:00 - 07:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 377,
+    "TenCa": "Ca trực Pha chế Quầy Bar #377 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 378,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #378 (06:00 - 15:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 379,
+    "TenCa": "Ca trực Pha chế Quầy Bar #379 (01:00 - 06:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 380,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #380 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 381,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #381 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 382,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #382 (01:00 - 09:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 383,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #383 (12:00 - 16:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 384,
+    "TenCa": "Ca trực Lễ tân Check-in #384 (22:00 - 07:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 385,
+    "TenCa": "Ca trực Lễ tân Check-in #385 (02:00 - 09:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 386,
+    "TenCa": "Ca trực Buồng phòng Villa #386 (18:00 - 02:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 387,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #387 (17:00 - 22:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 388,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #388 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 389,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #389 (04:00 - 13:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 390,
+    "TenCa": "Ca trực Pha chế Quầy Bar #390 (06:00 - 14:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 391,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #391 (07:00 - 13:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 392,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #392 (04:00 - 08:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 393,
+    "TenCa": "Ca trực Lễ tân Check-in #393 (08:00 - 17:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 394,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #394 (05:00 - 11:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 395,
+    "TenCa": "Ca trực Buồng phòng Villa #395 (18:00 - 22:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 396,
+    "TenCa": "Ca trực Pha chế Quầy Bar #396 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 397,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #397 (20:00 - 02:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 398,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #398 (18:00 - 02:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 399,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #399 (16:00 - 20:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 400,
+    "TenCa": "Ca trực Pha chế Quầy Bar #400 (11:00 - 18:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 401,
+    "TenCa": "Ca trực Buồng phòng Villa #401 (23:00 - 06:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 402,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #402 (07:00 - 12:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 403,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #403 (15:00 - 22:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 404,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #404 (21:00 - 06:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 405,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #405 (12:00 - 17:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 406,
+    "TenCa": "Ca trực Buồng phòng Villa #406 (18:00 - 23:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 407,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #407 (09:00 - 14:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 408,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #408 (23:00 - 08:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 409,
+    "TenCa": "Ca trực Pha chế Quầy Bar #409 (14:00 - 19:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 410,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #410 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 411,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #411 (02:00 - 06:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 412,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #412 (11:00 - 17:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 413,
+    "TenCa": "Ca trực Pha chế Quầy Bar #413 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 414,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #414 (06:00 - 15:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 415,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #415 (11:00 - 16:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 416,
+    "TenCa": "Ca trực Lễ tân Check-in #416 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 417,
+    "TenCa": "Ca trực Pha chế Quầy Bar #417 (06:00 - 12:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 418,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #418 (22:00 - 07:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 419,
+    "TenCa": "Ca trực Buồng phòng Villa #419 (07:00 - 14:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 420,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #420 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 421,
+    "TenCa": "Ca trực Pha chế Quầy Bar #421 (00:00 - 06:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 422,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #422 (04:00 - 13:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 423,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #423 (18:00 - 23:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 424,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #424 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 425,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #425 (05:00 - 11:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 426,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #426 (10:00 - 14:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 427,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #427 (08:00 - 14:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 428,
+    "TenCa": "Ca trực Lễ tân Check-in #428 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 429,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #429 (22:00 - 03:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 430,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #430 (10:00 - 19:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 431,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #431 (13:00 - 22:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 432,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #432 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 433,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #433 (22:00 - 02:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 434,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #434 (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 435,
+    "TenCa": "Ca trực Pha chế Quầy Bar #435 (16:00 - 22:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 436,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #436 (03:00 - 11:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 437,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #437 (07:00 - 15:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 438,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #438 (23:00 - 07:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 439,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #439 (11:00 - 16:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 440,
+    "TenCa": "Ca trực Lễ tân Check-in #440 (23:00 - 06:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 441,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #441 (22:00 - 02:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 442,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #442 (21:00 - 06:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 443,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #443 (17:00 - 22:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 444,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #444 (03:00 - 07:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 445,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #445 (14:00 - 18:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 446,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #446 (18:00 - 23:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 447,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #447 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 448,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #448 (14:00 - 23:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 449,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #449 (16:00 - 23:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 450,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #450 (05:00 - 11:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 451,
+    "TenCa": "Ca trực Lễ tân Check-in #451 (18:00 - 22:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 452,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #452 (12:00 - 21:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 453,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #453 (08:00 - 17:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 454,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #454 (18:00 - 22:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 455,
+    "TenCa": "Ca trực Lễ tân Check-in #455 (19:00 - 00:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 456,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #456 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 457,
+    "TenCa": "Ca trực Buồng phòng Villa #457 (13:00 - 17:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 458,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #458 (15:00 - 19:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 459,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #459 (07:00 - 15:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 460,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #460 (09:00 - 14:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 461,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #461 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 462,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #462 (06:00 - 10:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 463,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #463 (14:00 - 20:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 464,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #464 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 465,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #465 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 466,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #466 (23:00 - 04:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 467,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #467 (07:00 - 16:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 468,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #468 (11:00 - 15:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 469,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #469 (06:00 - 12:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 470,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #470 (02:00 - 08:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 471,
+    "TenCa": "Ca trực Buồng phòng Villa #471 (07:00 - 15:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 472,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #472 (13:00 - 22:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 473,
+    "TenCa": "Ca trực Pha chế Quầy Bar #473 (22:00 - 02:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 474,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #474 (07:00 - 13:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 475,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #475 (04:00 - 10:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 476,
+    "TenCa": "Ca trực Buồng phòng Villa #476 (07:00 - 14:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 477,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #477 (06:00 - 12:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 478,
+    "TenCa": "Ca trực Pha chế Quầy Bar #478 (21:00 - 05:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 479,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #479 (13:00 - 17:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 480,
+    "TenCa": "Ca trực Buồng phòng Villa #480 (05:00 - 12:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 481,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #481 (14:00 - 19:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 482,
+    "TenCa": "Ca trực Buồng phòng Villa #482 (07:00 - 16:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 483,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #483 (20:00 - 01:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 484,
+    "TenCa": "Ca trực Buồng phòng Villa #484 (10:00 - 18:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 485,
+    "TenCa": "Ca trực Lễ tân Check-in #485 (04:00 - 10:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 486,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #486 (10:00 - 19:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 487,
+    "TenCa": "Ca trực Buồng phòng Villa #487 (08:00 - 12:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 488,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #488 (09:00 - 17:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 489,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #489 (06:00 - 13:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 490,
+    "TenCa": "Ca trực Lễ tân Check-in #490 (10:00 - 19:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 491,
+    "TenCa": "Ca trực Lễ tân Check-in #491 (15:00 - 21:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 492,
+    "TenCa": "Ca trực Buồng phòng Villa #492 (10:00 - 19:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 493,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #493 (02:00 - 08:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 494,
+    "TenCa": "Ca trực Pha chế Quầy Bar #494 (12:00 - 20:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 495,
+    "TenCa": "Ca trực Buồng phòng Villa #495 (04:00 - 10:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 496,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #496 (16:00 - 01:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 497,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #497 (23:00 - 08:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 498,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #498 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 499,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #499 (03:00 - 11:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 500,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #500 (11:00 - 18:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 501,
+    "TenCa": "Ca trực Buồng phòng Villa #501 (19:00 - 01:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 502,
+    "TenCa": "Ca trực Buồng phòng Villa #502 (16:00 - 22:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 503,
+    "TenCa": "Ca trực Lễ tân Check-in #503 (10:00 - 16:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 504,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #504 (12:00 - 21:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 505,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #505 (21:00 - 05:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 506,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #506 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 507,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #507 (08:00 - 16:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 508,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #508 (08:00 - 17:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 509,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #509 (00:00 - 06:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 510,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #510 (05:00 - 14:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 511,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #511 (21:00 - 01:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 512,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #512 (01:00 - 09:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 513,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #513 (06:00 - 10:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 514,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #514 (12:00 - 21:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 515,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #515 (13:00 - 18:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 516,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #516 (14:00 - 21:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 517,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #517 (09:00 - 13:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 518,
+    "TenCa": "Ca trực Buồng phòng Villa #518 (22:00 - 07:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 519,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #519 (22:00 - 07:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 520,
+    "TenCa": "Ca trực Lễ tân Check-in #520 (08:00 - 14:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 521,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #521 (00:00 - 06:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 522,
+    "TenCa": "Ca trực Buồng phòng Villa #522 (15:00 - 22:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 523,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #523 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 524,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #524 (22:00 - 07:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 525,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #525 (06:00 - 14:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 526,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #526 (10:00 - 16:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 527,
+    "TenCa": "Ca trực Lễ tân Check-in #527 (21:00 - 01:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 528,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #528 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 529,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #529 (06:00 - 14:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 530,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #530 (02:00 - 10:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 531,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #531 (14:00 - 22:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 532,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #532 (22:00 - 03:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 533,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #533 (20:00 - 02:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 534,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #534 (10:00 - 14:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 535,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #535 (20:00 - 05:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 536,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #536 (00:00 - 09:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 537,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #537 (15:00 - 19:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 538,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #538 (17:00 - 00:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 539,
+    "TenCa": "Ca trực Buồng phòng Villa #539 (06:00 - 11:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 540,
+    "TenCa": "Ca trực Pha chế Quầy Bar #540 (03:00 - 11:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 541,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #541 (20:00 - 01:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 542,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #542 (21:00 - 03:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 543,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #543 (09:00 - 15:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 544,
+    "TenCa": "Ca trực Lễ tân Check-in #544 (08:00 - 15:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 545,
+    "TenCa": "Ca trực Pha chế Quầy Bar #545 (06:00 - 10:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 546,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #546 (12:00 - 18:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 547,
+    "TenCa": "Ca trực Pha chế Quầy Bar #547 (16:00 - 01:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 548,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #548 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 549,
+    "TenCa": "Ca trực Buồng phòng Villa #549 (18:00 - 03:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 550,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #550 (20:00 - 00:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 551,
+    "TenCa": "Ca trực Pha chế Quầy Bar #551 (14:00 - 22:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 552,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #552 (01:00 - 08:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 553,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #553 (20:00 - 02:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 554,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #554 (09:00 - 16:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 555,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #555 (09:00 - 15:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 556,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #556 (03:00 - 09:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 557,
+    "TenCa": "Ca trực Buồng phòng Villa #557 (01:00 - 07:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 558,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #558 (04:00 - 11:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 559,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #559 (09:00 - 16:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 560,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #560 (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 561,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #561 (22:00 - 02:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 562,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #562 (22:00 - 02:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 563,
+    "TenCa": "Ca trực Pha chế Quầy Bar #563 (10:00 - 14:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 564,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #564 (16:00 - 20:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 565,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #565 (14:00 - 20:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 566,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #566 (21:00 - 05:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 567,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #567 (11:00 - 20:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 568,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #568 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 569,
+    "TenCa": "Ca trực Pha chế Quầy Bar #569 (16:00 - 23:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 570,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #570 (16:00 - 22:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 571,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #571 (18:00 - 02:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 572,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #572 (06:00 - 13:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 573,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #573 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 574,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #574 (06:00 - 13:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 575,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #575 (12:00 - 18:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 576,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #576 (11:00 - 17:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 577,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #577 (23:00 - 03:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 578,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #578 (01:00 - 10:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 579,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #579 (10:00 - 19:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 580,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #580 (22:00 - 06:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 581,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #581 (01:00 - 09:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 582,
+    "TenCa": "Ca trực Pha chế Quầy Bar #582 (09:00 - 15:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 583,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #583 (13:00 - 21:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 584,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #584 (23:00 - 04:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 585,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #585 (04:00 - 10:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 586,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #586 (14:00 - 21:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 587,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #587 (02:00 - 10:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 588,
+    "TenCa": "Ca trực Lễ tân Check-in #588 (01:00 - 10:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 589,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #589 (11:00 - 17:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 590,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #590 (05:00 - 09:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 591,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #591 (23:00 - 04:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 592,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #592 (03:00 - 11:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 593,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #593 (08:00 - 16:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 594,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #594 (03:00 - 07:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 595,
+    "TenCa": "Ca trực Buồng phòng Villa #595 (18:00 - 23:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 596,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #596 (12:00 - 20:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 597,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #597 (11:00 - 16:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 598,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #598 (08:00 - 13:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 599,
+    "TenCa": "Ca trực Pha chế Quầy Bar #599 (01:00 - 10:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 600,
+    "TenCa": "Ca trực Lễ tân Check-in #600 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 601,
+    "TenCa": "Ca trực Lễ tân Check-in #601 (05:00 - 13:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 602,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #602 (16:00 - 22:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 603,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #603 (04:00 - 13:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 604,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #604 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 605,
+    "TenCa": "Ca trực Buồng phòng Villa #605 (22:00 - 07:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 606,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #606 (04:00 - 13:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 607,
+    "TenCa": "Ca trực Pha chế Quầy Bar #607 (04:00 - 08:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 608,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #608 (04:00 - 08:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 609,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #609 (00:00 - 07:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 610,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #610 (01:00 - 05:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 611,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #611 (10:00 - 14:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 612,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #612 (14:00 - 18:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 613,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #613 (02:00 - 09:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 614,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #614 (20:00 - 02:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 615,
+    "TenCa": "Ca trực Pha chế Quầy Bar #615 (09:00 - 15:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 616,
+    "TenCa": "Ca trực Buồng phòng Villa #616 (05:00 - 14:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 617,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #617 (01:00 - 10:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 618,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #618 (04:00 - 13:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 619,
+    "TenCa": "Ca trực Pha chế Quầy Bar #619 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 620,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #620 (15:00 - 21:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 621,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #621 (08:00 - 16:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 622,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #622 (07:00 - 13:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 623,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #623 (07:00 - 13:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 624,
+    "TenCa": "Ca trực Lễ tân Check-in #624 (15:00 - 19:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 625,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #625 (23:00 - 03:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 626,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #626 (23:00 - 07:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 627,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #627 (05:00 - 09:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 628,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #628 (15:00 - 23:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 629,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #629 (22:00 - 03:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 630,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #630 (15:00 - 21:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 631,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #631 (21:00 - 05:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 632,
+    "TenCa": "Ca trực Pha chế Quầy Bar #632 (13:00 - 19:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 633,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #633 (00:00 - 09:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 634,
+    "TenCa": "Ca trực Pha chế Quầy Bar #634 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 635,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #635 (21:00 - 05:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 636,
+    "TenCa": "Ca trực Buồng phòng Villa #636 (04:00 - 11:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 637,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #637 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 638,
+    "TenCa": "Ca trực Pha chế Quầy Bar #638 (21:00 - 02:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 639,
+    "TenCa": "Ca trực Pha chế Quầy Bar #639 (01:00 - 06:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 640,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #640 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 641,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #641 (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 642,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #642 (08:00 - 17:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 643,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #643 (08:00 - 17:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 644,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #644 (03:00 - 07:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 645,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #645 (05:00 - 12:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 646,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #646 (11:00 - 18:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 647,
+    "TenCa": "Ca trực Lễ tân Check-in #647 (23:00 - 06:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 648,
+    "TenCa": "Ca trực Pha chế Quầy Bar #648 (11:00 - 15:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 649,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #649 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 650,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #650 (12:00 - 21:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 651,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #651 (13:00 - 19:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 652,
+    "TenCa": "Ca trực Buồng phòng Villa #652 (05:00 - 10:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 653,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #653 (09:00 - 18:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 654,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #654 (22:00 - 02:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 655,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #655 (16:00 - 23:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 656,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #656 (09:00 - 16:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 657,
+    "TenCa": "Ca trực Pha chế Quầy Bar #657 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 658,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #658 (06:00 - 13:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 659,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #659 (11:00 - 20:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 660,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #660 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 661,
+    "TenCa": "Ca trực Lễ tân Check-in #661 (12:00 - 18:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 662,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #662 (15:00 - 00:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 663,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #663 (08:00 - 12:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 664,
+    "TenCa": "Ca trực Pha chế Quầy Bar #664 (20:00 - 00:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 665,
+    "TenCa": "Ca trực Buồng phòng Villa #665 (14:00 - 19:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 666,
+    "TenCa": "Ca trực Lễ tân Check-in #666 (03:00 - 08:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 667,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #667 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 668,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #668 (19:00 - 00:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 669,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #669 (09:00 - 17:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 670,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #670 (19:00 - 01:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 671,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #671 (08:00 - 15:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 672,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #672 (01:00 - 05:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 673,
+    "TenCa": "Ca trực Pha chế Quầy Bar #673 (03:00 - 09:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 674,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #674 (12:00 - 19:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 675,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #675 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 676,
+    "TenCa": "Ca trực Lễ tân Check-in #676 (00:00 - 07:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 677,
+    "TenCa": "Ca trực Pha chế Quầy Bar #677 (20:00 - 04:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 678,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #678 (07:00 - 15:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 679,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #679 (02:00 - 07:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 680,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #680 (01:00 - 09:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 681,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #681 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 682,
+    "TenCa": "Ca trực Buồng phòng Villa #682 (06:00 - 15:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 683,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #683 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 684,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #684 (23:00 - 03:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 685,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #685 (19:00 - 02:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 686,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #686 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 687,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #687 (03:00 - 12:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 688,
+    "TenCa": "Ca trực Buồng phòng Villa #688 (07:00 - 14:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 689,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #689 (21:00 - 02:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 690,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #690 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 691,
+    "TenCa": "Ca trực Pha chế Quầy Bar #691 (14:00 - 18:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 692,
+    "TenCa": "Ca trực Lễ tân Check-in #692 (12:00 - 21:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 693,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #693 (03:00 - 11:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 694,
+    "TenCa": "Ca trực Buồng phòng Villa #694 (05:00 - 14:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 695,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #695 (13:00 - 22:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 696,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #696 (08:00 - 14:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 697,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #697 (13:00 - 18:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 698,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #698 (01:00 - 07:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 699,
+    "TenCa": "Ca trực Pha chế Quầy Bar #699 (20:00 - 05:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 700,
+    "TenCa": "Ca trực Pha chế Quầy Bar #700 (12:00 - 20:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 701,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #701 (06:00 - 14:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 702,
+    "TenCa": "Ca trực Lễ tân Check-in #702 (14:00 - 21:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 703,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #703 (11:00 - 15:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 704,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #704 (22:00 - 02:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 705,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #705 (18:00 - 22:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 706,
+    "TenCa": "Ca trực Buồng phòng Villa #706 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 707,
+    "TenCa": "Ca trực Buồng phòng Villa #707 (19:00 - 04:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 708,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #708 (19:00 - 02:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 709,
+    "TenCa": "Ca trực Pha chế Quầy Bar #709 (03:00 - 12:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 710,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #710 (01:00 - 06:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 711,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #711 (14:00 - 20:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 712,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #712 (15:00 - 22:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 713,
+    "TenCa": "Ca trực Buồng phòng Villa #713 (20:00 - 03:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 714,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #714 (03:00 - 12:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 715,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #715 (05:00 - 13:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 716,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #716 (18:00 - 22:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 717,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #717 (06:00 - 15:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 718,
+    "TenCa": "Ca trực Lễ tân Check-in #718 (08:00 - 13:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 719,
+    "TenCa": "Ca trực Pha chế Quầy Bar #719 (14:00 - 23:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 720,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #720 (00:00 - 05:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 721,
+    "TenCa": "Ca trực Lễ tân Check-in #721 (10:00 - 14:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 722,
+    "TenCa": "Ca trực Buồng phòng Villa #722 (06:00 - 12:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 723,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #723 (22:00 - 02:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 724,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #724 (03:00 - 09:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 725,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #725 (16:00 - 01:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 726,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #726 (01:00 - 10:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 727,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #727 (20:00 - 05:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 728,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #728 (07:00 - 13:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 729,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #729 (11:00 - 20:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 730,
+    "TenCa": "Ca trực Buồng phòng Villa #730 (05:00 - 09:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 731,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #731 (08:00 - 14:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 732,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #732 (01:00 - 09:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 733,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #733 (11:00 - 17:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 734,
+    "TenCa": "Ca trực Pha chế Quầy Bar #734 (12:00 - 19:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 735,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #735 (00:00 - 09:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 736,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #736 (07:00 - 15:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 737,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #737 (10:00 - 17:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 738,
+    "TenCa": "Ca trực Lễ tân Check-in #738 (12:00 - 17:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 739,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #739 (03:00 - 07:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 740,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #740 (17:00 - 21:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 741,
+    "TenCa": "Ca trực Pha chế Quầy Bar #741 (08:00 - 15:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 742,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #742 (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 743,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #743 (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 744,
+    "TenCa": "Ca trực Pha chế Quầy Bar #744 (23:00 - 05:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 745,
+    "TenCa": "Ca trực Pha chế Quầy Bar #745 (09:00 - 15:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 746,
+    "TenCa": "Ca trực Pha chế Quầy Bar #746 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 747,
+    "TenCa": "Ca trực Pha chế Quầy Bar #747 (14:00 - 18:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 748,
+    "TenCa": "Ca trực Lễ tân Check-in #748 (10:00 - 14:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 749,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #749 (13:00 - 21:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 750,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #750 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 751,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #751 (07:00 - 14:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 752,
+    "TenCa": "Ca trực Buồng phòng Villa #752 (05:00 - 13:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 753,
+    "TenCa": "Ca trực Buồng phòng Villa #753 (12:00 - 17:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 754,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #754 (15:00 - 23:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 755,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #755 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 756,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #756 (02:00 - 09:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 757,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #757 (04:00 - 12:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 758,
+    "TenCa": "Ca trực Lễ tân Check-in #758 (06:00 - 11:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 759,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #759 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 760,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #760 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 761,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #761 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 762,
+    "TenCa": "Ca trực Buồng phòng Villa #762 (11:00 - 15:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 763,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #763 (03:00 - 12:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 764,
+    "TenCa": "Ca trực Pha chế Quầy Bar #764 (22:00 - 05:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 765,
+    "TenCa": "Ca trực Buồng phòng Villa #765 (20:00 - 00:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 766,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #766 (20:00 - 05:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 767,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #767 (07:00 - 13:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 768,
+    "TenCa": "Ca trực Buồng phòng Villa #768 (05:00 - 12:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 769,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #769 (12:00 - 20:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 770,
+    "TenCa": "Ca trực Pha chế Quầy Bar #770 (04:00 - 09:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 771,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #771 (12:00 - 20:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 772,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #772 (22:00 - 05:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 773,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #773 (06:00 - 11:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 774,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #774 (11:00 - 18:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 775,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #775 (11:00 - 15:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 776,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #776 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 777,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #777 (21:00 - 03:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 778,
+    "TenCa": "Ca trực Buồng phòng Villa #778 (21:00 - 05:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 779,
+    "TenCa": "Ca trực Pha chế Quầy Bar #779 (06:00 - 14:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 780,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #780 (23:00 - 03:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 781,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #781 (13:00 - 22:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 782,
+    "TenCa": "Ca trực Pha chế Quầy Bar #782 (14:00 - 23:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 783,
+    "TenCa": "Ca trực Buồng phòng Villa #783 (22:00 - 06:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 784,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #784 (02:00 - 06:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 785,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #785 (19:00 - 02:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 786,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #786 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 787,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #787 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 788,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #788 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 789,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #789 (20:00 - 02:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 790,
+    "TenCa": "Ca trực Lễ tân Check-in #790 (07:00 - 16:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 791,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #791 (00:00 - 09:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 792,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #792 (13:00 - 17:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 793,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #793 (06:00 - 13:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 794,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #794 (06:00 - 11:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 795,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #795 (14:00 - 18:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 796,
+    "TenCa": "Ca trực Lễ tân Check-in #796 (13:00 - 17:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 797,
+    "TenCa": "Ca trực Buồng phòng Villa #797 (00:00 - 07:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 798,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #798 (23:00 - 07:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 799,
+    "TenCa": "Ca trực Lễ tân Check-in #799 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 800,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #800 (17:00 - 22:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 801,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #801 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 802,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #802 (18:00 - 23:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 803,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #803 (03:00 - 08:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 804,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #804 (14:00 - 18:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 805,
+    "TenCa": "Ca trực Buồng phòng Villa #805 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 806,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #806 (14:00 - 21:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 807,
+    "TenCa": "Ca trực Lễ tân Check-in #807 (11:00 - 16:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 808,
+    "TenCa": "Ca trực Lễ tân Check-in #808 (14:00 - 19:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 809,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #809 (02:00 - 11:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 810,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #810 (02:00 - 11:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 811,
+    "TenCa": "Ca trực Lễ tân Check-in #811 (20:00 - 03:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 812,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #812 (10:00 - 16:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 813,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #813 (23:00 - 07:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 814,
+    "TenCa": "Ca trực Buồng phòng Villa #814 (05:00 - 10:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 815,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #815 (14:00 - 19:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 816,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #816 (00:00 - 04:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 817,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #817 (21:00 - 06:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 818,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #818 (23:00 - 06:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 819,
+    "TenCa": "Ca trực Lễ tân Check-in #819 (06:00 - 15:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 820,
+    "TenCa": "Ca trực Buồng phòng Villa #820 (23:00 - 04:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 821,
+    "TenCa": "Ca trực Buồng phòng Villa #821 (03:00 - 09:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 822,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #822 (10:00 - 17:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 823,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #823 (21:00 - 01:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 824,
+    "TenCa": "Ca trực Lễ tân Check-in #824 (21:00 - 06:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 825,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #825 (23:00 - 08:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 826,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #826 (04:00 - 13:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 827,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #827 (05:00 - 14:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 828,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #828 (17:00 - 21:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 829,
+    "TenCa": "Ca trực Pha chế Quầy Bar #829 (12:00 - 18:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 830,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #830 (20:00 - 00:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 831,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #831 (03:00 - 09:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 832,
+    "TenCa": "Ca trực Pha chế Quầy Bar #832 (11:00 - 20:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 833,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #833 (23:00 - 04:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 834,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #834 (00:00 - 09:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 835,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #835 (04:00 - 10:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 836,
+    "TenCa": "Ca trực Pha chế Quầy Bar #836 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 837,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #837 (07:00 - 12:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 838,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #838 (00:00 - 09:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 839,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #839 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 840,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #840 (09:00 - 18:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 841,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #841 (16:00 - 21:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 842,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #842 (13:00 - 22:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 843,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #843 (20:00 - 01:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 844,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #844 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 845,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #845 (23:00 - 03:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 846,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #846 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 847,
+    "TenCa": "Ca trực Lễ tân Check-in #847 (06:00 - 13:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 848,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #848 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 849,
+    "TenCa": "Ca trực Pha chế Quầy Bar #849 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 850,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #850 (03:00 - 08:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 851,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #851 (06:00 - 15:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 852,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #852 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 853,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #853 (08:00 - 16:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 854,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #854 (11:00 - 16:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 855,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #855 (17:00 - 00:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 856,
+    "TenCa": "Ca trực Pha chế Quầy Bar #856 (19:00 - 01:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 857,
+    "TenCa": "Ca trực Lễ tân Check-in #857 (22:00 - 04:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 858,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #858 (17:00 - 02:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 859,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #859 (18:00 - 02:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 860,
+    "TenCa": "Ca trực Pha chế Quầy Bar #860 (02:00 - 06:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 861,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #861 (03:00 - 08:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 862,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #862 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 863,
+    "TenCa": "Ca trực Lễ tân Check-in #863 (11:00 - 19:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 864,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #864 (00:00 - 04:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 865,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #865 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 866,
+    "TenCa": "Ca trực Pha chế Quầy Bar #866 (03:00 - 07:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 867,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #867 (23:00 - 06:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 868,
+    "TenCa": "Ca trực Pha chế Quầy Bar #868 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 869,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #869 (23:00 - 05:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 870,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #870 (14:00 - 21:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 871,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #871 (16:00 - 21:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 872,
+    "TenCa": "Ca trực Lễ tân Check-in #872 (19:00 - 23:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 873,
+    "TenCa": "Ca trực Pha chế Quầy Bar #873 (16:00 - 21:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 874,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #874 (01:00 - 07:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 875,
+    "TenCa": "Ca trực Pha chế Quầy Bar #875 (09:00 - 14:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 876,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #876 (21:00 - 06:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 877,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #877 (10:00 - 17:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 878,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #878 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 879,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #879 (20:00 - 01:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 880,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #880 (17:00 - 21:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 881,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #881 (09:00 - 18:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 882,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #882 (12:00 - 17:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 883,
+    "TenCa": "Ca trực Pha chế Quầy Bar #883 (08:00 - 14:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 884,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #884 (05:00 - 11:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 885,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #885 (17:00 - 22:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 886,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #886 (15:00 - 23:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 887,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #887 (09:00 - 13:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 888,
+    "TenCa": "Ca trực Pha chế Quầy Bar #888 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 889,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #889 (09:00 - 16:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 890,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #890 (01:00 - 07:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": 891,
+    "TenCa": "Ca trực Lễ tân Check-in #891 (19:00 - 04:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 892,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #892 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 893,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #893 (12:00 - 18:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 894,
+    "TenCa": "Ca trực Buồng phòng Villa #894 (09:00 - 13:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 895,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #895 (19:00 - 00:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 896,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #896 (04:00 - 11:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 897,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #897 (14:00 - 23:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 898,
+    "TenCa": "Ca trực Buồng phòng Villa #898 (22:00 - 02:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 899,
+    "TenCa": "Ca trực Lễ tân Check-in #899 (20:00 - 01:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 900,
+    "TenCa": "Ca trực Pha chế Quầy Bar #900 (16:00 - 20:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 901,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #901 (01:00 - 06:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 902,
+    "TenCa": "Ca trực Lễ tân Check-in #902 (17:00 - 22:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 903,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #903 (02:00 - 09:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 904,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #904 (14:00 - 23:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 905,
+    "TenCa": "Ca trực Pha chế Quầy Bar #905 (13:00 - 20:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 906,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #906 (22:00 - 06:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 907,
+    "TenCa": "Ca trực Pha chế Quầy Bar #907 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 908,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #908 (08:00 - 14:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 909,
+    "TenCa": "Ca trực Lễ tân Check-in #909 (16:00 - 01:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 910,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #910 (00:00 - 04:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 911,
+    "TenCa": "Ca trực Pha chế Quầy Bar #911 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 912,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #912 (04:00 - 09:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 913,
+    "TenCa": "Ca trực Buồng phòng Villa #913 (06:00 - 10:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 914,
+    "TenCa": "Ca trực Lễ tân Check-in #914 (17:00 - 21:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 915,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #915 (05:00 - 10:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 916,
+    "TenCa": "Ca trực Lễ tân Check-in #916 (18:00 - 02:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 917,
+    "TenCa": "Ca trực Buồng phòng Villa #917 (06:00 - 13:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 918,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #918 (21:00 - 04:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 919,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #919 (11:00 - 18:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "18:00:00"
+  },
+  {
+    "MaCa": 920,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #920 (12:00 - 19:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 921,
+    "TenCa": "Ca trực Buồng phòng Villa #921 (20:00 - 02:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 922,
+    "TenCa": "Ca trực Buồng phòng Villa #922 (03:00 - 12:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 923,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #923 (08:00 - 16:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 924,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #924 (02:00 - 06:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 925,
+    "TenCa": "Ca trực Pha chế Quầy Bar #925 (11:00 - 16:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 926,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #926 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 927,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #927 (16:00 - 22:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 928,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #928 (08:00 - 13:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 929,
+    "TenCa": "Ca trực Lễ tân Check-in #929 (11:00 - 17:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 930,
+    "TenCa": "Ca trực Pha chế Quầy Bar #930 (05:00 - 11:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 931,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #931 (06:00 - 10:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 932,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #932 (09:00 - 14:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 933,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #933 (15:00 - 19:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 934,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #934 (21:00 - 04:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 935,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #935 (03:00 - 08:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 936,
+    "TenCa": "Ca trực Pha chế Quầy Bar #936 (06:00 - 10:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 937,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #937 (03:00 - 10:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 938,
+    "TenCa": "Ca trực Buồng phòng Villa #938 (07:00 - 11:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 939,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #939 (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 940,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #940 (00:00 - 06:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 941,
+    "TenCa": "Ca trực Pha chế Quầy Bar #941 (05:00 - 11:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "11:00:00"
+  },
+  {
+    "MaCa": 942,
+    "TenCa": "Ca trực Pha chế Quầy Bar #942 (19:00 - 03:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 943,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #943 (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 944,
+    "TenCa": "Ca trực Pha chế Quầy Bar #944 (08:00 - 17:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 945,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #945 (23:00 - 05:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 946,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #946 (08:00 - 14:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 947,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #947 (18:00 - 22:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 948,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #948 (19:00 - 02:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 949,
+    "TenCa": "Ca trực Lễ tân Check-in #949 (00:00 - 04:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": 950,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #950 (15:00 - 22:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 951,
+    "TenCa": "Ca trực Buồng phòng Villa #951 (06:00 - 15:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 952,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #952 (17:00 - 01:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 953,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #953 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 954,
+    "TenCa": "Ca trực Pha chế Quầy Bar #954 (22:00 - 03:00)",
+    "GioBD": "22:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 955,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #955 (14:00 - 20:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 956,
+    "TenCa": "Ca trực Buồng phòng Villa #956 (12:00 - 21:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 957,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #957 (01:00 - 09:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 958,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #958 (13:00 - 21:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 959,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #959 (19:00 - 02:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 960,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #960 (15:00 - 00:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 961,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #961 (03:00 - 09:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 962,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #962 (01:00 - 09:00)",
+    "GioBD": "01:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 963,
+    "TenCa": "Ca trực Buồng phòng Villa #963 (18:00 - 23:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 964,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #964 (09:00 - 15:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 965,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #965 (14:00 - 19:00)",
+    "GioBD": "14:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": 966,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #966 (16:00 - 23:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 967,
+    "TenCa": "Ca trực Pha chế Quầy Bar #967 (00:00 - 06:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 968,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #968 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 969,
+    "TenCa": "Ca trực Pha chế Quầy Bar #969 (10:00 - 16:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 970,
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #970 (00:00 - 05:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "05:00:00"
+  },
+  {
+    "MaCa": 971,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #971 (02:00 - 10:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 972,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #972 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 973,
+    "TenCa": "Ca trực Pha chế Quầy Bar #973 (21:00 - 02:00)",
+    "GioBD": "21:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 974,
+    "TenCa": "Ca trực Buồng phòng Villa #974 (05:00 - 14:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 975,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #975 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 976,
+    "TenCa": "Ca trực Buồng phòng Villa #976 (18:00 - 02:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "02:00:00"
+  },
+  {
+    "MaCa": 977,
+    "TenCa": "Ca trực Buồng phòng Villa #977 (18:00 - 23:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 978,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #978 (07:00 - 16:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 979,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #979 (13:00 - 21:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "21:00:00"
+  },
+  {
+    "MaCa": 980,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #980 (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 981,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #981 (13:00 - 17:00)",
+    "GioBD": "13:00:00",
+    "GioKT": "17:00:00"
+  },
+  {
+    "MaCa": 982,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #982 (18:00 - 00:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": 983,
+    "TenCa": "Ca trực Lễ tân Check-in #983 (04:00 - 13:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "13:00:00"
+  },
+  {
+    "MaCa": 984,
+    "TenCa": "Ca trực Buồng phòng Villa #984 (02:00 - 09:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": 985,
+    "TenCa": "Ca trực Lễ tân Check-in #985 (09:00 - 14:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "14:00:00"
+  },
+  {
+    "MaCa": 986,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #986 (03:00 - 12:00)",
+    "GioBD": "03:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": 987,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #987 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": 988,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #988 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": 989,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #989 (16:00 - 22:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "22:00:00"
+  },
+  {
+    "MaCa": 990,
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #990 (19:00 - 23:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 991,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #991 (11:00 - 15:00)",
+    "GioBD": "11:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 992,
+    "TenCa": "Ca trực Lễ tân Check-in #992 (23:00 - 03:00)",
+    "GioBD": "23:00:00",
+    "GioKT": "03:00:00"
+  },
+  {
+    "MaCa": 993,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #993 (07:00 - 16:00)",
+    "GioBD": "07:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": 994,
+    "TenCa": "Ca trực Lễ tân Đặt phòng #994 (18:00 - 23:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "23:00:00"
+  },
+  {
+    "MaCa": 995,
+    "TenCa": "Ca trực Buồng phòng Tầng cao #995 (04:00 - 10:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 996,
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #996 (18:00 - 01:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "01:00:00"
+  },
+  {
+    "MaCa": 997,
+    "TenCa": "Ca trực Pha chế Quầy Bar #997 (02:00 - 06:00)",
+    "GioBD": "02:00:00",
+    "GioKT": "06:00:00"
+  },
+  {
+    "MaCa": 998,
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #998 (05:00 - 10:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": 999,
+    "TenCa": "Ca trực Pha chế Quầy Bar #999 (06:00 - 15:00)",
+    "GioBD": "06:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": 1000,
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #1000 (04:00 - 11:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "11:00:00"
+  }
+]

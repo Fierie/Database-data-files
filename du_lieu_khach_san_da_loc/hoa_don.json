@@ -1,0 +1,898 @@
+[
+  {
+    "MaHD": 1,
+    "MaDP": 1,
+    "NgayLap": "2025-05-13 11:30:00",
+    "TongTien": 61042000.0,
+    "TienCoc": 29600000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 2,
+    "MaDP": 2,
+    "NgayLap": "2025-06-25 11:30:00",
+    "TongTien": 27604000.0,
+    "TienCoc": 10240000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 3,
+    "MaDP": 3,
+    "NgayLap": "2025-09-25 11:30:00",
+    "TongTien": 69052000.0,
+    "TienCoc": 29486000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 4,
+    "MaDP": 4,
+    "NgayLap": "2025-12-30 11:30:00",
+    "TongTien": 153250000.0,
+    "TienCoc": 74791000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 5,
+    "MaDP": 5,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 46818000.0,
+    "TienCoc": 16483000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 6,
+    "MaDP": 6,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 40470000.0,
+    "TienCoc": 15830000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 7,
+    "MaDP": 7,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 38562000.0,
+    "TienCoc": 14368000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 8,
+    "MaDP": 8,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 48588000.0,
+    "TienCoc": 26631000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 9,
+    "MaDP": 9,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 53396000.0,
+    "TienCoc": 25728000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 10,
+    "MaDP": 10,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 42770000.0,
+    "TienCoc": 20060000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 11,
+    "MaDP": 11,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 37500000.0,
+    "TienCoc": 14239000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 12,
+    "MaDP": 12,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 39475000.0,
+    "TienCoc": 19663000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 13,
+    "MaDP": 13,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 39993000.0,
+    "TienCoc": 15989000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 14,
+    "MaDP": 14,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 40798000.0,
+    "TienCoc": 21132000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 15,
+    "MaDP": 15,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 41274000.0,
+    "TienCoc": 22402000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 16,
+    "MaDP": 16,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 40964000.0,
+    "TienCoc": 19118000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 17,
+    "MaDP": 17,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 44580000.0,
+    "TienCoc": 16880000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 18,
+    "MaDP": 18,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 38329000.0,
+    "TienCoc": 16654000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 19,
+    "MaDP": 19,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 39812000.0,
+    "TienCoc": 21719000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 20,
+    "MaDP": 20,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 44266000.0,
+    "TienCoc": 19019000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 21,
+    "MaDP": 21,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 52156000.0,
+    "TienCoc": 20590000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 22,
+    "MaDP": 22,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 42185000.0,
+    "TienCoc": 16332000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 23,
+    "MaDP": 23,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 42536000.0,
+    "TienCoc": 18088000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 24,
+    "MaDP": 24,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 43915000.0,
+    "TienCoc": 18571000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 25,
+    "MaDP": 25,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 41188000.0,
+    "TienCoc": 15541000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 26,
+    "MaDP": 26,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 42770000.0,
+    "TienCoc": 16938000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 27,
+    "MaDP": 27,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 37500000.0,
+    "TienCoc": 16774000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 28,
+    "MaDP": 28,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 40787000.0,
+    "TienCoc": 14690000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 29,
+    "MaDP": 29,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 51549000.0,
+    "TienCoc": 22449000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 30,
+    "MaDP": 30,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 37500000.0,
+    "TienCoc": 16562000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 31,
+    "MaDP": 31,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 48464000.0,
+    "TienCoc": 24568000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 32,
+    "MaDP": 32,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 41775000.0,
+    "TienCoc": 21827000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 33,
+    "MaDP": 33,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 37500000.0,
+    "TienCoc": 16537000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 34,
+    "MaDP": 34,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 44476000.0,
+    "TienCoc": 18393000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 35,
+    "MaDP": 35,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 40062000.0,
+    "TienCoc": 16594000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 36,
+    "MaDP": 36,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 42767000.0,
+    "TienCoc": 23509000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 37,
+    "MaDP": 37,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 47411000.0,
+    "TienCoc": 20079000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 38,
+    "MaDP": 38,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 43532000.0,
+    "TienCoc": 22752000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 39,
+    "MaDP": 39,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 39460000.0,
+    "TienCoc": 21391000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 40,
+    "MaDP": 40,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 39976000.0,
+    "TienCoc": 21769000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 41,
+    "MaDP": 41,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 54029000.0,
+    "TienCoc": 21263000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 42,
+    "MaDP": 42,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 39139000.0,
+    "TienCoc": 14241000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 43,
+    "MaDP": 43,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 38286000.0,
+    "TienCoc": 15500000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 44,
+    "MaDP": 44,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 37500000.0,
+    "TienCoc": 19159000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 45,
+    "MaDP": 45,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 37500000.0,
+    "TienCoc": 15345000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 46,
+    "MaDP": 46,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 50619000.0,
+    "TienCoc": 23034000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 47,
+    "MaDP": 47,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 37500000.0,
+    "TienCoc": 16650000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 48,
+    "MaDP": 48,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 37871000.0,
+    "TienCoc": 20079000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 49,
+    "MaDP": 49,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 45831000.0,
+    "TienCoc": 21923000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 50,
+    "MaDP": 50,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 37500000.0,
+    "TienCoc": 13718000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 51,
+    "MaDP": 51,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 37500000.0,
+    "TienCoc": 20146000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 52,
+    "MaDP": 52,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 47465000.0,
+    "TienCoc": 17555000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 53,
+    "MaDP": 53,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 44510000.0,
+    "TienCoc": 18788000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 54,
+    "MaDP": 54,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 46184000.0,
+    "TienCoc": 20888000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 55,
+    "MaDP": 55,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 54415000.0,
+    "TienCoc": 26272000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 56,
+    "MaDP": 56,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 38266000.0,
+    "TienCoc": 15681000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 57,
+    "MaDP": 57,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 40044000.0,
+    "TienCoc": 21933000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 58,
+    "MaDP": 58,
+    "NgayLap": "2025-07-16 11:30:00",
+    "TongTien": 43892000.0,
+    "TienCoc": 22097000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 59,
+    "MaDP": 59,
+    "NgayLap": "2025-07-31 11:30:00",
+    "TongTien": 39910000.0,
+    "TienCoc": 20939000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 76,
+    "MaDP": 76,
+    "NgayLap": "2025-06-16 11:30:00",
+    "TongTien": 8868000.0,
+    "TienCoc": 4034000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 82,
+    "MaDP": 82,
+    "NgayLap": "2025-01-21 11:30:00",
+    "TongTien": 26415000.0,
+    "TienCoc": 12504000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 87,
+    "MaDP": 87,
+    "NgayLap": "2025-01-11 11:30:00",
+    "TongTien": 11058000.0,
+    "TienCoc": 5950000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 105,
+    "MaDP": 105,
+    "NgayLap": "2025-09-26 11:30:00",
+    "TongTien": 9152000.0,
+    "TienCoc": 3494000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 128,
+    "MaDP": 128,
+    "NgayLap": "2025-12-06 11:30:00",
+    "TongTien": 13170000.0,
+    "TienCoc": 6675000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 137,
+    "MaDP": 137,
+    "NgayLap": "2025-10-21 11:30:00",
+    "TongTien": 11617000.0,
+    "TienCoc": 4617000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 176,
+    "MaDP": 176,
+    "NgayLap": "2025-09-12 11:30:00",
+    "TongTien": 15408000.0,
+    "TienCoc": 7820000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 232,
+    "MaDP": 232,
+    "NgayLap": "2025-09-10 11:30:00",
+    "TongTien": 7698000.0,
+    "TienCoc": 3520000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 238,
+    "MaDP": 238,
+    "NgayLap": "2025-12-22 11:30:00",
+    "TongTien": 23011000.0,
+    "TienCoc": 11707000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 258,
+    "MaDP": 258,
+    "NgayLap": "2025-08-18 11:30:00",
+    "TongTien": 22532000.0,
+    "TienCoc": 11155000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 285,
+    "MaDP": 285,
+    "NgayLap": "2025-05-14 11:30:00",
+    "TongTien": 10521000.0,
+    "TienCoc": 3879000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 314,
+    "MaDP": 314,
+    "NgayLap": "2025-12-09 11:30:00",
+    "TongTien": 7684000.0,
+    "TienCoc": 3219000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 319,
+    "MaDP": 319,
+    "NgayLap": "2025-03-15 11:30:00",
+    "TongTien": 26521000.0,
+    "TienCoc": 10230000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 324,
+    "MaDP": 324,
+    "NgayLap": "2025-07-11 11:30:00",
+    "TongTien": 9288000.0,
+    "TienCoc": 5070000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 343,
+    "MaDP": 343,
+    "NgayLap": "2025-02-15 11:30:00",
+    "TongTien": 19437000.0,
+    "TienCoc": 7448000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 352,
+    "MaDP": 352,
+    "NgayLap": "2025-12-22 11:30:00",
+    "TongTien": 10012000.0,
+    "TienCoc": 3581000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 378,
+    "MaDP": 378,
+    "NgayLap": "2025-02-07 11:30:00",
+    "TongTien": 22070000.0,
+    "TienCoc": 7840000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 418,
+    "MaDP": 418,
+    "NgayLap": "2025-08-14 11:30:00",
+    "TongTien": 20081000.0,
+    "TienCoc": 10444000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 438,
+    "MaDP": 438,
+    "NgayLap": "2025-10-23 11:30:00",
+    "TongTien": 4344000.0,
+    "TienCoc": 1957000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 461,
+    "MaDP": 461,
+    "NgayLap": "2025-11-07 11:30:00",
+    "TongTien": 17350000.0,
+    "TienCoc": 7267000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 479,
+    "MaDP": 479,
+    "NgayLap": "2025-11-27 11:30:00",
+    "TongTien": 32638000.0,
+    "TienCoc": 13604000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 524,
+    "MaDP": 524,
+    "NgayLap": "2025-10-09 11:30:00",
+    "TongTien": 8315000.0,
+    "TienCoc": 3053000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 546,
+    "MaDP": 546,
+    "NgayLap": "2025-06-27 11:30:00",
+    "TongTien": 13775000.0,
+    "TienCoc": 7561000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 562,
+    "MaDP": 562,
+    "NgayLap": "2025-11-09 11:30:00",
+    "TongTien": 12576000.0,
+    "TienCoc": 6333000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 572,
+    "MaDP": 572,
+    "NgayLap": "2025-05-11 11:30:00",
+    "TongTien": 12651000.0,
+    "TienCoc": 5503000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 577,
+    "MaDP": 577,
+    "NgayLap": "2025-08-12 11:30:00",
+    "TongTien": 6662000.0,
+    "TienCoc": 2483000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 598,
+    "MaDP": 598,
+    "NgayLap": "2025-03-15 11:30:00",
+    "TongTien": 17921000.0,
+    "TienCoc": 8761000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 606,
+    "MaDP": 606,
+    "NgayLap": "2025-09-22 11:30:00",
+    "TongTien": 19902000.0,
+    "TienCoc": 8098000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 618,
+    "MaDP": 618,
+    "NgayLap": "2025-03-16 11:30:00",
+    "TongTien": 11322000.0,
+    "TienCoc": 4868000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 622,
+    "MaDP": 622,
+    "NgayLap": "2025-02-08 11:30:00",
+    "TongTien": 15642000.0,
+    "TienCoc": 7995000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 672,
+    "MaDP": 672,
+    "NgayLap": "2025-08-08 11:30:00",
+    "TongTien": 8976000.0,
+    "TienCoc": 4622000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 749,
+    "MaDP": 749,
+    "NgayLap": "2025-01-11 11:30:00",
+    "TongTien": 24916000.0,
+    "TienCoc": 13460000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 774,
+    "MaDP": 774,
+    "NgayLap": "2025-11-24 11:30:00",
+    "TongTien": 12548000.0,
+    "TienCoc": 4728000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 781,
+    "MaDP": 781,
+    "NgayLap": "2025-02-05 11:30:00",
+    "TongTien": 6608000.0,
+    "TienCoc": 3194000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 817,
+    "MaDP": 817,
+    "NgayLap": "2025-08-10 11:30:00",
+    "TongTien": 10909000.0,
+    "TienCoc": 5039000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 832,
+    "MaDP": 832,
+    "NgayLap": "2025-03-03 11:30:00",
+    "TongTien": 9654000.0,
+    "TienCoc": 3471000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 846,
+    "MaDP": 846,
+    "NgayLap": "2025-08-09 11:30:00",
+    "TongTien": 16328000.0,
+    "TienCoc": 6491000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 850,
+    "MaDP": 850,
+    "NgayLap": "2025-04-23 11:30:00",
+    "TongTien": 10344000.0,
+    "TienCoc": 4338000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 851,
+    "MaDP": 851,
+    "NgayLap": "2025-12-11 11:30:00",
+    "TongTien": 13791000.0,
+    "TienCoc": 7019000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 856,
+    "MaDP": 856,
+    "NgayLap": "2025-12-27 11:30:00",
+    "TongTien": 20230000.0,
+    "TienCoc": 8948000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 878,
+    "MaDP": 878,
+    "NgayLap": "2025-08-28 11:30:00",
+    "TongTien": 34400000.0,
+    "TienCoc": 13988000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 882,
+    "MaDP": 882,
+    "NgayLap": "2025-10-18 11:30:00",
+    "TongTien": 24815000.0,
+    "TienCoc": 12991000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 910,
+    "MaDP": 910,
+    "NgayLap": "2025-09-21 11:30:00",
+    "TongTien": 5544000.0,
+    "TienCoc": 2728000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 911,
+    "MaDP": 911,
+    "NgayLap": "2025-05-21 11:30:00",
+    "TongTien": 5683000.0,
+    "TienCoc": 3116000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 912,
+    "MaDP": 912,
+    "NgayLap": "2025-02-17 11:30:00",
+    "TongTien": 32047000.0,
+    "TienCoc": 12139000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 927,
+    "MaDP": 927,
+    "NgayLap": "2025-10-25 11:30:00",
+    "TongTien": 9322000.0,
+    "TienCoc": 3284000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 1005,
+    "MaDP": 1005,
+    "NgayLap": "2025-02-22 11:30:00",
+    "TongTien": 15964000.0,
+    "TienCoc": 5799000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 1009,
+    "MaDP": 1009,
+    "NgayLap": "2025-05-22 11:30:00",
+    "TongTien": 18867000.0,
+    "TienCoc": 9386000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 1068,
+    "MaDP": 1068,
+    "NgayLap": "2025-04-14 11:30:00",
+    "TongTien": 14295000.0,
+    "TienCoc": 5714000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 1090,
+    "MaDP": 1090,
+    "NgayLap": "2025-01-17 11:30:00",
+    "TongTien": 7064000.0,
+    "TienCoc": 2677000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 1112,
+    "MaDP": 1112,
+    "NgayLap": "2025-01-13 11:30:00",
+    "TongTien": 17223000.0,
+    "TienCoc": 8163000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 1157,
+    "MaDP": 1157,
+    "NgayLap": "2025-01-08 11:30:00",
+    "TongTien": 11989000.0,
+    "TienCoc": 4852000.0,
+    "TrangThai": "Đã thanh toán"
+  },
+  {
+    "MaHD": 1177,
+    "MaDP": 1177,
+    "NgayLap": "2025-08-27 11:30:00",
+    "TongTien": 5868000.0,
+    "TienCoc": 2083000.0,
+    "TrangThai": "Đã thanh toán"
+  }
+]

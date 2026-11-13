@@ -1,0 +1,110 @@
+[
+  {
+    "MaSD": 1,
+    "MaDP": 1,
+    "MaCN": 1,
+    "MaDV": 1,
+    "ThoiGianSD": "2025-05-10 15:30:00",
+    "SoLuong": 2,
+    "DonGiaTaiThoiDiem": 850000.0
+  },
+  {
+    "MaSD": 2,
+    "MaDP": 1,
+    "MaCN": 1,
+    "MaDV": 6,
+    "ThoiGianSD": "2025-05-10 19:00:00",
+    "SoLuong": 2,
+    "DonGiaTaiThoiDiem": 650000.0
+  },
+  {
+    "MaSD": 3,
+    "MaDP": 1,
+    "MaCN": 1,
+    "MaDV": 7,
+    "ThoiGianSD": "2025-05-11 20:00:00",
+    "SoLuong": 1,
+    "DonGiaTaiThoiDiem": 2500000.0
+  },
+  {
+    "MaSD": 4,
+    "MaDP": 1,
+    "MaCN": 1,
+    "MaDV": 2,
+    "ThoiGianSD": "2025-05-12 10:00:00",
+    "SoLuong": 2,
+    "DonGiaTaiThoiDiem": 600000.0
+  },
+  {
+    "MaSD": 101,
+    "MaDP": 28,
+    "MaCN": 2,
+    "MaDV": 2,
+    "ThoiGianSD": "2025-07-02 17:00:00",
+    "SoLuong": 1,
+    "DonGiaTaiThoiDiem": 395000.0
+  },
+  {
+    "MaSD": 762,
+    "MaDP": 17,
+    "MaCN": 2,
+    "MaDV": 2,
+    "ThoiGianSD": "2025-07-02 18:00:00",
+    "SoLuong": 3,
+    "DonGiaTaiThoiDiem": 376000.0
+  },
+  {
+    "MaSD": 1331,
+    "MaDP": 87,
+    "MaCN": 6,
+    "MaDV": 1,
+    "ThoiGianSD": "2025-01-07 10:00:00",
+    "SoLuong": 2,
+    "DonGiaTaiThoiDiem": 1234000.0
+  },
+  {
+    "MaSD": 1378,
+    "MaDP": 832,
+    "MaCN": 2,
+    "MaDV": 29,
+    "ThoiGianSD": "2025-03-01 14:00:00",
+    "SoLuong": 3,
+    "DonGiaTaiThoiDiem": 1224000.0
+  },
+  {
+    "MaSD": 1410,
+    "MaDP": 29,
+    "MaCN": 2,
+    "MaDV": 8,
+    "ThoiGianSD": "2025-07-17 08:00:00",
+    "SoLuong": 4,
+    "DonGiaTaiThoiDiem": 782000.0
+  },
+  {
+    "MaSD": 1774,
+    "MaDP": 618,
+    "MaCN": 1,
+    "MaDV": 25,
+    "ThoiGianSD": "2025-03-15 08:00:00",
+    "SoLuong": 3,
+    "DonGiaTaiThoiDiem": 285000.0
+  },
+  {
+    "MaSD": 1789,
+    "MaDP": 1009,
+    "MaCN": 2,
+    "MaDV": 24,
+    "ThoiGianSD": "2025-05-19 12:00:00",
+    "SoLuong": 1,
+    "DonGiaTaiThoiDiem": 999000.0
+  },
+  {
+    "MaSD": 1805,
+    "MaDP": 238,
+    "MaCN": 2,
+    "MaDV": 26,
+    "ThoiGianSD": "2025-12-17 14:00:00",
+    "SoLuong": 1,
+    "DonGiaTaiThoiDiem": 1349000.0
+  }
+]

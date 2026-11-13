@@ -1,0 +1,56 @@
+[
+  {
+    "MaKhu": 1,
+    "MaCN": 1,
+    "TenKhu": "VinWonders Grand Theme Park (Phân khu #1)",
+    "LoaiKhu": "Công viên chủ đề",
+    "GioMoCua": "08:00:00",
+    "GioDongCua": "21:00:00",
+    "MoTa": "VinWonders Grand Theme Park (Phân khu #1): Khu vui chơi giải trí chủ đề quy mô hàng đầu Đông Nam Á với hơn 100 trò chơi cảm giác mạnh, rạp phim bay 5D và show diễn triệu đô Tata Show."
+  },
+  {
+    "MaKhu": 2,
+    "MaCN": 2,
+    "TenKhu": "Vinpearl Safari Bán Hoang Dã (Phân khu #2)",
+    "LoaiKhu": "Safari bán hoang dã",
+    "GioMoCua": "08:30:00",
+    "GioDongCua": "16:30:00",
+    "MoTa": "Vinpearl Safari Bán Hoang Dã (Phân khu #2): Công viên bảo tồn và chăm sóc động vật hoang dã lớn nhất Việt Nam, trải nghiệm xe bus chuyên dụng đi giữa đàn hổ Bengal, sư tử và hươu cao cổ."
+  },
+  {
+    "MaKhu": 3,
+    "MaCN": 3,
+    "TenKhu": "Typhoon Water Park & Vịnh Sóng Thần (Phân khu #3)",
+    "LoaiKhu": "Công viên nước",
+    "GioMoCua": "09:00:00",
+    "GioDongCua": "18:00:00",
+    "MoTa": "Typhoon Water Park & Vịnh Sóng Thần (Phân khu #3): Tổ hợp công viên nước khổng lồ với bể tạo sóng thần nhân tạo, cụm đường trượt lốc xoáy boomerang và sông lười thư giãn nhiệt đới."
+  },
+  {
+    "MaKhu": 4,
+    "MaCN": 4,
+    "TenKhu": "Cung Điện Hải Vương & Thủy Cung Khổng Lồ (Phân khu #4)",
+    "LoaiKhu": "Thủy cung",
+    "GioMoCua": "09:00:00",
+    "GioDongCua": "20:00:00",
+    "MoTa": "Cung Điện Hải Vương & Thủy Cung Khổng Lồ (Phân khu #4): Thủy cung mang biểu tượng rùa biển lọt top 5 thế giới, chiêm ngưỡng hơn 300 loài sinh vật biển quý hiếm và show biểu diễn nàng tiên cá."
+  },
+  {
+    "MaKhu": 5,
+    "MaCN": 5,
+    "TenKhu": "Tuyến Cáp Treo Vượt Biển Kỷ Lục (Phân khu #5)",
+    "LoaiKhu": "Cáp treo",
+    "GioMoCua": "08:30:00",
+    "GioDongCua": "19:00:00",
+    "MoTa": "Tuyến Cáp Treo Vượt Biển Kỷ Lục (Phân khu #5): Tuyến cáp treo 3 dây vượt biển dài kỷ lục thế giới nối liền đất liền ra quần đảo ngắm toàn cảnh đại dương xanh ngọc bích từ trên cao."
+  },
+  {
+    "MaKhu": 6,
+    "MaCN": 6,
+    "TenKhu": "Grand World Thành Phố Không Ngủ (Phân khu #6)",
+    "LoaiKhu": "Khu giải trí tổng hợp",
+    "GioMoCua": "07:00:00",
+    "GioDongCua": "23:59:00",
+    "MoTa": "Grand World Thành Phố Không Ngủ (Phân khu #6): Thành phố lễ hội rực rỡ 24/7 với kênh đào Venice lãng mạn ngồi thuyền Gondola, bảo tàng gấu Teddy và show nhạc nước Tinh Hoa Việt Nam."
+  }
+]

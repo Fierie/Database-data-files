@@ -1,0 +1,38 @@
+[
+  {
+    "MaLP": "LP001",
+    "TenLP": "Standard",
+    "MoTa": "Phòng tiêu chuẩn ấm cúng 28m2, giường Queen êm ái, phòng tắm đứng vòi sen nóng lạnh, truyền hình cáp thông minh, view sân vườn nhiệt đới thanh bình.",
+    "SucChua": 2
+  },
+  {
+    "MaLP": "LP002",
+    "TenLP": "Superior",
+    "MoTa": "Phòng cao cấp 36m2 hướng vườn hoa bốn mùa, ban công riêng đón gió mát tự nhiên, trang bị bồn tắm nằm cao cấp, minibar trà sen Tây Hồ miễn phí.",
+    "SucChua": 2
+  },
+  {
+    "MaLP": "LP003",
+    "TenLP": "Deluxe",
+    "MoTa": "Phòng sang trọng 48m2 trực diện biển với vách kính panorama kịch trần, giường King đệm lông vũ, bồn tắm sục đôi jacuzzi ngắm hoàng hôn vịnh biển.",
+    "SucChua": 2
+  },
+  {
+    "MaLP": "LP005",
+    "TenLP": "Family",
+    "MoTa": "Căn hộ suite gia đình 78m2 gồm 1 phòng khách thanh lịch, 2 phòng ngủ độc lập, bàn ăn ấm cúng và quầy pha chế tiện nghi cho kỳ nghỉ cả nhà.",
+    "SucChua": 4
+  },
+  {
+    "MaLP": "LP004",
+    "TenLP": "Suite",
+    "MoTa": "Bungalow biệt lập 95m2 hòa mình giữa thiên nhiên, hồ bơi riêng tràn bờ mini, sân tắm nắng riêng tư và lối đi bộ trải sỏi thẳng ra bãi biển cát trắng.",
+    "SucChua": 4
+  },
+  {
+    "MaLP": "LP006",
+    "TenLP": "Presidential Suite",
+    "MoTa": "Phòng Tổng Thống vương giả 180m2 trên tầng cao nhất, phòng khách đại sảnh bài trí tranh sơn mài và đồ đồng tinh xảo, thang máy riêng, quản gia phục vụ 24/7.",
+    "SucChua": 4
+  }
+]

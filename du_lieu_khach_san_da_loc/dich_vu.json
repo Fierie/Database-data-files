@@ -1,0 +1,182 @@
+[
+  {
+    "MaDV": 1,
+    "TenDV": "Massage Bấm Huyệt Ngải Cứu Đông Y Toàn Thân",
+    "LoaiDV": "Spa",
+    "MoTa": "Liệu pháp bấm huyệt cổ truyền kết hợp túi ngải cứu sao muối gừng tươi, giải tỏa căng thẳng cơ bắp và đả thông kinh lạc trong 90 phút."
+  },
+  {
+    "MaDV": 2,
+    "TenDV": "Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya",
+    "LoaiDV": "Spa",
+    "MoTa": "Phòng xông hơi đá muối khoáng hồng Himalaya nguyên khối giải phóng ion âm thanh lọc đường hô hấp, đào thải độc tố và mang lại giấc ngủ sâu."
+  },
+  {
+    "MaDV": 3,
+    "TenDV": "Tắm Khoáng Nóng Thảo Dược Người Dao Đỏ Sa Pa",
+    "LoaiDV": "Spa",
+    "MoTa": "Bài thuốc tắm gia truyền hơn 30 vị lá quý ngâm trong bồn gỗ pơ mu bốc hơi nghi ngút, phục hồi sinh lực và xua tan mệt mỏi tức thì."
+  },
+  {
+    "MaDV": 4,
+    "TenDV": "Chăm Sóc & Trẻ Hóa Da Mặt Tinh Chất Sen Tây Hồ",
+    "LoaiDV": "Spa",
+    "MoTa": "Quy trình chăm sóc da mặt chuyên sâu chiết xuất từ tinh dầu hoa sen bách diệp Hồ Tây, cấp ẩm đa tầng và làm sáng hồng làn da."
+  },
+  {
+    "MaDV": 5,
+    "TenDV": "Gội Đầu Dưỡng Sinh Thảo Mộc Bồ Kết Sả Chanh",
+    "LoaiDV": "Spa",
+    "MoTa": "Gội đầu thảo dược đun từ bồ kết, hương nhu, vỏ bưởi kết hợp massage bấm huyệt vùng đầu cổ vai gáy giảm đau đầu căng thẳng."
+  },
+  {
+    "MaDV": 6,
+    "TenDV": "Đại Tiệc Buffet Hải Sản Tôm Hùm & Cua Hoàng Đế",
+    "LoaiDV": "Nhà hàng",
+    "MoTa": "Buffet tối thượng hạng hơn 80 món: tôm hùm nướng phô mai, cua huỳnh đế hấp nước dừa, hàu nướng mỡ hành, cá hồi sashimi và quầy bánh ngọt phong phú."
+  },
+  {
+    "MaDV": 7,
+    "TenDV": "Bữa Tối Nến Lãng Mạn Bò Wagyu A5 & Rượu Vang Đỏ",
+    "LoaiDV": "Nhà hàng",
+    "MoTa": "Set menu 5 món chuẩn phong cách fine-dining: Bò Wagyu A5 áp chảo gan ngỗng béo ngậy, súp nấm cục truffle và rượu vang Bordeaux bên bờ biển."
+  },
+  {
+    "MaDV": 8,
+    "TenDV": "Set Trà Chiều Cung Đình Huế & Bánh Đậu Xanh",
+    "LoaiDV": "Nhà hàng",
+    "MoTa": "Thưởng thức trà sen cung đình Huế thanh tao, bánh đậu xanh trái cây ngũ sắc, mứt sen trần và các loại bánh ngọt truyền thống tinh tế."
+  },
+  {
+    "MaDV": 9,
+    "TenDV": "Tiệc Nướng BBQ Hải Sản Tươi Sống Sân Vườn Biệt Thự",
+    "LoaiDV": "Nhà hàng",
+    "MoTa": "Đầu bếp resort nướng trực tiếp tại villa: ghẹ xanh nướng muối ớt, mực ống một nắng, sườn cừu ướp thảo mộc và rau củ Đà Lạt nướng than hoa."
+  },
+  {
+    "MaDV": 10,
+    "TenDV": "Bữa Sáng Nổi Khay Gỗ Hồ Bơi Floating Breakfast",
+    "LoaiDV": "Nhà hàng",
+    "MoTa": "Khay đồ ăn sáng nổi bềnh bồng trên mặt nước hồ bơi: bánh sừng bò giòn rụm, trứng cá hồi xông khói, nước ép hoa quả nhiệt đới và cà phê phin đậm đà."
+  },
+  {
+    "MaDV": 11,
+    "TenDV": "Tour Cano 4 Đảo Lặn Ngắm San Hô Bãi Khem Phú Quốc",
+    "LoaiDV": "Tour",
+    "MoTa": "Cano cao tốc khám phá cụm đảo hoang sơ, trang bị kính lặn ống thở chuyên nghiệp ngắm rạn san hô đĩa, sao biển và quay video kỷ niệm dưới nước."
+  },
+  {
+    "MaDV": 12,
+    "TenDV": "Du Thuyền Ngắm Hoàng Hôn Vịnh Hạ Long & Tiệc Canapé",
+    "LoaiDV": "Tour",
+    "MoTa": "Hành trình 3 giờ ngắm hoàng hôn buông trên mặt vịnh kỳ quan di sản, thưởng thức tiệc cocktail nhẹ trên boong và biểu diễn violin du dương."
+  },
+  {
+    "MaDV": 13,
+    "TenDV": "Tour Trekking Thung Lũng Mường Hoa & Bản Cát Cát Sa Pa",
+    "LoaiDV": "Tour",
+    "MoTa": "Chuyến dã ngoại đi bộ qua thung lũng ruộng bậc thang kỳ vĩ, tìm hiểu văn hóa thổ cẩm người Mông, Dao Đỏ và thưởng thức đặc sản lợn bản nướng."
+  },
+  {
+    "MaDV": 14,
+    "TenDV": "Tour Thuyền Thúng Rừng Dừa Bảy Mẫu & Thả Đèn Phố Cổ Hội An",
+    "LoaiDV": "Tour",
+    "MoTa": "Trải nghiệm lắc thuyền thúng vui nhộn giữa rừng dừa nước, ghé thăm phố cổ Hội An thưởng thức cao lầu và đi thuyền thả đèn hoa đăng cầu an."
+  },
+  {
+    "MaDV": 15,
+    "TenDV": "Dịch Vụ Giặt Hấp Áo Dài & Trang Phục Cao Cấp Lấy Trong 2 Giờ",
+    "LoaiDV": "Khác",
+    "MoTa": "Giặt ủi hơi nước công nghệ bảo vệ sợi tơ tằm và sợi tự nhiên, giữ phom dáng phẳng phiu và giao nhận tận móc treo phòng khách trong 120 phút."
+  },
+  {
+    "MaDV": 16,
+    "TenDV": "Đưa Đón Sân Bay Bằng Xe Mercedes Maybach S-Class",
+    "LoaiDV": "Khác",
+    "MoTa": "Dịch vụ vận chuyển VIP đón khách tại sảnh đến sân bay: tài xế âu phục chuyên nghiệp, phục vụ khăn ướt, nước khoáng nhập khẩu và ghế massage điện."
+  },
+  {
+    "MaDV": 17,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #17)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #17) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 18,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #18)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #18) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 19,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #19)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #19) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 20,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #20)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #20) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 21,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #21)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #21) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 22,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #22)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #22) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 23,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #23)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #23) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 24,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #24)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #24) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 25,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #25)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #25) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 26,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #26)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #26) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 27,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #27)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #27) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 28,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #28)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #28) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 29,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #29)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #29) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  },
+  {
+    "MaDV": 30,
+    "TenDV": "Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #30)",
+    "LoaiDV": "Spa",
+    "MoTa": "Trải nghiệm dịch vụ Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #30) tiêu chuẩn 5 sao với đội ngũ chuyên viên giàu kinh nghiệm, nguồn nguyên liệu tự nhiên chọn lọc kỹ lưỡng."
+  }
+]

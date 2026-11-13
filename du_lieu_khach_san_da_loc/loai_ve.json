@@ -1,0 +1,56 @@
+[
+  {
+    "MaLoaiVe": 1,
+    "MaKhu": 1,
+    "TenLoaiVe": "Vé Tiêu Chuẩn Người Lớn (Cao trên 140cm) - Khu #1",
+    "DoiTuong": "Người lớn",
+    "GiaVe": 880000.0,
+    "KhungGio": "Cả ngày",
+    "MoTa": "Vé vào cổng tham quan trọn gói toàn bộ các trò chơi và show diễn cả ngày cho khách cao trên 140cm."
+  },
+  {
+    "MaLoaiVe": 2,
+    "MaKhu": 2,
+    "TenLoaiVe": "Vé Trẻ Em Ưu Đãi (Cao từ 100cm đến 140cm) - Khu #2",
+    "DoiTuong": "Trẻ em",
+    "GiaVe": 660000.0,
+    "KhungGio": "Cả ngày",
+    "MoTa": "Vé vào cổng trọn gói dành riêng cho trẻ em có chiều cao từ 100cm đến 140cm (trẻ em dưới 100cm miễn phí hoàn toàn)."
+  },
+  {
+    "MaLoaiVe": 3,
+    "MaKhu": 3,
+    "TenLoaiVe": "Vé Người Cao Tuổi (Từ 60 tuổi trở lên) - Khu #3",
+    "DoiTuong": "Người cao tuổi",
+    "GiaVe": 660000.0,
+    "KhungGio": "Cả ngày",
+    "MoTa": "Ưu đãi tri ân dành riêng cho du khách người cao tuổi từ 60 tuổi trở lên (vui lòng xuất trình CCCD khi vào cổng)."
+  },
+  {
+    "MaLoaiVe": 4,
+    "MaKhu": 4,
+    "TenLoaiVe": "Vé Hoàng Hôn Sau 16h (Afternoon Ticket) - Khu #4",
+    "DoiTuong": "Người lớn",
+    "GiaVe": 450000.0,
+    "KhungGio": "Sau 16h",
+    "MoTa": "Vé vào cổng thưởng ngoạn cảnh hoàng hôn lung linh, thưởng thức các show diễn nhạc nước và chợ đêm sau 16:00."
+  },
+  {
+    "MaLoaiVe": 5,
+    "MaKhu": 5,
+    "TenLoaiVe": "Vé Trẻ Em Sau 16h (Afternoon Ticket) - Khu #5",
+    "DoiTuong": "Trẻ em",
+    "GiaVe": 350000.0,
+    "KhungGio": "Sau 16h",
+    "MoTa": "Vé vào cổng buổi chiều tối dành cho trẻ em thưởng thức ẩm thực đường phố và chụp ảnh kỷ niệm."
+  },
+  {
+    "MaLoaiVe": 6,
+    "MaKhu": 6,
+    "TenLoaiVe": "Vé VIP FastPass Lối Đi Ưu Tiên Không Chờ Đợi - Khu #6",
+    "DoiTuong": "Tất cả",
+    "GiaVe": 1500000.0,
+    "KhungGio": "Ưu tiên FastPass",
+    "MoTa": "Đặc quyền lối đi ưu tiên VIP không phải xếp hàng chờ đợi tại tất cả các trò chơi và hàng ghế danh dự xem biểu diễn."
+  }
+]
