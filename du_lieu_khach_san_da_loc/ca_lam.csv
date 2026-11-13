@@ -1,28 +1,28 @@
-﻿MaCa,TenCa,GioBD,GioKT
-308,Ca trực Lễ tân Check-in #308 (00:00 - 05:00),00:00:00,05:00:00
-46,Ca trực Lễ tân Đặt phòng #46 (05:00 - 10:00),05:00:00,10:00:00
-336,Ca trực Lễ tân Check-in #336 (10:00 - 15:00),10:00:00,15:00:00
-265,Ca trực Lễ tân Đặt phòng #265 (15:00 - 00:00),15:00:00,00:00:00
-175,Ca trực Buồng phòng Villa #175 (00:00 - 04:00),00:00:00,04:00:00
-220,Ca trực Buồng phòng Villa #220 (04:00 - 10:00),04:00:00,10:00:00
-318,Ca trực Buồng phòng Villa #318 (10:00 - 15:00),10:00:00,15:00:00
-706,Ca trực Buồng phòng Villa #706 (15:00 - 20:00),15:00:00,20:00:00
-290,Ca trực Buồng phòng Tầng cao #290 (20:00 - 00:00),20:00:00,00:00:00
-43,Ca trực Bếp Nóng Á - Âu #43 (00:00 - 07:00),00:00:00,07:00:00
-60,Ca trực Bếp Nóng Á - Âu #60 (07:00 - 12:00),07:00:00,12:00:00
-13,Ca trực Bếp Bánh & Tráng miệng #13 (12:00 - 18:00),12:00:00,18:00:00
-136,Ca trực Bếp Nóng Á - Âu #136 (18:00 - 00:00),18:00:00,00:00:00
-356,Ca trực Kỹ thuật Âm thanh Hồ bơi #356 (00:00 - 08:00),00:00:00,08:00:00
-14,Ca trực Kỹ thuật Âm thanh Hồ bơi #14 (08:00 - 12:00),08:00:00,12:00:00
-73,Ca trực Kỹ thuật Âm thanh Hồ bơi #73 (12:00 - 19:00),12:00:00,19:00:00
-107,Ca trực Kỹ thuật Âm thanh Hồ bơi #107 (19:00 - 00:00),19:00:00,00:00:00
-26,Ca trực Bảo vệ & Hướng dẫn Đỗ xe #26 (00:00 - 08:00),00:00:00,08:00:00
-923,Ca trực Bảo vệ & Hướng dẫn Đỗ xe #923 (08:00 - 16:00),08:00:00,16:00:00
-90,Ca trực Bảo vệ & Hướng dẫn Đỗ xe #90 (16:00 - 00:00),16:00:00,00:00:00
-254,Ca trực Pha chế Quầy Bar #254 (00:00 - 08:00),00:00:00,08:00:00
-741,Ca trực Pha chế Quầy Bar #741 (08:00 - 15:00),08:00:00,15:00:00
-131,Ca trực Pha chế Quầy Bar #131 (15:00 - 20:00),15:00:00,20:00:00
-664,Ca trực Pha chế Quầy Bar #664 (20:00 - 00:00),20:00:00,00:00:00
-536,Ca trực Spa & Trị liệu Thảo dược #536 (00:00 - 09:00),00:00:00,09:00:00
-656,Ca trực Spa & Trị liệu Thảo dược #656 (09:00 - 16:00),09:00:00,16:00:00
-157,Ca trực Spa & Trị liệu Thảo dược #157 (16:00 - 00:00),16:00:00,00:00:00
+MaCa,TenCa,GioBD,GioKT
+LT01,Ca trực Lễ tân Check-in #LT01 (00:00 - 05:00),00:00:00,05:00:00
+LT02,Ca trực Lễ tân Đặt phòng #LT02 (05:00 - 10:00),05:00:00,10:00:00
+LT03,Ca trực Lễ tân Check-in #LT03 (10:00 - 15:00),10:00:00,15:00:00
+LT04,Ca trực Lễ tân Đặt phòng #LT04 (15:00 - 00:00),15:00:00,00:00:00
+BP01,Ca trực Buồng phòng Villa #BP01 (00:00 - 04:00),00:00:00,04:00:00
+BP02,Ca trực Buồng phòng Villa #BP02 (04:00 - 10:00),04:00:00,10:00:00
+BP03,Ca trực Buồng phòng Villa #BP03 (10:00 - 15:00),10:00:00,15:00:00
+BP04,Ca trực Buồng phòng Villa #BP04 (15:00 - 20:00),15:00:00,20:00:00
+BP05,Ca trực Buồng phòng Tầng cao #BP05 (20:00 - 00:00),20:00:00,00:00:00
+BEP01,Ca trực Bếp Nóng Á - Âu #BEP01 (00:00 - 07:00),00:00:00,07:00:00
+BEP02,Ca trực Bếp Nóng Á - Âu #BEP02 (07:00 - 12:00),07:00:00,12:00:00
+BEP03,Ca trực Bếp Bánh & Tráng miệng #BEP03 (12:00 - 18:00),12:00:00,18:00:00
+BEP04,Ca trực Bếp Nóng Á - Âu #BEP04 (18:00 - 00:00),18:00:00,00:00:00
+KT01,Ca trực Kỹ thuật Âm thanh Hồ bơi #KT01 (00:00 - 08:00),00:00:00,08:00:00
+KT02,Ca trực Kỹ thuật Âm thanh Hồ bơi #KT02 (08:00 - 12:00),08:00:00,12:00:00
+KT03,Ca trực Kỹ thuật Âm thanh Hồ bơi #KT03 (12:00 - 19:00),12:00:00,19:00:00
+KT04,Ca trực Kỹ thuật Âm thanh Hồ bơi #KT04 (19:00 - 00:00),19:00:00,00:00:00
+AN01,Ca trực Bảo vệ & Hướng dẫn Đỗ xe #AN01 (00:00 - 08:00),00:00:00,08:00:00
+AN02,Ca trực Bảo vệ & Hướng dẫn Đỗ xe #AN02 (08:00 - 16:00),08:00:00,16:00:00
+AN03,Ca trực Bảo vệ & Hướng dẫn Đỗ xe #AN03 (16:00 - 00:00),16:00:00,00:00:00
+PC01,Ca trực Pha chế Quầy Bar #PC01 (00:00 - 08:00),00:00:00,08:00:00
+PC02,Ca trực Pha chế Quầy Bar #PC02 (08:00 - 15:00),08:00:00,15:00:00
+PC03,Ca trực Pha chế Quầy Bar #PC03 (15:00 - 20:00),15:00:00,20:00:00
+PC04,Ca trực Pha chế Quầy Bar #PC04 (20:00 - 00:00),20:00:00,00:00:00
+SPA01,Ca trực Spa & Trị liệu Thảo dược #SPA01 (00:00 - 09:00),00:00:00,09:00:00
+SPA02,Ca trực Spa & Trị liệu Thảo dược #SPA02 (09:00 - 16:00),09:00:00,16:00:00
+SPA03,Ca trực Spa & Trị liệu Thảo dược #SPA03 (16:00 - 00:00),16:00:00,00:00:00
