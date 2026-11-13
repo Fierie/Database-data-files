@@ -1,73 +1,73 @@
-﻿MaBG,MaLP,MaMua,TenMua,MaSuKienLe,NgayBD,NgayKT,GiaPhong,TyLeGiam,TenSuKienLe,SuKien
-LP001_M01,LP001,M01,Mùa thấp điểm,,01-01,02-28,1200000,0.0,,Không
-LP002_M01,LP002,M01,Mùa thấp điểm,,01-01,02-28,1522000,0.0,,Không
-LP003_M01,LP003,M01,Mùa thấp điểm,,01-01,02-28,1531000,0.0,,Không
-LP004_M01,LP004,M01,Mùa thấp điểm,,01-01,02-28,1401000,0.0,,Không
-LP005_M01,LP005,M01,Mùa thấp điểm,,01-01,02-28,1426000,0.0,,Không
-LP006_M01,LP006,M01,Mùa thấp điểm,,01-01,02-28,25000000,0.0,,Không
-LP001_M02,LP001,M02,Mùa trung bình,,03-01,05-31,1200000,0.0,,Không
-LP002_M02,LP002,M02,Mùa trung bình,,03-01,05-31,1522000,0.0,,Không
-LP003_M02,LP003,M02,Mùa trung bình,,03-01,05-31,1531000,0.0,,Không
-LP004_M02,LP004,M02,Mùa trung bình,,03-01,05-31,1401000,0.0,,Không
-LP005_M02,LP005,M02,Mùa trung bình,,03-01,05-31,1426000,0.0,,Không
-LP006_M02,LP006,M02,Mùa trung bình,,03-01,05-31,25000000,0.0,,Không
-LP001_M03,LP001,M03,Mùa hè,,06-01,08-31,1500000,0.0,,Không
-LP002_M03,LP002,M03,Mùa hè,,06-01,08-31,1792000,0.0,,Không
-LP003_M03,LP003,M03,Mùa hè,,06-01,08-31,1816000,0.0,,Không
-LP004_M03,LP004,M03,Mùa hè,,06-01,08-31,1752000,0.0,,Không
-LP005_M03,LP005,M03,Mùa hè,,06-01,08-31,1782000,0.0,,Không
-LP006_M03,LP006,M03,Mùa hè,,06-01,08-31,15625000,0.0,,Không
-LP001_M04,LP001,M04,Mùa cao điểm,,09-01,11-30,1508000,0.0,,Không
-LP002_M04,LP002,M04,Mùa cao điểm,,09-01,11-30,1514000,0.0,,Không
-LP003_M04,LP003,M04,Mùa cao điểm,,09-01,11-30,1475000,0.0,,Không
-LP004_M04,LP004,M04,Mùa cao điểm,,09-01,11-30,1472000,0.0,,Không
-LP005_M04,LP005,M04,Mùa cao điểm,,09-01,11-30,1479000,0.0,,Không
-LP006_M04,LP006,M04,Mùa cao điểm,,09-01,11-30,13125000,0.0,,Không
-LP001_M05,LP001,M05,Mùa lễ Tết,,12-01,12-31,2092000,0.0,,Không
-LP002_M05,LP002,M05,Mùa lễ Tết,,12-01,12-31,2008000,0.0,,Không
-LP003_M05,LP003,M05,Mùa lễ Tết,,12-01,12-31,1967000,0.0,,Không
-LP004_M05,LP004,M05,Mùa lễ Tết,,12-01,12-31,1961000,0.0,,Không
-LP005_M05,LP005,M05,Mùa lễ Tết,,12-01,12-31,1973000,0.0,,Không
-LP006_M05,LP006,M05,Mùa lễ Tết,,12-01,12-31,35000000,0.0,,Không
-LP001_LE01,LP001,,,LE01,01-01,01-01,1080000,0.1,Tết Dương lịch,Tết Dương lịch - Mùa thấp điểm
-LP001_LE02,LP001,,,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,1104000,0.08,Tết Nguyên đán,Tết Nguyên đán - Mùa thấp điểm
-LP001_LE03,LP001,,,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,1056000,0.12,Giỗ Tổ Hùng Vương,Giỗ Tổ Hùng Vương - Mùa trung bình
-LP001_LE04,LP001,,,LE04,04-30,05-01,1080000,0.1,Giải phóng miền Nam & Quốc tế Lao động,Giải phóng miền Nam & Quốc tế Lao động - Mùa trung bình
-LP001_LE05,LP001,,,LE05,06-01,06-01,1020000,0.15,Quốc tế Thiếu nhi,Quốc tế Thiếu nhi - Mùa hè
-LP001_LE06,LP001,,,LE06,09-01,09-02,1080000,0.1,Quốc khánh,Quốc khánh - Mùa cao điểm
-LP001_LE07,LP001,,,LE07,12-24,12-25,1104000,0.08,Giáng sinh,Giáng sinh - Mùa lễ Tết
-LP002_LE01,LP002,,,LE01,01-01,01-01,1363000,0.1,Tết Dương lịch,Tết Dương lịch - Mùa thấp điểm
-LP002_LE02,LP002,,,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,1393000,0.08,Tết Nguyên đán,Tết Nguyên đán - Mùa thấp điểm
-LP002_LE03,LP002,,,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,1332000,0.12,Giỗ Tổ Hùng Vương,Giỗ Tổ Hùng Vương - Mùa trung bình
-LP002_LE04,LP002,,,LE04,04-30,05-01,1363000,0.1,Giải phóng miền Nam & Quốc tế Lao động,Giải phóng miền Nam & Quốc tế Lao động - Mùa trung bình
-LP002_LE05,LP002,,,LE05,06-01,06-01,1287000,0.15,Quốc tế Thiếu nhi,Quốc tế Thiếu nhi - Mùa hè
-LP002_LE06,LP002,,,LE06,09-01,09-02,1363000,0.1,Quốc khánh,Quốc khánh - Mùa cao điểm
-LP002_LE07,LP002,,,LE07,12-24,12-25,1393000,0.08,Giáng sinh,Giáng sinh - Mùa lễ Tết
-LP003_LE01,LP003,,,LE01,01-01,01-01,1328000,0.1,Tết Dương lịch,Tết Dương lịch - Mùa thấp điểm
-LP003_LE02,LP003,,,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,1357000,0.08,Tết Nguyên đán,Tết Nguyên đán - Mùa thấp điểm
-LP003_LE03,LP003,,,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,1298000,0.12,Giỗ Tổ Hùng Vương,Giỗ Tổ Hùng Vương - Mùa trung bình
-LP003_LE04,LP003,,,LE04,04-30,05-01,1328000,0.1,Giải phóng miền Nam & Quốc tế Lao động,Giải phóng miền Nam & Quốc tế Lao động - Mùa trung bình
-LP003_LE05,LP003,,,LE05,06-01,06-01,1254000,0.15,Quốc tế Thiếu nhi,Quốc tế Thiếu nhi - Mùa hè
-LP003_LE06,LP003,,,LE06,09-01,09-02,1328000,0.1,Quốc khánh,Quốc khánh - Mùa cao điểm
-LP003_LE07,LP003,,,LE07,12-24,12-25,1357000,0.08,Giáng sinh,Giáng sinh - Mùa lễ Tết
-LP004_LE01,LP004,,,LE01,01-01,01-01,1261000,0.1,Tết Dương lịch,Tết Dương lịch - Mùa thấp điểm
-LP004_LE02,LP004,,,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,1289000,0.08,Tết Nguyên đán,Tết Nguyên đán - Mùa thấp điểm
-LP004_LE03,LP004,,,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,1233000,0.12,Giỗ Tổ Hùng Vương,Giỗ Tổ Hùng Vương - Mùa trung bình
-LP004_LE04,LP004,,,LE04,04-30,05-01,1261000,0.1,Giải phóng miền Nam & Quốc tế Lao động,Giải phóng miền Nam & Quốc tế Lao động - Mùa trung bình
-LP004_LE05,LP004,,,LE05,06-01,06-01,1191000,0.15,Quốc tế Thiếu nhi,Quốc tế Thiếu nhi - Mùa hè
-LP004_LE06,LP004,,,LE06,09-01,09-02,1261000,0.1,Quốc khánh,Quốc khánh - Mùa cao điểm
-LP004_LE07,LP004,,,LE07,12-24,12-25,1289000,0.08,Giáng sinh,Giáng sinh - Mùa lễ Tết
-LP005_LE01,LP005,,,LE01,01-01,01-01,1283000,0.1,Tết Dương lịch,Tết Dương lịch - Mùa thấp điểm
-LP005_LE02,LP005,,,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,1312000,0.08,Tết Nguyên đán,Tết Nguyên đán - Mùa thấp điểm
-LP005_LE03,LP005,,,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,1255000,0.12,Giỗ Tổ Hùng Vương,Giỗ Tổ Hùng Vương - Mùa trung bình
-LP005_LE04,LP005,,,LE04,04-30,05-01,1283000,0.1,Giải phóng miền Nam & Quốc tế Lao động,Giải phóng miền Nam & Quốc tế Lao động - Mùa trung bình
-LP005_LE05,LP005,,,LE05,06-01,06-01,1212000,0.15,Quốc tế Thiếu nhi,Quốc tế Thiếu nhi - Mùa hè
-LP005_LE06,LP005,,,LE06,09-01,09-02,1283000,0.1,Quốc khánh,Quốc khánh - Mùa cao điểm
-LP005_LE07,LP005,,,LE07,12-24,12-25,1312000,0.08,Giáng sinh,Giáng sinh - Mùa lễ Tết
-LP006_LE01,LP006,,,LE01,01-01,01-01,11812000,0.1,Tết Dương lịch,Tết Dương lịch - Mùa thấp điểm
-LP006_LE02,LP006,,,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,12075000,0.08,Tết Nguyên đán,Tết Nguyên đán - Mùa thấp điểm
-LP006_LE03,LP006,,,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,11550000,0.12,Giỗ Tổ Hùng Vương,Giỗ Tổ Hùng Vương - Mùa trung bình
-LP006_LE04,LP006,,,LE04,04-30,05-01,11812000,0.1,Giải phóng miền Nam & Quốc tế Lao động,Giải phóng miền Nam & Quốc tế Lao động - Mùa trung bình
-LP006_LE05,LP006,,,LE05,06-01,06-01,11156000,0.15,Quốc tế Thiếu nhi,Quốc tế Thiếu nhi - Mùa hè
-LP006_LE06,LP006,,,LE06,09-01,09-02,11812000,0.1,Quốc khánh,Quốc khánh - Mùa cao điểm
-LP006_LE07,LP006,,,LE07,12-24,12-25,12075000,0.08,Giáng sinh,Giáng sinh - Mùa lễ Tết
+﻿MaBG,MaLP,MaMua,TenMua,MaSuKienLe,NgayBD,NgayKT,GiaPhong,TyLeGiam
+LP001_M01,LP001,M01,Mùa thấp điểm,,01-01,02-28,1200000,0.0
+LP002_M01,LP002,M01,Mùa thấp điểm,,01-01,02-28,1522000,0.0
+LP003_M01,LP003,M01,Mùa thấp điểm,,01-01,02-28,1531000,0.0
+LP004_M01,LP004,M01,Mùa thấp điểm,,01-01,02-28,1401000,0.0
+LP005_M01,LP005,M01,Mùa thấp điểm,,01-01,02-28,1426000,0.0
+LP006_M01,LP006,M01,Mùa thấp điểm,,01-01,02-28,25000000,0.0
+LP001_M02,LP001,M02,Mùa trung bình,,03-01,05-31,1200000,0.0
+LP002_M02,LP002,M02,Mùa trung bình,,03-01,05-31,1522000,0.0
+LP003_M02,LP003,M02,Mùa trung bình,,03-01,05-31,1531000,0.0
+LP004_M02,LP004,M02,Mùa trung bình,,03-01,05-31,1401000,0.0
+LP005_M02,LP005,M02,Mùa trung bình,,03-01,05-31,1426000,0.0
+LP006_M02,LP006,M02,Mùa trung bình,,03-01,05-31,25000000,0.0
+LP001_M03,LP001,M03,Mùa hè,,06-01,08-31,1500000,0.0
+LP002_M03,LP002,M03,Mùa hè,,06-01,08-31,1792000,0.0
+LP003_M03,LP003,M03,Mùa hè,,06-01,08-31,1816000,0.0
+LP004_M03,LP004,M03,Mùa hè,,06-01,08-31,1752000,0.0
+LP005_M03,LP005,M03,Mùa hè,,06-01,08-31,1782000,0.0
+LP006_M03,LP006,M03,Mùa hè,,06-01,08-31,15625000,0.0
+LP001_M04,LP001,M04,Mùa cao điểm,,09-01,11-30,1508000,0.0
+LP002_M04,LP002,M04,Mùa cao điểm,,09-01,11-30,1514000,0.0
+LP003_M04,LP003,M04,Mùa cao điểm,,09-01,11-30,1475000,0.0
+LP004_M04,LP004,M04,Mùa cao điểm,,09-01,11-30,1472000,0.0
+LP005_M04,LP005,M04,Mùa cao điểm,,09-01,11-30,1479000,0.0
+LP006_M04,LP006,M04,Mùa cao điểm,,09-01,11-30,13125000,0.0
+LP001_M05,LP001,M05,Mùa lễ Tết,,12-01,12-31,2092000,0.0
+LP002_M05,LP002,M05,Mùa lễ Tết,,12-01,12-31,2008000,0.0
+LP003_M05,LP003,M05,Mùa lễ Tết,,12-01,12-31,1967000,0.0
+LP004_M05,LP004,M05,Mùa lễ Tết,,12-01,12-31,1961000,0.0
+LP005_M05,LP005,M05,Mùa lễ Tết,,12-01,12-31,1973000,0.0
+LP006_M05,LP006,M05,Mùa lễ Tết,,12-01,12-31,35000000,0.0
+LP001_LE01,LP001,M01,Mùa thấp điểm,LE01,01-01,01-01,1080000,0.1
+LP001_LE02,LP001,M01,Mùa thấp điểm,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,1104000,0.08
+LP001_LE03,LP001,M02,Mùa trung bình,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,1056000,0.12
+LP001_LE04,LP001,M02,Mùa trung bình,LE04,04-30,05-01,1080000,0.1
+LP001_LE05,LP001,M03,Mùa hè,LE05,06-01,06-01,1020000,0.15
+LP001_LE06,LP001,M04,Mùa cao điểm,LE06,09-01,09-02,1080000,0.1
+LP001_LE07,LP001,M05,Mùa lễ Tết,LE07,12-24,12-25,1104000,0.08
+LP002_LE01,LP002,M01,Mùa thấp điểm,LE01,01-01,01-01,1363000,0.1
+LP002_LE02,LP002,M01,Mùa thấp điểm,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,1393000,0.08
+LP002_LE03,LP002,M02,Mùa trung bình,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,1332000,0.12
+LP002_LE04,LP002,M02,Mùa trung bình,LE04,04-30,05-01,1363000,0.1
+LP002_LE05,LP002,M03,Mùa hè,LE05,06-01,06-01,1287000,0.15
+LP002_LE06,LP002,M04,Mùa cao điểm,LE06,09-01,09-02,1363000,0.1
+LP002_LE07,LP002,M05,Mùa lễ Tết,LE07,12-24,12-25,1393000,0.08
+LP003_LE01,LP003,M01,Mùa thấp điểm,LE01,01-01,01-01,1328000,0.1
+LP003_LE02,LP003,M01,Mùa thấp điểm,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,1357000,0.08
+LP003_LE03,LP003,M02,Mùa trung bình,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,1298000,0.12
+LP003_LE04,LP003,M02,Mùa trung bình,LE04,04-30,05-01,1328000,0.1
+LP003_LE05,LP003,M03,Mùa hè,LE05,06-01,06-01,1254000,0.15
+LP003_LE06,LP003,M04,Mùa cao điểm,LE06,09-01,09-02,1328000,0.1
+LP003_LE07,LP003,M05,Mùa lễ Tết,LE07,12-24,12-25,1357000,0.08
+LP004_LE01,LP004,M01,Mùa thấp điểm,LE01,01-01,01-01,1261000,0.1
+LP004_LE02,LP004,M01,Mùa thấp điểm,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,1289000,0.08
+LP004_LE03,LP004,M02,Mùa trung bình,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,1233000,0.12
+LP004_LE04,LP004,M02,Mùa trung bình,LE04,04-30,05-01,1261000,0.1
+LP004_LE05,LP004,M03,Mùa hè,LE05,06-01,06-01,1191000,0.15
+LP004_LE06,LP004,M04,Mùa cao điểm,LE06,09-01,09-02,1261000,0.1
+LP004_LE07,LP004,M05,Mùa lễ Tết,LE07,12-24,12-25,1289000,0.08
+LP005_LE01,LP005,M01,Mùa thấp điểm,LE01,01-01,01-01,1283000,0.1
+LP005_LE02,LP005,M01,Mùa thấp điểm,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,1312000,0.08
+LP005_LE03,LP005,M02,Mùa trung bình,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,1255000,0.12
+LP005_LE04,LP005,M02,Mùa trung bình,LE04,04-30,05-01,1283000,0.1
+LP005_LE05,LP005,M03,Mùa hè,LE05,06-01,06-01,1212000,0.15
+LP005_LE06,LP005,M04,Mùa cao điểm,LE06,09-01,09-02,1283000,0.1
+LP005_LE07,LP005,M05,Mùa lễ Tết,LE07,12-24,12-25,1312000,0.08
+LP006_LE01,LP006,M01,Mùa thấp điểm,LE01,01-01,01-01,11812000,0.1
+LP006_LE02,LP006,M01,Mùa thấp điểm,LE02,Âm lịch: mùng 1–mùng 9 tháng Giêng,Âm lịch: mùng 1–mùng 9 tháng Giêng,12075000,0.08
+LP006_LE03,LP006,M02,Mùa trung bình,LE03,Âm lịch: 10 tháng 3,Âm lịch: 10 tháng 3,11550000,0.12
+LP006_LE04,LP006,M02,Mùa trung bình,LE04,04-30,05-01,11812000,0.1
+LP006_LE05,LP006,M03,Mùa hè,LE05,06-01,06-01,11156000,0.15
+LP006_LE06,LP006,M04,Mùa cao điểm,LE06,09-01,09-02,11812000,0.1
+LP006_LE07,LP006,M05,Mùa lễ Tết,LE07,12-24,12-25,12075000,0.08
