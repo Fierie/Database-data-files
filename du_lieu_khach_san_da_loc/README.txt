@@ -23,7 +23,7 @@ QUY MO HIEN TAI
 - Chi tiet dat phong: 168
 - Nhan vien: 100
 - Ca lam: 10
-- Phan ca: 2.658
+- Phan ca: 2.592
 - Dich vu: 30
 - Dich vu theo chi nhanh: 300
 - Su dung dich vu: 12
