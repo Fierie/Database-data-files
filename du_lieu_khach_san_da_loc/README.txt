@@ -33,7 +33,7 @@ QUY MO HIEN TAI
 - Goi combo: 6
 - Khu vui choi: 6
 - Loai ve: 6
-- Ve dien tu: 0
+- Ve dien tu: 14
 - Ma giam gia: 30
 
 Luu y: cac ban ghi duoc chon tu bo du lieu mau va dieu chinh de phu hop quy trinh van hanh, khong nen hieu la so lieu kiem ke/bao cao thuc te cua cac khach san.
