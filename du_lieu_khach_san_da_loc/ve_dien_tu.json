@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "MaVe": 1,
+    "MaDP": 42,
+    "MaKH": 35,
+    "MaLoaiVe": 2,
+    "MaQR": "E-TICKET-VW000042-2025-1919",
+    "NgaySuDung": "2025-07-07",
+    "GiaTien": 660000,
+    "TrangThai": "Chưa sử dụng",
+    "ThoiGianQuet": ""
+  },
+  {
+    "MaVe": 2,
+    "MaDP": 31,
+    "MaKH": 66,
+    "MaLoaiVe": 1,
+    "MaQR": "E-TICKET-VW000120-2025-2464",
+    "NgaySuDung": "2025-07-18",
+    "GiaTien": 880000,
+    "TrangThai": "Hết hạn",
+    "ThoiGianQuet": ""
+  },
+  {
+    "MaVe": 3,
+    "MaDP": 12,
+    "MaKH": 61,
+    "MaLoaiVe": 2,
+    "MaQR": "E-TICKET-VW000204-2025-1056",
+    "NgaySuDung": "2025-07-07",
+    "GiaTien": 660000,
+    "TrangThai": "Chưa sử dụng",
+    "ThoiGianQuet": ""
+  },
+  {
+    "MaVe": 4,
+    "MaDP": 26,
+    "MaKH": 71,
+    "MaLoaiVe": 6,
+    "MaQR": "E-TICKET-VW000495-2025-6365",
+    "NgaySuDung": "2025-07-11",
+    "GiaTien": 1500000,
+    "TrangThai": "Đã sử dụng",
+    "ThoiGianQuet": "2025-07-11 15:47:00"
+  },
+  {
+    "MaVe": 5,
+    "MaDP": 51,
+    "MaKH": 41,
+    "MaLoaiVe": 1,
+    "MaQR": "E-TICKET-VW000730-2025-3343",
+    "NgaySuDung": "2025-07-08",
+    "GiaTien": 880000,
+    "TrangThai": "Đã sử dụng",
+    "ThoiGianQuet": "2025-07-08 17:31:00"
+  },
+  {
+    "MaVe": 6,
+    "MaDP": 26,
+    "MaKH": 71,
+    "MaLoaiVe": 6,
+    "MaQR": "E-TICKET-VW000774-2025-5370",
+    "NgaySuDung": "2025-07-14",
+    "GiaTien": 1500000,
+    "TrangThai": "Đã sử dụng",
+    "ThoiGianQuet": "2025-07-14 15:23:00"
+  },
+  {
+    "MaVe": 7,
+    "MaDP": 26,
+    "MaKH": 71,
+    "MaLoaiVe": 6,
+    "MaQR": "E-TICKET-VW000819-2025-8970",
+    "NgaySuDung": "2025-07-14",
+    "GiaTien": 1500000,
+    "TrangThai": "Hết hạn",
+    "ThoiGianQuet": ""
+  },
+  {
+    "MaVe": 8,
+    "MaDP": 56,
+    "MaKH": 14,
+    "MaLoaiVe": 6,
+    "MaQR": "E-TICKET-VW000870-2025-4862",
+    "NgaySuDung": "2025-07-11",
+    "GiaTien": 1500000,
+    "TrangThai": "Đã sử dụng",
+    "ThoiGianQuet": "2025-07-11 17:42:00"
+  },
+  {
+    "MaVe": 9,
+    "MaDP": 35,
+    "MaKH": 65,
+    "MaLoaiVe": 5,
+    "MaQR": "E-TICKET-VW001123-2025-1282",
+    "NgaySuDung": "2025-07-22",
+    "GiaTien": 350000,
+    "TrangThai": "Chưa sử dụng",
+    "ThoiGianQuet": ""
+  },
+  {
+    "MaVe": 10,
+    "MaDP": 31,
+    "MaKH": 66,
+    "MaLoaiVe": 1,
+    "MaQR": "E-TICKET-VW001193-2025-5983",
+    "NgaySuDung": "2025-07-30",
+    "GiaTien": 880000,
+    "TrangThai": "Đã sử dụng",
+    "ThoiGianQuet": "2025-07-30 17:15:00"
+  },
+  {
+    "MaVe": 11,
+    "MaDP": 12,
+    "MaKH": 61,
+    "MaLoaiVe": 2,
+    "MaQR": "E-TICKET-VW001371-2025-2218",
+    "NgaySuDung": "2025-07-09",
+    "GiaTien": 660000,
+    "TrangThai": "Đã sử dụng",
+    "ThoiGianQuet": "2025-07-09 15:44:00"
+  },
+  {
+    "MaVe": 12,
+    "MaDP": 35,
+    "MaKH": 65,
+    "MaLoaiVe": 5,
+    "MaQR": "E-TICKET-VW001379-2025-3184",
+    "NgaySuDung": "2025-07-22",
+    "GiaTien": 350000,
+    "TrangThai": "Chưa sử dụng",
+    "ThoiGianQuet": ""
+  },
+  {
+    "MaVe": 13,
+    "MaDP": 22,
+    "MaKH": 39,
+    "MaLoaiVe": 2,
+    "MaQR": "E-TICKET-VW001834-2025-8103",
+    "NgaySuDung": "2025-07-24",
+    "GiaTien": 660000,
+    "TrangThai": "Đã sử dụng",
+    "ThoiGianQuet": "2025-07-24 15:24:00"
+  },
+  {
+    "MaVe": 14,
+    "MaDP": 11,
+    "MaKH": 11,
+    "MaLoaiVe": 1,
+    "MaQR": "E-TICKET-VW001970-2025-1230",
+    "NgaySuDung": "2025-07-16",
+    "GiaTien": 880000,
+    "TrangThai": "Hết hạn",
+    "ThoiGianQuet": ""
+  }
+]
