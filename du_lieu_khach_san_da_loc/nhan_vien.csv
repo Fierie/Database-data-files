@@ -1,6 +1,101 @@
-﻿MaNV,MaCN,HoTen,SDT,Email,ChucVu,NgayVaoLam
-1,2,Vũ Kim Linh,923036589,nhanvien1.resort@gmail.com,Lao công,2020-10-16
-2,3,Bùi Hoàng Khoa,935295758,nhanvien2.resort@gmail.com,Lễ tân,2020-11-08
-3,4,Võ Phương Hương,976132329,nhanvien3.resort@gmail.com,Kỹ thuật,2022-06-15
-4,5,Tô Thu Linh,979593315,nhanvien4.resort@gmail.com,Chăm sóc khách hàng,2024-01-02
-5,6,Huỳnh Hoàng Hưng,958313194,nhanvien5.resort@gmail.com,Kỹ thuật,2021-06-26
+MaNV,MaCN,HoTen,SDT,Email,ChucVu,NgayVaoLam
+1,1,Bùi Hoàng Khoa,0935295758,nhanvien2.resort@gmail.com,Lễ tân,2020-11-08
+2,1,Vũ Kim Linh,0923036589,nhanvien1.resort@gmail.com,Lao công,2020-10-16
+3,1,Võ Phương Hương,0976132329,nhanvien3.resort@gmail.com,Kỹ thuật,2022-06-15
+4,1,Tô Thu Linh,0979593315,nhanvien4.resort@gmail.com,Chăm sóc khách hàng,2024-01-02
+5,1,Đặng Như Chi,0965597346,nhanvien7.resort@gmail.com,Quản lý,2021-04-20
+6,1,Huỳnh Hoàng Hưng,0958313194,nhanvien5.resort@gmail.com,Kỹ thuật,2021-06-26
+7,1,Lâm Minh Vinh,0951822577,nhanvien6.resort@gmail.com,Kỹ thuật,2022-12-15
+8,1,Đoàn Đức Huy,0982928718,nhanvien8.resort@gmail.com,Chăm sóc khách hàng,2024-05-27
+9,1,Đặng Như Ngân,0946086557,nhanvien9.resort@gmail.com,Kỹ thuật,2023-08-02
+10,1,Triệu Trọng Khoa,0977063720,nhanvien10.resort@gmail.com,Quản lý,2023-05-06
+11,2,Dương Hữu Tiến,0956155630,nhanvien25.resort@gmail.com,Lễ tân,2023-10-10
+12,2,Võ Kim Bích,0943986564,nhanvien23.resort@gmail.com,Lao công,2024-10-08
+13,2,Trịnh Tuấn Bình,0920861266,nhanvien20.resort@gmail.com,Kỹ thuật,2021-07-13
+14,2,Đỗ Xuân Phú,0931282348,nhanvien12.resort@gmail.com,Chăm sóc khách hàng,2020-05-11
+15,2,Lâm Thanh Dung,0998125966,nhanvien11.resort@gmail.com,Quản lý,2020-03-22
+16,2,Võ Hồng Hoa,0970669460,nhanvien13.resort@gmail.com,Quản lý,2020-01-03
+17,2,Vũ Tuấn Sơn,0949642756,nhanvien14.resort@gmail.com,Chăm sóc khách hàng,2021-03-03
+18,2,Bùi Mỹ Hoa,0912417586,nhanvien15.resort@gmail.com,Chăm sóc khách hàng,2023-05-16
+19,2,Đỗ Hồng Uyên,0988444804,nhanvien16.resort@gmail.com,Chăm sóc khách hàng,2020-11-10
+20,2,Triệu Hữu Khoa,0945172452,nhanvien17.resort@gmail.com,Quản lý,2021-04-23
+21,3,Đoàn Mỹ Thu,0939304717,nhanvien48.resort@gmail.com,Lễ tân,2021-07-20
+22,3,Vương Minh Hải,0972195761,nhanvien26.resort@gmail.com,Lao công,2020-05-28
+23,3,Mai Xuân Hưng,0960789407,nhanvien32.resort@gmail.com,Kỹ thuật,2022-03-05
+24,3,Lương Minh Nam,0937123280,nhanvien18.resort@gmail.com,Chăm sóc khách hàng,2020-01-05
+25,3,Mai Quỳnh Yến,0989766159,nhanvien19.resort@gmail.com,Quản lý,2021-08-21
+26,3,Vương Hoàng Dũng,0930209943,nhanvien21.resort@gmail.com,Quản lý,2022-02-16
+27,3,Phùng Trọng Hiếu,0956108249,nhanvien22.resort@gmail.com,Quản lý,2020-07-18
+28,3,Triệu Thanh Khoa,0932479679,nhanvien24.resort@gmail.com,Quản lý,2023-10-05
+29,3,Phan Gia Quang,0923071463,nhanvien27.resort@gmail.com,Lao công,2023-08-17
+30,3,Thái Diệu Hương,0981551785,nhanvien28.resort@gmail.com,Chăm sóc khách hàng,2021-04-06
+31,4,Tô Bảo Bách,0975445843,nhanvien54.resort@gmail.com,Lễ tân,2023-03-04
+32,4,Mai Tiến Cường,0954659257,nhanvien31.resort@gmail.com,Lao công,2022-08-25
+33,4,Vương Thanh Bách,0933510840,nhanvien35.resort@gmail.com,Kỹ thuật,2024-05-16
+34,4,Ngô Cẩm An,0941087690,nhanvien30.resort@gmail.com,Chăm sóc khách hàng,2022-09-18
+35,4,Võ Quỳnh Vy,0952362870,nhanvien29.resort@gmail.com,Quản lý,2022-11-27
+36,4,Lâm Cẩm Liên,0926928772,nhanvien33.resort@gmail.com,Lao công,2022-05-08
+37,4,Hà Như Thu,0991249009,nhanvien34.resort@gmail.com,Lao công,2024-04-27
+38,4,Hà Như Hương,0952448488,nhanvien36.resort@gmail.com,Quản lý,2021-05-25
+39,4,Lê Thanh Nam,0926096978,nhanvien37.resort@gmail.com,Kỹ thuật,2021-09-12
+40,4,Huỳnh Tiến Dũng,0973135150,nhanvien38.resort@gmail.com,Chăm sóc khách hàng,2021-01-27
+41,5,Triệu Thị An,0954323654,nhanvien55.resort@gmail.com,Lễ tân,2021-08-18
+42,5,Mai Hữu Phong,0988466487,nhanvien39.resort@gmail.com,Lao công,2020-05-18
+43,5,Vương Thị Ngân,0922871885,nhanvien43.resort@gmail.com,Kỹ thuật,2023-09-14
+44,5,Tô Cẩm Thảo,0970564317,nhanvien40.resort@gmail.com,Chăm sóc khách hàng,2020-04-28
+45,5,Mai Phương Uyên,0937278022,nhanvien41.resort@gmail.com,Quản lý,2024-04-01
+46,5,Phan Bích An,0945862706,nhanvien42.resort@gmail.com,Chăm sóc khách hàng,2024-03-15
+47,5,Trịnh Mỹ Hà,0963078952,nhanvien44.resort@gmail.com,Chăm sóc khách hàng,2020-05-26
+48,5,Lê Hải Phong,0967881945,nhanvien45.resort@gmail.com,Chăm sóc khách hàng,2024-06-15
+49,5,Lý Gia Bách,0937283997,nhanvien46.resort@gmail.com,Chăm sóc khách hàng,2024-05-02
+50,5,Bạch Kim Uyên,0930531208,nhanvien47.resort@gmail.com,Kỹ thuật,2020-07-15
+51,6,Ngô Diệu Loan,0970289520,nhanvien74.resort@gmail.com,Lễ tân,2024-11-27
+52,6,Lương Thu Hương,0963735505,nhanvien49.resort@gmail.com,Lao công,2022-09-08
+53,6,Bùi Mỹ Bích,0924056661,nhanvien50.resort@gmail.com,Kỹ thuật,2022-03-01
+54,6,Đoàn Thanh Minh,0940440513,nhanvien53.resort@gmail.com,Chăm sóc khách hàng,2020-01-06
+55,6,Lê Phương Tú,0976957685,nhanvien67.resort@gmail.com,Quản lý,2020-08-07
+56,6,Hoàng Hải Tuấn,0948787927,nhanvien51.resort@gmail.com,Lao công,2024-05-07
+57,6,Đỗ Mai Linh,0986403982,nhanvien52.resort@gmail.com,Lao công,2020-05-04
+58,6,Trịnh Quỳnh Hà,0934574454,nhanvien56.resort@gmail.com,Lao công,2020-12-08
+59,6,Huỳnh Hữu Lộc,0972792848,nhanvien57.resort@gmail.com,Kỹ thuật,2022-02-19
+60,6,Phùng Hương Hà,0936771983,nhanvien58.resort@gmail.com,Kỹ thuật,2023-03-04
+61,7,Phạm Đức Khoa,0959329822,nhanvien76.resort@gmail.com,Lễ tân,2022-06-15
+62,7,Dương Khắc Dũng,0981856514,nhanvien60.resort@gmail.com,Lao công,2022-03-18
+63,7,Võ Hương Uyên,0993581663,nhanvien61.resort@gmail.com,Kỹ thuật,2024-06-11
+64,7,Dương Thị Nga,0983661872,nhanvien59.resort@gmail.com,Chăm sóc khách hàng,2020-11-27
+65,7,Bạch Đức Long,0961371979,nhanvien70.resort@gmail.com,Quản lý,2022-12-13
+66,7,Vũ Ngọc Nga,0920796663,nhanvien62.resort@gmail.com,Chăm sóc khách hàng,2022-12-20
+67,7,Lương Hương Lan,0974642526,nhanvien63.resort@gmail.com,Lao công,2022-06-13
+68,7,Bạch Tuấn Hải,0989917533,nhanvien64.resort@gmail.com,Kỹ thuật,2024-11-03
+69,7,Lý Thị Hà,0918624063,nhanvien65.resort@gmail.com,Chăm sóc khách hàng,2023-03-09
+70,7,Phùng Hoàng Phúc,0960644778,nhanvien66.resort@gmail.com,Chăm sóc khách hàng,2021-02-05
+71,8,Phạm Diệu Vy,0926203628,nhanvien78.resort@gmail.com,Lễ tân,2022-06-17
+72,8,Phạm Hoàng Tuấn,0965091479,nhanvien68.resort@gmail.com,Lao công,2024-09-06
+73,8,Đoàn Văn Tùng,0999096113,nhanvien80.resort@gmail.com,Kỹ thuật,2020-11-15
+74,8,Triệu Quang Cường,0953223215,nhanvien69.resort@gmail.com,Chăm sóc khách hàng,2021-06-08
+75,8,Đỗ Cẩm Thủy,0910091925,nhanvien71.resort@gmail.com,Quản lý,2020-12-06
+76,8,Đinh Tiến Khoa,0963221935,nhanvien72.resort@gmail.com,Quản lý,2022-02-17
+77,8,Hà Cẩm Yến,0918322468,nhanvien73.resort@gmail.com,Chăm sóc khách hàng,2020-04-14
+78,8,Tô Thanh Cường,0929427966,nhanvien75.resort@gmail.com,Chăm sóc khách hàng,2023-02-06
+79,8,Đặng Cẩm Thảo,0962576384,nhanvien77.resort@gmail.com,Chăm sóc khách hàng,2020-06-08
+80,8,Vương Minh Sơn,0942166888,nhanvien79.resort@gmail.com,Chăm sóc khách hàng,2023-02-28
+81,9,Vũ Xuân Thịnh,0991299320,nhanvien85.resort@gmail.com,Lễ tân,2020-04-25
+82,9,Hồ Bích Uyên,0950134538,nhanvien87.resort@gmail.com,Lao công,2020-11-07
+83,9,Đỗ Thanh Thành,0965901164,nhanvien81.resort@gmail.com,Kỹ thuật,2020-09-01
+84,9,Hồ Đình Hưng,0957288485,nhanvien84.resort@gmail.com,Chăm sóc khách hàng,2020-08-14
+85,9,Mai Tiến Hưng,0987254344,nhanvien82.resort@gmail.com,Quản lý,2021-04-20
+86,9,Đỗ Tiến Thịnh,0980962082,nhanvien83.resort@gmail.com,Kỹ thuật,2024-07-03
+87,9,Bạch Bích Ngân,0972054415,nhanvien86.resort@gmail.com,Lễ tân,2021-06-04
+88,9,Đỗ Tiến Đạt,0978833093,nhanvien88.resort@gmail.com,Quản lý,2021-09-27
+89,9,Thái Ánh Hằng,0948760536,nhanvien89.resort@gmail.com,Lao công,2021-10-21
+90,9,Bùi Thanh Linh,0916731200,nhanvien90.resort@gmail.com,Lễ tân,2021-09-20
+91,10,Đào Bảo Khoa,0924898988,nhanvien92.resort@gmail.com,Lễ tân,2024-11-15
+92,10,Hà Cẩm Chi,0912175689,nhanvien93.resort@gmail.com,Lao công,2024-11-22
+93,10,Hồ Thanh Quân,0921326848,nhanvien96.resort@gmail.com,Kỹ thuật,2023-08-07
+94,10,Hoàng Gia Hải,0929781108,nhanvien91.resort@gmail.com,Chăm sóc khách hàng,2021-06-03
+95,10,Võ Thanh Quân,0926285302,nhanvien99.resort@gmail.com,Quản lý,2021-07-03
+96,10,Bùi Tiến Huy,0963819556,nhanvien94.resort@gmail.com,Lễ tân,2022-06-03
+97,10,Đỗ Thanh Yến,0918268588,nhanvien95.resort@gmail.com,Lễ tân,2021-06-26
+98,10,Đặng Minh Hưng,0922131274,nhanvien97.resort@gmail.com,Lao công,2022-05-12
+99,10,Đỗ Tuấn Bình,0933412266,nhanvien98.resort@gmail.com,Kỹ thuật,2022-02-22
+100,10,Võ Bảo Long,0982659764,nhanvien100.resort@gmail.com,Quản lý,2020-11-01
