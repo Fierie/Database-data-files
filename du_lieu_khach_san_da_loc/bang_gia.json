@@ -8,8 +8,7 @@
     "NgayBD": "01-01",
     "NgayKT": "02-28",
     "GiaPhong": 1200000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP002_M01",
@@ -20,8 +19,7 @@
     "NgayBD": "01-01",
     "NgayKT": "02-28",
     "GiaPhong": 1522000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP003_M01",
@@ -32,8 +30,7 @@
     "NgayBD": "01-01",
     "NgayKT": "02-28",
     "GiaPhong": 1531000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP004_M01",
@@ -44,8 +41,7 @@
     "NgayBD": "01-01",
     "NgayKT": "02-28",
     "GiaPhong": 1401000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP005_M01",
@@ -56,8 +52,7 @@
     "NgayBD": "01-01",
     "NgayKT": "02-28",
     "GiaPhong": 1426000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP006_M01",
@@ -68,8 +63,7 @@
     "NgayBD": "01-01",
     "NgayKT": "02-28",
     "GiaPhong": 25000000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP001_M02",
@@ -80,8 +74,7 @@
     "NgayBD": "03-01",
     "NgayKT": "05-31",
     "GiaPhong": 1200000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP002_M02",
@@ -92,8 +85,7 @@
     "NgayBD": "03-01",
     "NgayKT": "05-31",
     "GiaPhong": 1522000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP003_M02",
@@ -104,8 +96,7 @@
     "NgayBD": "03-01",
     "NgayKT": "05-31",
     "GiaPhong": 1531000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP004_M02",
@@ -116,8 +107,7 @@
     "NgayBD": "03-01",
     "NgayKT": "05-31",
     "GiaPhong": 1401000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP005_M02",
@@ -128,8 +118,7 @@
     "NgayBD": "03-01",
     "NgayKT": "05-31",
     "GiaPhong": 1426000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP006_M02",
@@ -140,8 +129,7 @@
     "NgayBD": "03-01",
     "NgayKT": "05-31",
     "GiaPhong": 25000000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP001_M03",
@@ -152,8 +140,7 @@
     "NgayBD": "06-01",
     "NgayKT": "08-31",
     "GiaPhong": 1500000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP002_M03",
@@ -164,8 +151,7 @@
     "NgayBD": "06-01",
     "NgayKT": "08-31",
     "GiaPhong": 1792000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP003_M03",
@@ -176,8 +162,7 @@
     "NgayBD": "06-01",
     "NgayKT": "08-31",
     "GiaPhong": 1816000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP004_M03",
@@ -188,8 +173,7 @@
     "NgayBD": "06-01",
     "NgayKT": "08-31",
     "GiaPhong": 1752000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP005_M03",
@@ -200,8 +184,7 @@
     "NgayBD": "06-01",
     "NgayKT": "08-31",
     "GiaPhong": 1782000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP006_M03",
@@ -212,8 +195,7 @@
     "NgayBD": "06-01",
     "NgayKT": "08-31",
     "GiaPhong": 15625000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP001_M04",
@@ -224,8 +206,7 @@
     "NgayBD": "09-01",
     "NgayKT": "11-30",
     "GiaPhong": 1508000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP002_M04",
@@ -236,8 +217,7 @@
     "NgayBD": "09-01",
     "NgayKT": "11-30",
     "GiaPhong": 1514000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP003_M04",
@@ -248,8 +228,7 @@
     "NgayBD": "09-01",
     "NgayKT": "11-30",
     "GiaPhong": 1475000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP004_M04",
@@ -260,8 +239,7 @@
     "NgayBD": "09-01",
     "NgayKT": "11-30",
     "GiaPhong": 1472000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP005_M04",
@@ -272,8 +250,7 @@
     "NgayBD": "09-01",
     "NgayKT": "11-30",
     "GiaPhong": 1479000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP006_M04",
@@ -284,8 +261,7 @@
     "NgayBD": "09-01",
     "NgayKT": "11-30",
     "GiaPhong": 13125000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP001_M05",
@@ -296,8 +272,7 @@
     "NgayBD": "12-01",
     "NgayKT": "12-31",
     "GiaPhong": 2092000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP002_M05",
@@ -308,8 +283,7 @@
     "NgayBD": "12-01",
     "NgayKT": "12-31",
     "GiaPhong": 2008000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP003_M05",
@@ -320,8 +294,7 @@
     "NgayBD": "12-01",
     "NgayKT": "12-31",
     "GiaPhong": 1967000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP004_M05",
@@ -332,8 +305,7 @@
     "NgayBD": "12-01",
     "NgayKT": "12-31",
     "GiaPhong": 1961000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP005_M05",
@@ -344,8 +316,7 @@
     "NgayBD": "12-01",
     "NgayKT": "12-31",
     "GiaPhong": 1973000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP006_M05",
@@ -356,511 +327,468 @@
     "NgayBD": "12-01",
     "NgayKT": "12-31",
     "GiaPhong": 35000000,
-    "TyLeGiam": 0.0,
-    "TenSuKienLe": null
+    "TyLeGiam": 0
   },
   {
     "MaBG": "LP001_LE01",
     "MaLP": "LP001",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE01",
     "NgayBD": "01-01",
     "NgayKT": "01-01",
     "GiaPhong": 1080000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Tết Dương lịch"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP001_LE02",
     "MaLP": "LP001",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE02",
     "NgayBD": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "NgayKT": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "GiaPhong": 1104000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Tết Nguyên đán"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP001_LE03",
     "MaLP": "LP001",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE03",
     "NgayBD": "Âm lịch: 10 tháng 3",
     "NgayKT": "Âm lịch: 10 tháng 3",
     "GiaPhong": 1056000,
-    "TyLeGiam": 0.12,
-    "TenSuKienLe": "Giỗ Tổ Hùng Vương"
+    "TyLeGiam": 0.12
   },
   {
     "MaBG": "LP001_LE04",
     "MaLP": "LP001",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE04",
     "NgayBD": "04-30",
     "NgayKT": "05-01",
     "GiaPhong": 1080000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Giải phóng miền Nam & Quốc tế Lao động"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP001_LE05",
     "MaLP": "LP001",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M03",
+    "TenMua": "Mùa hè",
     "MaSuKienLe": "LE05",
     "NgayBD": "06-01",
     "NgayKT": "06-01",
     "GiaPhong": 1020000,
-    "TyLeGiam": 0.15,
-    "TenSuKienLe": "Quốc tế Thiếu nhi"
+    "TyLeGiam": 0.15
   },
   {
     "MaBG": "LP001_LE06",
     "MaLP": "LP001",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M04",
+    "TenMua": "Mùa cao điểm",
     "MaSuKienLe": "LE06",
     "NgayBD": "09-01",
     "NgayKT": "09-02",
     "GiaPhong": 1080000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Quốc khánh"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP001_LE07",
     "MaLP": "LP001",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M05",
+    "TenMua": "Mùa lễ Tết",
     "MaSuKienLe": "LE07",
     "NgayBD": "12-24",
     "NgayKT": "12-25",
     "GiaPhong": 1104000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Giáng sinh"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP002_LE01",
     "MaLP": "LP002",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE01",
     "NgayBD": "01-01",
     "NgayKT": "01-01",
     "GiaPhong": 1363000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Tết Dương lịch"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP002_LE02",
     "MaLP": "LP002",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE02",
     "NgayBD": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "NgayKT": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "GiaPhong": 1393000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Tết Nguyên đán"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP002_LE03",
     "MaLP": "LP002",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE03",
     "NgayBD": "Âm lịch: 10 tháng 3",
     "NgayKT": "Âm lịch: 10 tháng 3",
     "GiaPhong": 1332000,
-    "TyLeGiam": 0.12,
-    "TenSuKienLe": "Giỗ Tổ Hùng Vương"
+    "TyLeGiam": 0.12
   },
   {
     "MaBG": "LP002_LE04",
     "MaLP": "LP002",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE04",
     "NgayBD": "04-30",
     "NgayKT": "05-01",
     "GiaPhong": 1363000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Giải phóng miền Nam & Quốc tế Lao động"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP002_LE05",
     "MaLP": "LP002",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M03",
+    "TenMua": "Mùa hè",
     "MaSuKienLe": "LE05",
     "NgayBD": "06-01",
     "NgayKT": "06-01",
     "GiaPhong": 1287000,
-    "TyLeGiam": 0.15,
-    "TenSuKienLe": "Quốc tế Thiếu nhi"
+    "TyLeGiam": 0.15
   },
   {
     "MaBG": "LP002_LE06",
     "MaLP": "LP002",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M04",
+    "TenMua": "Mùa cao điểm",
     "MaSuKienLe": "LE06",
     "NgayBD": "09-01",
     "NgayKT": "09-02",
     "GiaPhong": 1363000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Quốc khánh"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP002_LE07",
     "MaLP": "LP002",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M05",
+    "TenMua": "Mùa lễ Tết",
     "MaSuKienLe": "LE07",
     "NgayBD": "12-24",
     "NgayKT": "12-25",
     "GiaPhong": 1393000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Giáng sinh"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP003_LE01",
     "MaLP": "LP003",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE01",
     "NgayBD": "01-01",
     "NgayKT": "01-01",
     "GiaPhong": 1328000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Tết Dương lịch"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP003_LE02",
     "MaLP": "LP003",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE02",
     "NgayBD": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "NgayKT": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "GiaPhong": 1357000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Tết Nguyên đán"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP003_LE03",
     "MaLP": "LP003",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE03",
     "NgayBD": "Âm lịch: 10 tháng 3",
     "NgayKT": "Âm lịch: 10 tháng 3",
     "GiaPhong": 1298000,
-    "TyLeGiam": 0.12,
-    "TenSuKienLe": "Giỗ Tổ Hùng Vương"
+    "TyLeGiam": 0.12
   },
   {
     "MaBG": "LP003_LE04",
     "MaLP": "LP003",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE04",
     "NgayBD": "04-30",
     "NgayKT": "05-01",
     "GiaPhong": 1328000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Giải phóng miền Nam & Quốc tế Lao động"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP003_LE05",
     "MaLP": "LP003",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M03",
+    "TenMua": "Mùa hè",
     "MaSuKienLe": "LE05",
     "NgayBD": "06-01",
     "NgayKT": "06-01",
     "GiaPhong": 1254000,
-    "TyLeGiam": 0.15,
-    "TenSuKienLe": "Quốc tế Thiếu nhi"
+    "TyLeGiam": 0.15
   },
   {
     "MaBG": "LP003_LE06",
     "MaLP": "LP003",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M04",
+    "TenMua": "Mùa cao điểm",
     "MaSuKienLe": "LE06",
     "NgayBD": "09-01",
     "NgayKT": "09-02",
     "GiaPhong": 1328000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Quốc khánh"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP003_LE07",
     "MaLP": "LP003",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M05",
+    "TenMua": "Mùa lễ Tết",
     "MaSuKienLe": "LE07",
     "NgayBD": "12-24",
     "NgayKT": "12-25",
     "GiaPhong": 1357000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Giáng sinh"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP004_LE01",
     "MaLP": "LP004",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE01",
     "NgayBD": "01-01",
     "NgayKT": "01-01",
     "GiaPhong": 1261000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Tết Dương lịch"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP004_LE02",
     "MaLP": "LP004",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE02",
     "NgayBD": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "NgayKT": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "GiaPhong": 1289000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Tết Nguyên đán"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP004_LE03",
     "MaLP": "LP004",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE03",
     "NgayBD": "Âm lịch: 10 tháng 3",
     "NgayKT": "Âm lịch: 10 tháng 3",
     "GiaPhong": 1233000,
-    "TyLeGiam": 0.12,
-    "TenSuKienLe": "Giỗ Tổ Hùng Vương"
+    "TyLeGiam": 0.12
   },
   {
     "MaBG": "LP004_LE04",
     "MaLP": "LP004",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE04",
     "NgayBD": "04-30",
     "NgayKT": "05-01",
     "GiaPhong": 1261000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Giải phóng miền Nam & Quốc tế Lao động"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP004_LE05",
     "MaLP": "LP004",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M03",
+    "TenMua": "Mùa hè",
     "MaSuKienLe": "LE05",
     "NgayBD": "06-01",
     "NgayKT": "06-01",
     "GiaPhong": 1191000,
-    "TyLeGiam": 0.15,
-    "TenSuKienLe": "Quốc tế Thiếu nhi"
+    "TyLeGiam": 0.15
   },
   {
     "MaBG": "LP004_LE06",
     "MaLP": "LP004",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M04",
+    "TenMua": "Mùa cao điểm",
     "MaSuKienLe": "LE06",
     "NgayBD": "09-01",
     "NgayKT": "09-02",
     "GiaPhong": 1261000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Quốc khánh"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP004_LE07",
     "MaLP": "LP004",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M05",
+    "TenMua": "Mùa lễ Tết",
     "MaSuKienLe": "LE07",
     "NgayBD": "12-24",
     "NgayKT": "12-25",
     "GiaPhong": 1289000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Giáng sinh"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP005_LE01",
     "MaLP": "LP005",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE01",
     "NgayBD": "01-01",
     "NgayKT": "01-01",
     "GiaPhong": 1283000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Tết Dương lịch"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP005_LE02",
     "MaLP": "LP005",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE02",
     "NgayBD": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "NgayKT": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "GiaPhong": 1312000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Tết Nguyên đán"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP005_LE03",
     "MaLP": "LP005",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE03",
     "NgayBD": "Âm lịch: 10 tháng 3",
     "NgayKT": "Âm lịch: 10 tháng 3",
     "GiaPhong": 1255000,
-    "TyLeGiam": 0.12,
-    "TenSuKienLe": "Giỗ Tổ Hùng Vương"
+    "TyLeGiam": 0.12
   },
   {
     "MaBG": "LP005_LE04",
     "MaLP": "LP005",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE04",
     "NgayBD": "04-30",
     "NgayKT": "05-01",
     "GiaPhong": 1283000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Giải phóng miền Nam & Quốc tế Lao động"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP005_LE05",
     "MaLP": "LP005",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M03",
+    "TenMua": "Mùa hè",
     "MaSuKienLe": "LE05",
     "NgayBD": "06-01",
     "NgayKT": "06-01",
     "GiaPhong": 1212000,
-    "TyLeGiam": 0.15,
-    "TenSuKienLe": "Quốc tế Thiếu nhi"
+    "TyLeGiam": 0.15
   },
   {
     "MaBG": "LP005_LE06",
     "MaLP": "LP005",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M04",
+    "TenMua": "Mùa cao điểm",
     "MaSuKienLe": "LE06",
     "NgayBD": "09-01",
     "NgayKT": "09-02",
     "GiaPhong": 1283000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Quốc khánh"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP005_LE07",
     "MaLP": "LP005",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M05",
+    "TenMua": "Mùa lễ Tết",
     "MaSuKienLe": "LE07",
     "NgayBD": "12-24",
     "NgayKT": "12-25",
     "GiaPhong": 1312000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Giáng sinh"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP006_LE01",
     "MaLP": "LP006",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE01",
     "NgayBD": "01-01",
     "NgayKT": "01-01",
     "GiaPhong": 11812000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Tết Dương lịch"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP006_LE02",
     "MaLP": "LP006",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M01",
+    "TenMua": "Mùa thấp điểm",
     "MaSuKienLe": "LE02",
     "NgayBD": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "NgayKT": "Âm lịch: mùng 1–mùng 9 tháng Giêng",
     "GiaPhong": 12075000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Tết Nguyên đán"
+    "TyLeGiam": 0.08
   },
   {
     "MaBG": "LP006_LE03",
     "MaLP": "LP006",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE03",
     "NgayBD": "Âm lịch: 10 tháng 3",
     "NgayKT": "Âm lịch: 10 tháng 3",
     "GiaPhong": 11550000,
-    "TyLeGiam": 0.12,
-    "TenSuKienLe": "Giỗ Tổ Hùng Vương"
+    "TyLeGiam": 0.12
   },
   {
     "MaBG": "LP006_LE04",
     "MaLP": "LP006",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M02",
+    "TenMua": "Mùa trung bình",
     "MaSuKienLe": "LE04",
     "NgayBD": "04-30",
     "NgayKT": "05-01",
     "GiaPhong": 11812000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Giải phóng miền Nam & Quốc tế Lao động"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP006_LE05",
     "MaLP": "LP006",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M03",
+    "TenMua": "Mùa hè",
     "MaSuKienLe": "LE05",
     "NgayBD": "06-01",
     "NgayKT": "06-01",
     "GiaPhong": 11156000,
-    "TyLeGiam": 0.15,
-    "TenSuKienLe": "Quốc tế Thiếu nhi"
+    "TyLeGiam": 0.15
   },
   {
     "MaBG": "LP006_LE06",
     "MaLP": "LP006",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M04",
+    "TenMua": "Mùa cao điểm",
     "MaSuKienLe": "LE06",
     "NgayBD": "09-01",
     "NgayKT": "09-02",
     "GiaPhong": 11812000,
-    "TyLeGiam": 0.1,
-    "TenSuKienLe": "Quốc khánh"
+    "TyLeGiam": 0.1
   },
   {
     "MaBG": "LP006_LE07",
     "MaLP": "LP006",
-    "MaMua": "",
-    "TenMua": "",
+    "MaMua": "M05",
+    "TenMua": "Mùa lễ Tết",
     "MaSuKienLe": "LE07",
     "NgayBD": "12-24",
     "NgayKT": "12-25",
     "GiaPhong": 12075000,
-    "TyLeGiam": 0.08,
-    "TenSuKienLe": "Giáng sinh"
+    "TyLeGiam": 0.08
   }
 ]
