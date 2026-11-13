@@ -1,47 +1,902 @@
 [
   {
     "MaNV": 1,
-    "MaCN": 2,
-    "HoTen": "Vũ Kim Linh",
-    "SDT": 923036589,
-    "Email": "nhanvien1.resort@gmail.com",
-    "ChucVu": "Lao công",
-    "NgayVaoLam": "2020-10-16"
-  },
-  {
-    "MaNV": 2,
-    "MaCN": 3,
+    "MaCN": 1,
     "HoTen": "Bùi Hoàng Khoa",
-    "SDT": 935295758,
+    "SDT": "0935295758",
     "Email": "nhanvien2.resort@gmail.com",
     "ChucVu": "Lễ tân",
     "NgayVaoLam": "2020-11-08"
   },
   {
+    "MaNV": 2,
+    "MaCN": 1,
+    "HoTen": "Vũ Kim Linh",
+    "SDT": "0923036589",
+    "Email": "nhanvien1.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2020-10-16"
+  },
+  {
     "MaNV": 3,
-    "MaCN": 4,
+    "MaCN": 1,
     "HoTen": "Võ Phương Hương",
-    "SDT": 976132329,
+    "SDT": "0976132329",
     "Email": "nhanvien3.resort@gmail.com",
     "ChucVu": "Kỹ thuật",
     "NgayVaoLam": "2022-06-15"
   },
   {
     "MaNV": 4,
-    "MaCN": 5,
+    "MaCN": 1,
     "HoTen": "Tô Thu Linh",
-    "SDT": 979593315,
+    "SDT": "0979593315",
     "Email": "nhanvien4.resort@gmail.com",
     "ChucVu": "Chăm sóc khách hàng",
     "NgayVaoLam": "2024-01-02"
   },
   {
     "MaNV": 5,
-    "MaCN": 6,
+    "MaCN": 1,
+    "HoTen": "Đặng Như Chi",
+    "SDT": "0965597346",
+    "Email": "nhanvien7.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2021-04-20"
+  },
+  {
+    "MaNV": 6,
+    "MaCN": 1,
     "HoTen": "Huỳnh Hoàng Hưng",
-    "SDT": 958313194,
+    "SDT": "0958313194",
     "Email": "nhanvien5.resort@gmail.com",
     "ChucVu": "Kỹ thuật",
     "NgayVaoLam": "2021-06-26"
+  },
+  {
+    "MaNV": 7,
+    "MaCN": 1,
+    "HoTen": "Lâm Minh Vinh",
+    "SDT": "0951822577",
+    "Email": "nhanvien6.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2022-12-15"
+  },
+  {
+    "MaNV": 8,
+    "MaCN": 1,
+    "HoTen": "Đoàn Đức Huy",
+    "SDT": "0982928718",
+    "Email": "nhanvien8.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2024-05-27"
+  },
+  {
+    "MaNV": 9,
+    "MaCN": 1,
+    "HoTen": "Đặng Như Ngân",
+    "SDT": "0946086557",
+    "Email": "nhanvien9.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2023-08-02"
+  },
+  {
+    "MaNV": 10,
+    "MaCN": 1,
+    "HoTen": "Triệu Trọng Khoa",
+    "SDT": "0977063720",
+    "Email": "nhanvien10.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2023-05-06"
+  },
+  {
+    "MaNV": 11,
+    "MaCN": 2,
+    "HoTen": "Dương Hữu Tiến",
+    "SDT": "0956155630",
+    "Email": "nhanvien25.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2023-10-10"
+  },
+  {
+    "MaNV": 12,
+    "MaCN": 2,
+    "HoTen": "Võ Kim Bích",
+    "SDT": "0943986564",
+    "Email": "nhanvien23.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2024-10-08"
+  },
+  {
+    "MaNV": 13,
+    "MaCN": 2,
+    "HoTen": "Trịnh Tuấn Bình",
+    "SDT": "0920861266",
+    "Email": "nhanvien20.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2021-07-13"
+  },
+  {
+    "MaNV": 14,
+    "MaCN": 2,
+    "HoTen": "Đỗ Xuân Phú",
+    "SDT": "0931282348",
+    "Email": "nhanvien12.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2020-05-11"
+  },
+  {
+    "MaNV": 15,
+    "MaCN": 2,
+    "HoTen": "Lâm Thanh Dung",
+    "SDT": "0998125966",
+    "Email": "nhanvien11.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2020-03-22"
+  },
+  {
+    "MaNV": 16,
+    "MaCN": 2,
+    "HoTen": "Võ Hồng Hoa",
+    "SDT": "0970669460",
+    "Email": "nhanvien13.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2020-01-03"
+  },
+  {
+    "MaNV": 17,
+    "MaCN": 2,
+    "HoTen": "Vũ Tuấn Sơn",
+    "SDT": "0949642756",
+    "Email": "nhanvien14.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2021-03-03"
+  },
+  {
+    "MaNV": 18,
+    "MaCN": 2,
+    "HoTen": "Bùi Mỹ Hoa",
+    "SDT": "0912417586",
+    "Email": "nhanvien15.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2023-05-16"
+  },
+  {
+    "MaNV": 19,
+    "MaCN": 2,
+    "HoTen": "Đỗ Hồng Uyên",
+    "SDT": "0988444804",
+    "Email": "nhanvien16.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2020-11-10"
+  },
+  {
+    "MaNV": 20,
+    "MaCN": 2,
+    "HoTen": "Triệu Hữu Khoa",
+    "SDT": "0945172452",
+    "Email": "nhanvien17.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2021-04-23"
+  },
+  {
+    "MaNV": 21,
+    "MaCN": 3,
+    "HoTen": "Đoàn Mỹ Thu",
+    "SDT": "0939304717",
+    "Email": "nhanvien48.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2021-07-20"
+  },
+  {
+    "MaNV": 22,
+    "MaCN": 3,
+    "HoTen": "Vương Minh Hải",
+    "SDT": "0972195761",
+    "Email": "nhanvien26.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2020-05-28"
+  },
+  {
+    "MaNV": 23,
+    "MaCN": 3,
+    "HoTen": "Mai Xuân Hưng",
+    "SDT": "0960789407",
+    "Email": "nhanvien32.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2022-03-05"
+  },
+  {
+    "MaNV": 24,
+    "MaCN": 3,
+    "HoTen": "Lương Minh Nam",
+    "SDT": "0937123280",
+    "Email": "nhanvien18.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2020-01-05"
+  },
+  {
+    "MaNV": 25,
+    "MaCN": 3,
+    "HoTen": "Mai Quỳnh Yến",
+    "SDT": "0989766159",
+    "Email": "nhanvien19.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2021-08-21"
+  },
+  {
+    "MaNV": 26,
+    "MaCN": 3,
+    "HoTen": "Vương Hoàng Dũng",
+    "SDT": "0930209943",
+    "Email": "nhanvien21.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2022-02-16"
+  },
+  {
+    "MaNV": 27,
+    "MaCN": 3,
+    "HoTen": "Phùng Trọng Hiếu",
+    "SDT": "0956108249",
+    "Email": "nhanvien22.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2020-07-18"
+  },
+  {
+    "MaNV": 28,
+    "MaCN": 3,
+    "HoTen": "Triệu Thanh Khoa",
+    "SDT": "0932479679",
+    "Email": "nhanvien24.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2023-10-05"
+  },
+  {
+    "MaNV": 29,
+    "MaCN": 3,
+    "HoTen": "Phan Gia Quang",
+    "SDT": "0923071463",
+    "Email": "nhanvien27.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2023-08-17"
+  },
+  {
+    "MaNV": 30,
+    "MaCN": 3,
+    "HoTen": "Thái Diệu Hương",
+    "SDT": "0981551785",
+    "Email": "nhanvien28.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2021-04-06"
+  },
+  {
+    "MaNV": 31,
+    "MaCN": 4,
+    "HoTen": "Tô Bảo Bách",
+    "SDT": "0975445843",
+    "Email": "nhanvien54.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2023-03-04"
+  },
+  {
+    "MaNV": 32,
+    "MaCN": 4,
+    "HoTen": "Mai Tiến Cường",
+    "SDT": "0954659257",
+    "Email": "nhanvien31.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2022-08-25"
+  },
+  {
+    "MaNV": 33,
+    "MaCN": 4,
+    "HoTen": "Vương Thanh Bách",
+    "SDT": "0933510840",
+    "Email": "nhanvien35.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2024-05-16"
+  },
+  {
+    "MaNV": 34,
+    "MaCN": 4,
+    "HoTen": "Ngô Cẩm An",
+    "SDT": "0941087690",
+    "Email": "nhanvien30.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2022-09-18"
+  },
+  {
+    "MaNV": 35,
+    "MaCN": 4,
+    "HoTen": "Võ Quỳnh Vy",
+    "SDT": "0952362870",
+    "Email": "nhanvien29.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2022-11-27"
+  },
+  {
+    "MaNV": 36,
+    "MaCN": 4,
+    "HoTen": "Lâm Cẩm Liên",
+    "SDT": "0926928772",
+    "Email": "nhanvien33.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2022-05-08"
+  },
+  {
+    "MaNV": 37,
+    "MaCN": 4,
+    "HoTen": "Hà Như Thu",
+    "SDT": "0991249009",
+    "Email": "nhanvien34.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2024-04-27"
+  },
+  {
+    "MaNV": 38,
+    "MaCN": 4,
+    "HoTen": "Hà Như Hương",
+    "SDT": "0952448488",
+    "Email": "nhanvien36.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2021-05-25"
+  },
+  {
+    "MaNV": 39,
+    "MaCN": 4,
+    "HoTen": "Lê Thanh Nam",
+    "SDT": "0926096978",
+    "Email": "nhanvien37.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2021-09-12"
+  },
+  {
+    "MaNV": 40,
+    "MaCN": 4,
+    "HoTen": "Huỳnh Tiến Dũng",
+    "SDT": "0973135150",
+    "Email": "nhanvien38.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2021-01-27"
+  },
+  {
+    "MaNV": 41,
+    "MaCN": 5,
+    "HoTen": "Triệu Thị An",
+    "SDT": "0954323654",
+    "Email": "nhanvien55.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2021-08-18"
+  },
+  {
+    "MaNV": 42,
+    "MaCN": 5,
+    "HoTen": "Mai Hữu Phong",
+    "SDT": "0988466487",
+    "Email": "nhanvien39.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2020-05-18"
+  },
+  {
+    "MaNV": 43,
+    "MaCN": 5,
+    "HoTen": "Vương Thị Ngân",
+    "SDT": "0922871885",
+    "Email": "nhanvien43.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2023-09-14"
+  },
+  {
+    "MaNV": 44,
+    "MaCN": 5,
+    "HoTen": "Tô Cẩm Thảo",
+    "SDT": "0970564317",
+    "Email": "nhanvien40.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2020-04-28"
+  },
+  {
+    "MaNV": 45,
+    "MaCN": 5,
+    "HoTen": "Mai Phương Uyên",
+    "SDT": "0937278022",
+    "Email": "nhanvien41.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2024-04-01"
+  },
+  {
+    "MaNV": 46,
+    "MaCN": 5,
+    "HoTen": "Phan Bích An",
+    "SDT": "0945862706",
+    "Email": "nhanvien42.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2024-03-15"
+  },
+  {
+    "MaNV": 47,
+    "MaCN": 5,
+    "HoTen": "Trịnh Mỹ Hà",
+    "SDT": "0963078952",
+    "Email": "nhanvien44.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2020-05-26"
+  },
+  {
+    "MaNV": 48,
+    "MaCN": 5,
+    "HoTen": "Lê Hải Phong",
+    "SDT": "0967881945",
+    "Email": "nhanvien45.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2024-06-15"
+  },
+  {
+    "MaNV": 49,
+    "MaCN": 5,
+    "HoTen": "Lý Gia Bách",
+    "SDT": "0937283997",
+    "Email": "nhanvien46.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2024-05-02"
+  },
+  {
+    "MaNV": 50,
+    "MaCN": 5,
+    "HoTen": "Bạch Kim Uyên",
+    "SDT": "0930531208",
+    "Email": "nhanvien47.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2020-07-15"
+  },
+  {
+    "MaNV": 51,
+    "MaCN": 6,
+    "HoTen": "Ngô Diệu Loan",
+    "SDT": "0970289520",
+    "Email": "nhanvien74.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2024-11-27"
+  },
+  {
+    "MaNV": 52,
+    "MaCN": 6,
+    "HoTen": "Lương Thu Hương",
+    "SDT": "0963735505",
+    "Email": "nhanvien49.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2022-09-08"
+  },
+  {
+    "MaNV": 53,
+    "MaCN": 6,
+    "HoTen": "Bùi Mỹ Bích",
+    "SDT": "0924056661",
+    "Email": "nhanvien50.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2022-03-01"
+  },
+  {
+    "MaNV": 54,
+    "MaCN": 6,
+    "HoTen": "Đoàn Thanh Minh",
+    "SDT": "0940440513",
+    "Email": "nhanvien53.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2020-01-06"
+  },
+  {
+    "MaNV": 55,
+    "MaCN": 6,
+    "HoTen": "Lê Phương Tú",
+    "SDT": "0976957685",
+    "Email": "nhanvien67.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2020-08-07"
+  },
+  {
+    "MaNV": 56,
+    "MaCN": 6,
+    "HoTen": "Hoàng Hải Tuấn",
+    "SDT": "0948787927",
+    "Email": "nhanvien51.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2024-05-07"
+  },
+  {
+    "MaNV": 57,
+    "MaCN": 6,
+    "HoTen": "Đỗ Mai Linh",
+    "SDT": "0986403982",
+    "Email": "nhanvien52.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2020-05-04"
+  },
+  {
+    "MaNV": 58,
+    "MaCN": 6,
+    "HoTen": "Trịnh Quỳnh Hà",
+    "SDT": "0934574454",
+    "Email": "nhanvien56.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2020-12-08"
+  },
+  {
+    "MaNV": 59,
+    "MaCN": 6,
+    "HoTen": "Huỳnh Hữu Lộc",
+    "SDT": "0972792848",
+    "Email": "nhanvien57.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2022-02-19"
+  },
+  {
+    "MaNV": 60,
+    "MaCN": 6,
+    "HoTen": "Phùng Hương Hà",
+    "SDT": "0936771983",
+    "Email": "nhanvien58.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2023-03-04"
+  },
+  {
+    "MaNV": 61,
+    "MaCN": 7,
+    "HoTen": "Phạm Đức Khoa",
+    "SDT": "0959329822",
+    "Email": "nhanvien76.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2022-06-15"
+  },
+  {
+    "MaNV": 62,
+    "MaCN": 7,
+    "HoTen": "Dương Khắc Dũng",
+    "SDT": "0981856514",
+    "Email": "nhanvien60.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2022-03-18"
+  },
+  {
+    "MaNV": 63,
+    "MaCN": 7,
+    "HoTen": "Võ Hương Uyên",
+    "SDT": "0993581663",
+    "Email": "nhanvien61.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2024-06-11"
+  },
+  {
+    "MaNV": 64,
+    "MaCN": 7,
+    "HoTen": "Dương Thị Nga",
+    "SDT": "0983661872",
+    "Email": "nhanvien59.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2020-11-27"
+  },
+  {
+    "MaNV": 65,
+    "MaCN": 7,
+    "HoTen": "Bạch Đức Long",
+    "SDT": "0961371979",
+    "Email": "nhanvien70.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2022-12-13"
+  },
+  {
+    "MaNV": 66,
+    "MaCN": 7,
+    "HoTen": "Vũ Ngọc Nga",
+    "SDT": "0920796663",
+    "Email": "nhanvien62.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2022-12-20"
+  },
+  {
+    "MaNV": 67,
+    "MaCN": 7,
+    "HoTen": "Lương Hương Lan",
+    "SDT": "0974642526",
+    "Email": "nhanvien63.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2022-06-13"
+  },
+  {
+    "MaNV": 68,
+    "MaCN": 7,
+    "HoTen": "Bạch Tuấn Hải",
+    "SDT": "0989917533",
+    "Email": "nhanvien64.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2024-11-03"
+  },
+  {
+    "MaNV": 69,
+    "MaCN": 7,
+    "HoTen": "Lý Thị Hà",
+    "SDT": "0918624063",
+    "Email": "nhanvien65.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2023-03-09"
+  },
+  {
+    "MaNV": 70,
+    "MaCN": 7,
+    "HoTen": "Phùng Hoàng Phúc",
+    "SDT": "0960644778",
+    "Email": "nhanvien66.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2021-02-05"
+  },
+  {
+    "MaNV": 71,
+    "MaCN": 8,
+    "HoTen": "Phạm Diệu Vy",
+    "SDT": "0926203628",
+    "Email": "nhanvien78.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2022-06-17"
+  },
+  {
+    "MaNV": 72,
+    "MaCN": 8,
+    "HoTen": "Phạm Hoàng Tuấn",
+    "SDT": "0965091479",
+    "Email": "nhanvien68.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2024-09-06"
+  },
+  {
+    "MaNV": 73,
+    "MaCN": 8,
+    "HoTen": "Đoàn Văn Tùng",
+    "SDT": "0999096113",
+    "Email": "nhanvien80.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2020-11-15"
+  },
+  {
+    "MaNV": 74,
+    "MaCN": 8,
+    "HoTen": "Triệu Quang Cường",
+    "SDT": "0953223215",
+    "Email": "nhanvien69.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2021-06-08"
+  },
+  {
+    "MaNV": 75,
+    "MaCN": 8,
+    "HoTen": "Đỗ Cẩm Thủy",
+    "SDT": "0910091925",
+    "Email": "nhanvien71.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2020-12-06"
+  },
+  {
+    "MaNV": 76,
+    "MaCN": 8,
+    "HoTen": "Đinh Tiến Khoa",
+    "SDT": "0963221935",
+    "Email": "nhanvien72.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2022-02-17"
+  },
+  {
+    "MaNV": 77,
+    "MaCN": 8,
+    "HoTen": "Hà Cẩm Yến",
+    "SDT": "0918322468",
+    "Email": "nhanvien73.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2020-04-14"
+  },
+  {
+    "MaNV": 78,
+    "MaCN": 8,
+    "HoTen": "Tô Thanh Cường",
+    "SDT": "0929427966",
+    "Email": "nhanvien75.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2023-02-06"
+  },
+  {
+    "MaNV": 79,
+    "MaCN": 8,
+    "HoTen": "Đặng Cẩm Thảo",
+    "SDT": "0962576384",
+    "Email": "nhanvien77.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2020-06-08"
+  },
+  {
+    "MaNV": 80,
+    "MaCN": 8,
+    "HoTen": "Vương Minh Sơn",
+    "SDT": "0942166888",
+    "Email": "nhanvien79.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2023-02-28"
+  },
+  {
+    "MaNV": 81,
+    "MaCN": 9,
+    "HoTen": "Vũ Xuân Thịnh",
+    "SDT": "0991299320",
+    "Email": "nhanvien85.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2020-04-25"
+  },
+  {
+    "MaNV": 82,
+    "MaCN": 9,
+    "HoTen": "Hồ Bích Uyên",
+    "SDT": "0950134538",
+    "Email": "nhanvien87.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2020-11-07"
+  },
+  {
+    "MaNV": 83,
+    "MaCN": 9,
+    "HoTen": "Đỗ Thanh Thành",
+    "SDT": "0965901164",
+    "Email": "nhanvien81.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2020-09-01"
+  },
+  {
+    "MaNV": 84,
+    "MaCN": 9,
+    "HoTen": "Hồ Đình Hưng",
+    "SDT": "0957288485",
+    "Email": "nhanvien84.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2020-08-14"
+  },
+  {
+    "MaNV": 85,
+    "MaCN": 9,
+    "HoTen": "Mai Tiến Hưng",
+    "SDT": "0987254344",
+    "Email": "nhanvien82.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2021-04-20"
+  },
+  {
+    "MaNV": 86,
+    "MaCN": 9,
+    "HoTen": "Đỗ Tiến Thịnh",
+    "SDT": "0980962082",
+    "Email": "nhanvien83.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2024-07-03"
+  },
+  {
+    "MaNV": 87,
+    "MaCN": 9,
+    "HoTen": "Bạch Bích Ngân",
+    "SDT": "0972054415",
+    "Email": "nhanvien86.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2021-06-04"
+  },
+  {
+    "MaNV": 88,
+    "MaCN": 9,
+    "HoTen": "Đỗ Tiến Đạt",
+    "SDT": "0978833093",
+    "Email": "nhanvien88.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2021-09-27"
+  },
+  {
+    "MaNV": 89,
+    "MaCN": 9,
+    "HoTen": "Thái Ánh Hằng",
+    "SDT": "0948760536",
+    "Email": "nhanvien89.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2021-10-21"
+  },
+  {
+    "MaNV": 90,
+    "MaCN": 9,
+    "HoTen": "Bùi Thanh Linh",
+    "SDT": "0916731200",
+    "Email": "nhanvien90.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2021-09-20"
+  },
+  {
+    "MaNV": 91,
+    "MaCN": 10,
+    "HoTen": "Đào Bảo Khoa",
+    "SDT": "0924898988",
+    "Email": "nhanvien92.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2024-11-15"
+  },
+  {
+    "MaNV": 92,
+    "MaCN": 10,
+    "HoTen": "Hà Cẩm Chi",
+    "SDT": "0912175689",
+    "Email": "nhanvien93.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2024-11-22"
+  },
+  {
+    "MaNV": 93,
+    "MaCN": 10,
+    "HoTen": "Hồ Thanh Quân",
+    "SDT": "0921326848",
+    "Email": "nhanvien96.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2023-08-07"
+  },
+  {
+    "MaNV": 94,
+    "MaCN": 10,
+    "HoTen": "Hoàng Gia Hải",
+    "SDT": "0929781108",
+    "Email": "nhanvien91.resort@gmail.com",
+    "ChucVu": "Chăm sóc khách hàng",
+    "NgayVaoLam": "2021-06-03"
+  },
+  {
+    "MaNV": 95,
+    "MaCN": 10,
+    "HoTen": "Võ Thanh Quân",
+    "SDT": "0926285302",
+    "Email": "nhanvien99.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2021-07-03"
+  },
+  {
+    "MaNV": 96,
+    "MaCN": 10,
+    "HoTen": "Bùi Tiến Huy",
+    "SDT": "0963819556",
+    "Email": "nhanvien94.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2022-06-03"
+  },
+  {
+    "MaNV": 97,
+    "MaCN": 10,
+    "HoTen": "Đỗ Thanh Yến",
+    "SDT": "0918268588",
+    "Email": "nhanvien95.resort@gmail.com",
+    "ChucVu": "Lễ tân",
+    "NgayVaoLam": "2021-06-26"
+  },
+  {
+    "MaNV": 98,
+    "MaCN": 10,
+    "HoTen": "Đặng Minh Hưng",
+    "SDT": "0922131274",
+    "Email": "nhanvien97.resort@gmail.com",
+    "ChucVu": "Lao công",
+    "NgayVaoLam": "2022-05-12"
+  },
+  {
+    "MaNV": 99,
+    "MaCN": 10,
+    "HoTen": "Đỗ Tuấn Bình",
+    "SDT": "0933412266",
+    "Email": "nhanvien98.resort@gmail.com",
+    "ChucVu": "Kỹ thuật",
+    "NgayVaoLam": "2022-02-22"
+  },
+  {
+    "MaNV": 100,
+    "MaCN": 10,
+    "HoTen": "Võ Bảo Long",
+    "SDT": "0982659764",
+    "Email": "nhanvien100.resort@gmail.com",
+    "ChucVu": "Quản lý",
+    "NgayVaoLam": "2020-11-01"
   }
 ]
