@@ -1,26 +1,164 @@
 [
   {
-    "MaCa": 1,
-    "TenCa": "Ca Đêm (00:00 - 06:00)",
+    "MaCa": "LT01",
+    "TenCa": "Ca trực Lễ tân Check-in #LT01 (00:00 - 05:00)",
     "GioBD": "00:00:00",
-    "GioKT": "06:00:00"
+    "GioKT": "05:00:00"
   },
   {
-    "MaCa": 2,
-    "TenCa": "Ca Sáng (06:00 - 12:00)",
-    "GioBD": "06:00:00",
+    "MaCa": "LT02",
+    "TenCa": "Ca trực Lễ tân Đặt phòng #LT02 (05:00 - 10:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": "LT03",
+    "TenCa": "Ca trực Lễ tân Check-in #LT03 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": "LT04",
+    "TenCa": "Ca trực Lễ tân Đặt phòng #LT04 (15:00 - 00:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": "BP01",
+    "TenCa": "Ca trực Buồng phòng Villa #BP01 (00:00 - 04:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "04:00:00"
+  },
+  {
+    "MaCa": "BP02",
+    "TenCa": "Ca trực Buồng phòng Villa #BP02 (04:00 - 10:00)",
+    "GioBD": "04:00:00",
+    "GioKT": "10:00:00"
+  },
+  {
+    "MaCa": "BP03",
+    "TenCa": "Ca trực Buồng phòng Villa #BP03 (10:00 - 15:00)",
+    "GioBD": "10:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": "BP04",
+    "TenCa": "Ca trực Buồng phòng Villa #BP04 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": "BP05",
+    "TenCa": "Ca trực Buồng phòng Tầng cao #BP05 (20:00 - 00:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": "BEP01",
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #BEP01 (00:00 - 07:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "07:00:00"
+  },
+  {
+    "MaCa": "BEP02",
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #BEP02 (07:00 - 12:00)",
+    "GioBD": "07:00:00",
     "GioKT": "12:00:00"
   },
   {
-    "MaCa": 3,
-    "TenCa": "Ca Chiều (12:00 - 18:00)",
+    "MaCa": "BEP03",
+    "TenCa": "Ca trực Bếp Bánh & Tráng miệng #BEP03 (12:00 - 18:00)",
     "GioBD": "12:00:00",
     "GioKT": "18:00:00"
   },
   {
-    "MaCa": 4,
-    "TenCa": "Ca Tối (18:00 - 00:00)",
+    "MaCa": "BEP04",
+    "TenCa": "Ca trực Bếp Nóng Á - Âu #BEP04 (18:00 - 00:00)",
     "GioBD": "18:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": "KT01",
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #KT01 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": "KT02",
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #KT02 (08:00 - 12:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "12:00:00"
+  },
+  {
+    "MaCa": "KT03",
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #KT03 (12:00 - 19:00)",
+    "GioBD": "12:00:00",
+    "GioKT": "19:00:00"
+  },
+  {
+    "MaCa": "KT04",
+    "TenCa": "Ca trực Kỹ thuật Âm thanh Hồ bơi #KT04 (19:00 - 00:00)",
+    "GioBD": "19:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": "AN01",
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #AN01 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": "AN02",
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #AN02 (08:00 - 16:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": "AN03",
+    "TenCa": "Ca trực Bảo vệ & Hướng dẫn Đỗ xe #AN03 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": "PC01",
+    "TenCa": "Ca trực Pha chế Quầy Bar #PC01 (00:00 - 08:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "08:00:00"
+  },
+  {
+    "MaCa": "PC02",
+    "TenCa": "Ca trực Pha chế Quầy Bar #PC02 (08:00 - 15:00)",
+    "GioBD": "08:00:00",
+    "GioKT": "15:00:00"
+  },
+  {
+    "MaCa": "PC03",
+    "TenCa": "Ca trực Pha chế Quầy Bar #PC03 (15:00 - 20:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "20:00:00"
+  },
+  {
+    "MaCa": "PC04",
+    "TenCa": "Ca trực Pha chế Quầy Bar #PC04 (20:00 - 00:00)",
+    "GioBD": "20:00:00",
+    "GioKT": "00:00:00"
+  },
+  {
+    "MaCa": "SPA01",
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #SPA01 (00:00 - 09:00)",
+    "GioBD": "00:00:00",
+    "GioKT": "09:00:00"
+  },
+  {
+    "MaCa": "SPA02",
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #SPA02 (09:00 - 16:00)",
+    "GioBD": "09:00:00",
+    "GioKT": "16:00:00"
+  },
+  {
+    "MaCa": "SPA03",
+    "TenCa": "Ca trực Spa & Trị liệu Thảo dược #SPA03 (16:00 - 00:00)",
+    "GioBD": "16:00:00",
     "GioKT": "00:00:00"
   }
 ]
