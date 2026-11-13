@@ -590,5 +590,1253 @@
     "SoPhong": "409",
     "Tang": 4,
     "TrangThai": "Bảo trì"
+  },
+  {
+    "MaPhong": 1501,
+    "MaCN": 3,
+    "MaLP": "LP003",
+    "SoPhong": "PQ-101",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1502,
+    "MaCN": 3,
+    "MaLP": "LP003",
+    "SoPhong": "PQ-102",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1503,
+    "MaCN": 3,
+    "MaLP": "LP002",
+    "SoPhong": "PQ-103",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1504,
+    "MaCN": 3,
+    "MaLP": "LP005",
+    "SoPhong": "PQ-104",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1505,
+    "MaCN": 3,
+    "MaLP": "LP001",
+    "SoPhong": "PQ-105",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1506,
+    "MaCN": 3,
+    "MaLP": "LP003",
+    "SoPhong": "PQ-106",
+    "Tang": 1,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1507,
+    "MaCN": 3,
+    "MaLP": "LP004",
+    "SoPhong": "PQ-107",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1508,
+    "MaCN": 3,
+    "MaLP": "LP005",
+    "SoPhong": "PQ-108",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1509,
+    "MaCN": 3,
+    "MaLP": "LP002",
+    "SoPhong": "PQ-109",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1510,
+    "MaCN": 3,
+    "MaLP": "LP003",
+    "SoPhong": "PQ-110",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1511,
+    "MaCN": 3,
+    "MaLP": "LP006",
+    "SoPhong": "PQ-201",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1512,
+    "MaCN": 3,
+    "MaLP": "LP004",
+    "SoPhong": "PQ-202",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1513,
+    "MaCN": 3,
+    "MaLP": "LP003",
+    "SoPhong": "PQ-203",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1514,
+    "MaCN": 3,
+    "MaLP": "LP005",
+    "SoPhong": "PQ-204",
+    "Tang": 2,
+    "TrangThai": "Bảo trì"
+  },
+  {
+    "MaPhong": 1515,
+    "MaCN": 3,
+    "MaLP": "LP002",
+    "SoPhong": "PQ-205",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1516,
+    "MaCN": 3,
+    "MaLP": "LP003",
+    "SoPhong": "PQ-206",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1517,
+    "MaCN": 3,
+    "MaLP": "LP004",
+    "SoPhong": "PQ-207",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1518,
+    "MaCN": 3,
+    "MaLP": "LP005",
+    "SoPhong": "PQ-208",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1519,
+    "MaCN": 3,
+    "MaLP": "LP002",
+    "SoPhong": "PQ-209",
+    "Tang": 2,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1520,
+    "MaCN": 4,
+    "MaLP": "LP003",
+    "SoPhong": "NT-101",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1521,
+    "MaCN": 4,
+    "MaLP": "LP002",
+    "SoPhong": "NT-102",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1522,
+    "MaCN": 4,
+    "MaLP": "LP003",
+    "SoPhong": "NT-103",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1523,
+    "MaCN": 4,
+    "MaLP": "LP005",
+    "SoPhong": "NT-104",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1524,
+    "MaCN": 4,
+    "MaLP": "LP001",
+    "SoPhong": "NT-105",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1525,
+    "MaCN": 4,
+    "MaLP": "LP003",
+    "SoPhong": "NT-106",
+    "Tang": 1,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1526,
+    "MaCN": 4,
+    "MaLP": "LP004",
+    "SoPhong": "NT-107",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1527,
+    "MaCN": 4,
+    "MaLP": "LP005",
+    "SoPhong": "NT-108",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1528,
+    "MaCN": 4,
+    "MaLP": "LP002",
+    "SoPhong": "NT-109",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1529,
+    "MaCN": 4,
+    "MaLP": "LP003",
+    "SoPhong": "NT-110",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1530,
+    "MaCN": 4,
+    "MaLP": "LP006",
+    "SoPhong": "NT-201",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1531,
+    "MaCN": 4,
+    "MaLP": "LP004",
+    "SoPhong": "NT-202",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1532,
+    "MaCN": 4,
+    "MaLP": "LP003",
+    "SoPhong": "NT-203",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1533,
+    "MaCN": 4,
+    "MaLP": "LP005",
+    "SoPhong": "NT-204",
+    "Tang": 2,
+    "TrangThai": "Bảo trì"
+  },
+  {
+    "MaPhong": 1534,
+    "MaCN": 4,
+    "MaLP": "LP002",
+    "SoPhong": "NT-205",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1535,
+    "MaCN": 4,
+    "MaLP": "LP003",
+    "SoPhong": "NT-206",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1536,
+    "MaCN": 4,
+    "MaLP": "LP004",
+    "SoPhong": "NT-207",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1537,
+    "MaCN": 4,
+    "MaLP": "LP005",
+    "SoPhong": "NT-208",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1538,
+    "MaCN": 4,
+    "MaLP": "LP002",
+    "SoPhong": "NT-209",
+    "Tang": 2,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1539,
+    "MaCN": 4,
+    "MaLP": "LP003",
+    "SoPhong": "NT-210",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1540,
+    "MaCN": 5,
+    "MaLP": "LP001",
+    "SoPhong": "SP-101",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1541,
+    "MaCN": 5,
+    "MaLP": "LP002",
+    "SoPhong": "SP-102",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1542,
+    "MaCN": 5,
+    "MaLP": "LP003",
+    "SoPhong": "SP-103",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1543,
+    "MaCN": 5,
+    "MaLP": "LP004",
+    "SoPhong": "SP-104",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1544,
+    "MaCN": 5,
+    "MaLP": "LP005",
+    "SoPhong": "SP-105",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1545,
+    "MaCN": 5,
+    "MaLP": "LP001",
+    "SoPhong": "SP-106",
+    "Tang": 1,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1546,
+    "MaCN": 5,
+    "MaLP": "LP002",
+    "SoPhong": "SP-107",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1547,
+    "MaCN": 5,
+    "MaLP": "LP003",
+    "SoPhong": "SP-108",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1548,
+    "MaCN": 5,
+    "MaLP": "LP004",
+    "SoPhong": "SP-109",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1549,
+    "MaCN": 5,
+    "MaLP": "LP005",
+    "SoPhong": "SP-110",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1550,
+    "MaCN": 5,
+    "MaLP": "LP006",
+    "SoPhong": "SP-201",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1551,
+    "MaCN": 5,
+    "MaLP": "LP004",
+    "SoPhong": "SP-202",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1552,
+    "MaCN": 5,
+    "MaLP": "LP003",
+    "SoPhong": "SP-203",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1553,
+    "MaCN": 5,
+    "MaLP": "LP005",
+    "SoPhong": "SP-204",
+    "Tang": 2,
+    "TrangThai": "Bảo trì"
+  },
+  {
+    "MaPhong": 1554,
+    "MaCN": 5,
+    "MaLP": "LP002",
+    "SoPhong": "SP-205",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1555,
+    "MaCN": 5,
+    "MaLP": "LP001",
+    "SoPhong": "SP-206",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1556,
+    "MaCN": 5,
+    "MaLP": "LP004",
+    "SoPhong": "SP-207",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1557,
+    "MaCN": 5,
+    "MaLP": "LP005",
+    "SoPhong": "SP-208",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1558,
+    "MaCN": 5,
+    "MaLP": "LP002",
+    "SoPhong": "SP-209",
+    "Tang": 2,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1559,
+    "MaCN": 6,
+    "MaLP": "LP001",
+    "SoPhong": "DL-101",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1560,
+    "MaCN": 6,
+    "MaLP": "LP002",
+    "SoPhong": "DL-102",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1561,
+    "MaCN": 6,
+    "MaLP": "LP003",
+    "SoPhong": "DL-103",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1562,
+    "MaCN": 6,
+    "MaLP": "LP004",
+    "SoPhong": "DL-104",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1563,
+    "MaCN": 6,
+    "MaLP": "LP005",
+    "SoPhong": "DL-105",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1564,
+    "MaCN": 6,
+    "MaLP": "LP001",
+    "SoPhong": "DL-106",
+    "Tang": 1,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1565,
+    "MaCN": 6,
+    "MaLP": "LP002",
+    "SoPhong": "DL-107",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1566,
+    "MaCN": 6,
+    "MaLP": "LP003",
+    "SoPhong": "DL-108",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1567,
+    "MaCN": 6,
+    "MaLP": "LP004",
+    "SoPhong": "DL-109",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1568,
+    "MaCN": 6,
+    "MaLP": "LP005",
+    "SoPhong": "DL-110",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1569,
+    "MaCN": 6,
+    "MaLP": "LP006",
+    "SoPhong": "DL-201",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1570,
+    "MaCN": 6,
+    "MaLP": "LP004",
+    "SoPhong": "DL-202",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1571,
+    "MaCN": 6,
+    "MaLP": "LP003",
+    "SoPhong": "DL-203",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1572,
+    "MaCN": 6,
+    "MaLP": "LP005",
+    "SoPhong": "DL-204",
+    "Tang": 2,
+    "TrangThai": "Bảo trì"
+  },
+  {
+    "MaPhong": 1573,
+    "MaCN": 6,
+    "MaLP": "LP002",
+    "SoPhong": "DL-205",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1574,
+    "MaCN": 6,
+    "MaLP": "LP001",
+    "SoPhong": "DL-206",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1575,
+    "MaCN": 6,
+    "MaLP": "LP004",
+    "SoPhong": "DL-207",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1576,
+    "MaCN": 6,
+    "MaLP": "LP005",
+    "SoPhong": "DL-208",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1577,
+    "MaCN": 7,
+    "MaLP": "LP001",
+    "SoPhong": "HA-101",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1578,
+    "MaCN": 7,
+    "MaLP": "LP002",
+    "SoPhong": "HA-102",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1579,
+    "MaCN": 7,
+    "MaLP": "LP003",
+    "SoPhong": "HA-103",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1580,
+    "MaCN": 7,
+    "MaLP": "LP005",
+    "SoPhong": "HA-104",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1581,
+    "MaCN": 7,
+    "MaLP": "LP004",
+    "SoPhong": "HA-105",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1582,
+    "MaCN": 7,
+    "MaLP": "LP001",
+    "SoPhong": "HA-106",
+    "Tang": 1,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1583,
+    "MaCN": 7,
+    "MaLP": "LP002",
+    "SoPhong": "HA-107",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1584,
+    "MaCN": 7,
+    "MaLP": "LP003",
+    "SoPhong": "HA-108",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1585,
+    "MaCN": 7,
+    "MaLP": "LP004",
+    "SoPhong": "HA-109",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1586,
+    "MaCN": 7,
+    "MaLP": "LP005",
+    "SoPhong": "HA-110",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1587,
+    "MaCN": 7,
+    "MaLP": "LP006",
+    "SoPhong": "HA-201",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1588,
+    "MaCN": 7,
+    "MaLP": "LP004",
+    "SoPhong": "HA-202",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1589,
+    "MaCN": 7,
+    "MaLP": "LP003",
+    "SoPhong": "HA-203",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1590,
+    "MaCN": 7,
+    "MaLP": "LP005",
+    "SoPhong": "HA-204",
+    "Tang": 2,
+    "TrangThai": "Bảo trì"
+  },
+  {
+    "MaPhong": 1591,
+    "MaCN": 7,
+    "MaLP": "LP002",
+    "SoPhong": "HA-205",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1592,
+    "MaCN": 7,
+    "MaLP": "LP001",
+    "SoPhong": "HA-206",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1593,
+    "MaCN": 7,
+    "MaLP": "LP004",
+    "SoPhong": "HA-207",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1594,
+    "MaCN": 7,
+    "MaLP": "LP005",
+    "SoPhong": "HA-208",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1595,
+    "MaCN": 7,
+    "MaLP": "LP002",
+    "SoPhong": "HA-209",
+    "Tang": 2,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1596,
+    "MaCN": 7,
+    "MaLP": "LP003",
+    "SoPhong": "HA-210",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1597,
+    "MaCN": 8,
+    "MaLP": "LP003",
+    "SoPhong": "HL-101",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1598,
+    "MaCN": 8,
+    "MaLP": "LP003",
+    "SoPhong": "HL-102",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1599,
+    "MaCN": 8,
+    "MaLP": "LP002",
+    "SoPhong": "HL-103",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1600,
+    "MaCN": 8,
+    "MaLP": "LP005",
+    "SoPhong": "HL-104",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1601,
+    "MaCN": 8,
+    "MaLP": "LP001",
+    "SoPhong": "HL-105",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1602,
+    "MaCN": 8,
+    "MaLP": "LP003",
+    "SoPhong": "HL-106",
+    "Tang": 1,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1603,
+    "MaCN": 8,
+    "MaLP": "LP004",
+    "SoPhong": "HL-107",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1604,
+    "MaCN": 8,
+    "MaLP": "LP005",
+    "SoPhong": "HL-108",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1605,
+    "MaCN": 8,
+    "MaLP": "LP002",
+    "SoPhong": "HL-109",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1606,
+    "MaCN": 8,
+    "MaLP": "LP003",
+    "SoPhong": "HL-110",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1607,
+    "MaCN": 8,
+    "MaLP": "LP006",
+    "SoPhong": "HL-201",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1608,
+    "MaCN": 8,
+    "MaLP": "LP004",
+    "SoPhong": "HL-202",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1609,
+    "MaCN": 8,
+    "MaLP": "LP003",
+    "SoPhong": "HL-203",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1610,
+    "MaCN": 8,
+    "MaLP": "LP005",
+    "SoPhong": "HL-204",
+    "Tang": 2,
+    "TrangThai": "Bảo trì"
+  },
+  {
+    "MaPhong": 1611,
+    "MaCN": 8,
+    "MaLP": "LP002",
+    "SoPhong": "HL-205",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1612,
+    "MaCN": 8,
+    "MaLP": "LP003",
+    "SoPhong": "HL-206",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1613,
+    "MaCN": 8,
+    "MaLP": "LP004",
+    "SoPhong": "HL-207",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1614,
+    "MaCN": 8,
+    "MaLP": "LP005",
+    "SoPhong": "HL-208",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1615,
+    "MaCN": 8,
+    "MaLP": "LP002",
+    "SoPhong": "HL-209",
+    "Tang": 2,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1616,
+    "MaCN": 8,
+    "MaLP": "LP003",
+    "SoPhong": "HL-210",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1617,
+    "MaCN": 9,
+    "MaLP": "LP001",
+    "SoPhong": "HUE-101",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1618,
+    "MaCN": 9,
+    "MaLP": "LP002",
+    "SoPhong": "HUE-102",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1619,
+    "MaCN": 9,
+    "MaLP": "LP003",
+    "SoPhong": "HUE-103",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1620,
+    "MaCN": 9,
+    "MaLP": "LP004",
+    "SoPhong": "HUE-104",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1621,
+    "MaCN": 9,
+    "MaLP": "LP005",
+    "SoPhong": "HUE-105",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1622,
+    "MaCN": 9,
+    "MaLP": "LP001",
+    "SoPhong": "HUE-106",
+    "Tang": 1,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1623,
+    "MaCN": 9,
+    "MaLP": "LP002",
+    "SoPhong": "HUE-107",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1624,
+    "MaCN": 9,
+    "MaLP": "LP003",
+    "SoPhong": "HUE-108",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1625,
+    "MaCN": 9,
+    "MaLP": "LP004",
+    "SoPhong": "HUE-109",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1626,
+    "MaCN": 9,
+    "MaLP": "LP005",
+    "SoPhong": "HUE-110",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1627,
+    "MaCN": 9,
+    "MaLP": "LP006",
+    "SoPhong": "HUE-201",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1628,
+    "MaCN": 9,
+    "MaLP": "LP004",
+    "SoPhong": "HUE-202",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1629,
+    "MaCN": 9,
+    "MaLP": "LP003",
+    "SoPhong": "HUE-203",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1630,
+    "MaCN": 9,
+    "MaLP": "LP005",
+    "SoPhong": "HUE-204",
+    "Tang": 2,
+    "TrangThai": "Bảo trì"
+  },
+  {
+    "MaPhong": 1631,
+    "MaCN": 9,
+    "MaLP": "LP002",
+    "SoPhong": "HUE-205",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1632,
+    "MaCN": 9,
+    "MaLP": "LP001",
+    "SoPhong": "HUE-206",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1633,
+    "MaCN": 9,
+    "MaLP": "LP004",
+    "SoPhong": "HUE-207",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1634,
+    "MaCN": 9,
+    "MaLP": "LP005",
+    "SoPhong": "HUE-208",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1635,
+    "MaCN": 9,
+    "MaLP": "LP002",
+    "SoPhong": "HUE-209",
+    "Tang": 2,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1636,
+    "MaCN": 9,
+    "MaLP": "LP003",
+    "SoPhong": "HUE-210",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1637,
+    "MaCN": 10,
+    "MaLP": "LP003",
+    "SoPhong": "VT-101",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1638,
+    "MaCN": 10,
+    "MaLP": "LP002",
+    "SoPhong": "VT-102",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1639,
+    "MaCN": 10,
+    "MaLP": "LP003",
+    "SoPhong": "VT-103",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1640,
+    "MaCN": 10,
+    "MaLP": "LP005",
+    "SoPhong": "VT-104",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1641,
+    "MaCN": 10,
+    "MaLP": "LP001",
+    "SoPhong": "VT-105",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1642,
+    "MaCN": 10,
+    "MaLP": "LP003",
+    "SoPhong": "VT-106",
+    "Tang": 1,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1643,
+    "MaCN": 10,
+    "MaLP": "LP004",
+    "SoPhong": "VT-107",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1644,
+    "MaCN": 10,
+    "MaLP": "LP005",
+    "SoPhong": "VT-108",
+    "Tang": 1,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1645,
+    "MaCN": 10,
+    "MaLP": "LP002",
+    "SoPhong": "VT-109",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1646,
+    "MaCN": 10,
+    "MaLP": "LP003",
+    "SoPhong": "VT-110",
+    "Tang": 1,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1647,
+    "MaCN": 10,
+    "MaLP": "LP006",
+    "SoPhong": "VT-201",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1648,
+    "MaCN": 10,
+    "MaLP": "LP004",
+    "SoPhong": "VT-202",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1649,
+    "MaCN": 10,
+    "MaLP": "LP003",
+    "SoPhong": "VT-203",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1650,
+    "MaCN": 10,
+    "MaLP": "LP005",
+    "SoPhong": "VT-204",
+    "Tang": 2,
+    "TrangThai": "Bảo trì"
+  },
+  {
+    "MaPhong": 1651,
+    "MaCN": 10,
+    "MaLP": "LP002",
+    "SoPhong": "VT-205",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1652,
+    "MaCN": 10,
+    "MaLP": "LP003",
+    "SoPhong": "VT-206",
+    "Tang": 2,
+    "TrangThai": "Đã sẵn sàng"
+  },
+  {
+    "MaPhong": 1653,
+    "MaCN": 10,
+    "MaLP": "LP004",
+    "SoPhong": "VT-207",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1654,
+    "MaCN": 10,
+    "MaLP": "LP005",
+    "SoPhong": "VT-208",
+    "Tang": 2,
+    "TrangThai": "Trống"
+  },
+  {
+    "MaPhong": 1655,
+    "MaCN": 10,
+    "MaLP": "LP002",
+    "SoPhong": "VT-209",
+    "Tang": 2,
+    "TrangThai": "Đang sử dụng"
+  },
+  {
+    "MaPhong": 1656,
+    "MaCN": 10,
+    "MaLP": "LP003",
+    "SoPhong": "VT-210",
+    "Tang": 2,
+    "TrangThai": "Trống"
   }
 ]
