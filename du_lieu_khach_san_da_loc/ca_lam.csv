@@ -1,28 +1,11 @@
 MaCa,TenCa,GioBD,GioKT
-LT01,Ca trực Lễ tân Check-in #LT01 (00:00 - 05:00),00:00:00,05:00:00
-LT02,Ca trực Lễ tân Đặt phòng #LT02 (05:00 - 10:00),05:00:00,10:00:00
-LT03,Ca trực Lễ tân Check-in #LT03 (10:00 - 15:00),10:00:00,15:00:00
-LT04,Ca trực Lễ tân Đặt phòng #LT04 (15:00 - 00:00),15:00:00,00:00:00
-BP01,Ca trực Buồng phòng Villa #BP01 (00:00 - 04:00),00:00:00,04:00:00
-BP02,Ca trực Buồng phòng Villa #BP02 (04:00 - 10:00),04:00:00,10:00:00
-BP03,Ca trực Buồng phòng Villa #BP03 (10:00 - 15:00),10:00:00,15:00:00
-BP04,Ca trực Buồng phòng Villa #BP04 (15:00 - 20:00),15:00:00,20:00:00
-BP05,Ca trực Buồng phòng Tầng cao #BP05 (20:00 - 00:00),20:00:00,00:00:00
-BEP01,Ca trực Bếp Nóng Á - Âu #BEP01 (00:00 - 07:00),00:00:00,07:00:00
-BEP02,Ca trực Bếp Nóng Á - Âu #BEP02 (07:00 - 12:00),07:00:00,12:00:00
-BEP03,Ca trực Bếp Bánh & Tráng miệng #BEP03 (12:00 - 18:00),12:00:00,18:00:00
-BEP04,Ca trực Bếp Nóng Á - Âu #BEP04 (18:00 - 00:00),18:00:00,00:00:00
-KT01,Ca trực Kỹ thuật Âm thanh Hồ bơi #KT01 (00:00 - 08:00),00:00:00,08:00:00
-KT02,Ca trực Kỹ thuật Âm thanh Hồ bơi #KT02 (08:00 - 12:00),08:00:00,12:00:00
-KT03,Ca trực Kỹ thuật Âm thanh Hồ bơi #KT03 (12:00 - 19:00),12:00:00,19:00:00
-KT04,Ca trực Kỹ thuật Âm thanh Hồ bơi #KT04 (19:00 - 00:00),19:00:00,00:00:00
-AN01,Ca trực Bảo vệ & Hướng dẫn Đỗ xe #AN01 (00:00 - 08:00),00:00:00,08:00:00
-AN02,Ca trực Bảo vệ & Hướng dẫn Đỗ xe #AN02 (08:00 - 16:00),08:00:00,16:00:00
-AN03,Ca trực Bảo vệ & Hướng dẫn Đỗ xe #AN03 (16:00 - 00:00),16:00:00,00:00:00
-PC01,Ca trực Pha chế Quầy Bar #PC01 (00:00 - 08:00),00:00:00,08:00:00
-PC02,Ca trực Pha chế Quầy Bar #PC02 (08:00 - 15:00),08:00:00,15:00:00
-PC03,Ca trực Pha chế Quầy Bar #PC03 (15:00 - 20:00),15:00:00,20:00:00
-PC04,Ca trực Pha chế Quầy Bar #PC04 (20:00 - 00:00),20:00:00,00:00:00
-SPA01,Ca trực Spa & Trị liệu Thảo dược #SPA01 (00:00 - 09:00),00:00:00,09:00:00
-SPA02,Ca trực Spa & Trị liệu Thảo dược #SPA02 (09:00 - 16:00),09:00:00,16:00:00
-SPA03,Ca trực Spa & Trị liệu Thảo dược #SPA03 (16:00 - 00:00),16:00:00,00:00:00
+1,Ca Sáng Lễ Tân (06:00 - 14:30),06:00:00,14:30:00
+2,Ca Chiều Lễ Tân (14:00 - 22:30),14:00:00,22:30:00
+3,Ca Đêm Lễ Tân & Kiểm Toán Đêm (22:00 - 06:30),22:00:00,06:30:00
+4,Ca Sáng Buồng Phòng Housekeeping (07:00 - 15:30),07:00:00,15:30:00
+5,Ca Chiều Dọn Phòng Turndown Service (14:30 - 23:00),14:30:00,23:00:00
+6,Ca Sáng Bếp Buffet Sáng (05:30 - 14:00),05:30:00,14:00:00
+7,Ca Chiều Tối Nhà Hàng Fine Dining (15:00 - 23:30),15:00:00,23:30:00
+8,Ca Gãy Nhà Hàng Split Shift (10:00 - 14:00 & 17:30 - 21:30),10:00:00,21:30:00
+9,Ca Kỹ Thuật Bảo Trì Điện Lạnh (08:00 - 16:30),08:00:00,16:30:00
+10,Ca An Ninh & Bảo Vệ Cổng Chính (06:00 - 18:00),06:00:00,18:00:00
