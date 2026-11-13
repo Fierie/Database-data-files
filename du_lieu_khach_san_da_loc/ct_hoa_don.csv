@@ -1,333 +1,181 @@
-﻿MaCTHD,MaHD,LoaiKhoanThu,MoTa,SoLuong,DonGia
-1,1,Tiền phòng,Tiền thuê phòng #22 (3 đêm),3,12500000.0
-2,1,Dịch vụ,Massage Bấm Huyệt Ngải Cứu Đông Y Toàn Thân (Spa),2,850000.0
-3,1,Dịch vụ,Đại Tiệc Buffet Hải Sản Tôm Hùm & Cua Hoàng Đế (Nhà hàng),2,650000.0
-4,1,Dịch vụ,Bữa Tối Nến Lãng Mạn Bò Wagyu A5 & Rượu Vang Đỏ (Nhà hàng),1,2500000.0
-5,1,Dịch vụ,Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya (Spa),2,600000.0
-6,1,Dịch vụ,Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #187) (Spa),4,1528000.0
-7,1,Dịch vụ,Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #698) (Tour),3,522000.0
-8,1,Dịch vụ,Nem Nướng Nha Trang Cuốn Bánh Tráng Nước Lèo (Gói Cao Cấp #413) (Nhà hàng),4,781000.0
-9,1,Dịch vụ,Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #507) (Nhà hàng),4,1510000.0
-10,2,Tiền phòng,Tiền thuê phòng #11 (10 đêm),10,1800000.0
-11,2,Dịch vụ,Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #488) (Nhà hàng),1,943000.0
-12,2,Dịch vụ,Tour Chèo Thuyền Kayak Vịnh Lan Hạ Đảo Cát Bà (Gói Cao Cấp #691) (Tour),4,1146000.0
-13,2,Dịch vụ,Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #611) (Tour),4,744000.0
-14,2,Dịch vụ,Tour Chợ Nổi Cái Răng Bến Ninh Kiều Cần Thơ (Gói Cao Cấp #573) (Tour),1,1101000.0
-15,3,Tiền phòng,Tiền thuê phòng #21 (5 đêm),5,12500000.0
-16,3,Dịch vụ,Bún Chả Hà Nội Nướng Than Hoa Bát Gốm (Gói Cao Cấp #436) (Nhà hàng),2,840000.0
-17,3,Dịch vụ,Dịch Vụ Thuê Xe Máy Khám Phá Thắng Cảnh Tự Túc (Gói Cao Cấp #777) (Khác),3,886000.0
-18,3,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #737) (Tour),3,738000.0
-19,4,Tiền phòng,Tiền thuê phòng #31 (6 đêm),6,25000000.0
-20,4,Dịch vụ,Chăm Sóc Toàn Thân Tinh Chất Ngọc Trai Biển (Gói Cao Cấp #125) (Spa),3,322000.0
-21,4,Dịch vụ,Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #906) (Khác),2,1142000.0
-22,5,Tiền phòng,Tiền thuê phòng #41 (15 đêm),15,2500000.0
-23,5,Dịch vụ,Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #499) (Nhà hàng),3,1404000.0
-24,5,Dịch vụ,Dịch Vụ Trông Giữ & Hướng Dẫn Kỹ Năng Cho Trẻ Em Kids Club (Gói Cao Cấp #834) (Khác),2,1481000.0
-25,5,Dịch vụ,Lẩu Cá Tầm Nóng Hổi Nấm Rừng Tây Bắc (Gói Cao Cấp #315) (Nhà hàng),2,1072000.0
-26,6,Tiền phòng,Tiền thuê phòng #41 (15 đêm),15,2500000.0
-27,6,Dịch vụ,Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #284) (Nhà hàng),1,644000.0
-28,6,Dịch vụ,Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #801) (Khác),2,1163000.0
-29,7,Tiền phòng,Tiền thuê phòng #42 (15 đêm),15,2500000.0
-30,7,Dịch vụ,Dịch Vụ Trông Giữ & Hướng Dẫn Kỹ Năng Cho Trẻ Em Kids Club (Gói Cao Cấp #820) (Khác),2,531000.0
-31,8,Tiền phòng,Tiền thuê phòng #42 (15 đêm),15,2500000.0
-32,8,Dịch vụ,Tẩy Tế Bào Chết Cà Phê Đắk Lắk & Dầu Dừa Bến Tre (Gói Cao Cấp #143) (Spa),4,1637000.0
-33,8,Dịch vụ,Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #693) (Tour),2,1519000.0
-34,8,Dịch vụ,Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #809) (Khác),2,751000.0
-35,9,Tiền phòng,Tiền thuê phòng #43 (15 đêm),15,2500000.0
-36,9,Dịch vụ,Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #280) (Nhà hàng),1,520000.0
-37,9,Dịch vụ,Bún Chả Hà Nội Nướng Than Hoa Bát Gốm (Gói Cao Cấp #429) (Nhà hàng),4,460000.0
-38,9,Dịch vụ,Bún Chả Hà Nội Nướng Than Hoa Bát Gốm (Gói Cao Cấp #437) (Nhà hàng),4,1776000.0
-39,9,Dịch vụ,Bê Chao Mộc Châu Sốt Tương Gừng Cay Nồng (Gói Cao Cấp #465) (Nhà hàng),2,1480000.0
-40,9,Dịch vụ,Tour Xe Jeep Địa Hình Khám Phá Đồi Cát Trắng Mũi Né (Gói Cao Cấp #631) (Tour),2,1736000.0
-41,10,Tiền phòng,Tiền thuê phòng #44 (15 đêm),15,2500000.0
-42,10,Dịch vụ,Dịch Vụ Trông Giữ & Hướng Dẫn Kỹ Năng Cho Trẻ Em Kids Club (Gói Cao Cấp #835) (Khác),4,1191000.0
-43,10,Dịch vụ,Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #180) (Spa),2,253000.0
-44,11,Tiền phòng,Tiền thuê phòng #44 (15 đêm),15,2500000.0
-45,12,Tiền phòng,Tiền thuê phòng #45 (15 đêm),15,2500000.0
-46,12,Dịch vụ,Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #956) (Khác),1,956000.0
-47,12,Dịch vụ,Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #761) (Tour),1,1019000.0
-48,13,Tiền phòng,Tiền thuê phòng #45 (15 đêm),15,2500000.0
-49,13,Dịch vụ,Dịch Vụ Thuê Xe Máy Khám Phá Thắng Cảnh Tự Túc (Gói Cao Cấp #769) (Khác),3,831000.0
-50,14,Tiền phòng,Tiền thuê phòng #46 (15 đêm),15,2500000.0
-51,14,Dịch vụ,Nem Nướng Nha Trang Cuốn Bánh Tráng Nước Lèo (Gói Cao Cấp #404) (Nhà hàng),2,1649000.0
-52,15,Tiền phòng,Tiền thuê phòng #47 (15 đêm),15,2500000.0
-53,15,Dịch vụ,Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #883) (Khác),3,1258000.0
-54,16,Tiền phòng,Tiền thuê phòng #47 (15 đêm),15,2500000.0
-55,16,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #721) (Tour),2,1184000.0
-56,16,Dịch vụ,Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #510) (Nhà hàng),1,1096000.0
-57,17,Tiền phòng,Tiền thuê phòng #48 (15 đêm),15,2500000.0
-58,17,Dịch vụ,Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya (Spa),3,376000.0
-59,17,Dịch vụ,Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #644) (Tour),4,480000.0
-60,17,Dịch vụ,Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #231) (Spa),4,1008000.0
-61,18,Tiền phòng,Tiền thuê phòng #48 (15 đêm),15,2500000.0
-62,18,Dịch vụ,Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #54) (Spa),1,829000.0
-63,19,Tiền phòng,Tiền thuê phòng #49 (15 đêm),15,2500000.0
-64,19,Dịch vụ,Bánh Mì Kẹp Thịt Nướng Bơ Tỏi Đặc Sản Phố Cổ (Gói Cao Cấp #381) (Nhà hàng),2,1156000.0
-65,20,Tiền phòng,Tiền thuê phòng #49 (15 đêm),15,2500000.0
-66,20,Dịch vụ,Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #53) (Spa),3,754000.0
-67,20,Dịch vụ,Chả Cá Lã Vọng Hà Nội Bếp Cổ Truyền (Gói Cao Cấp #348) (Nhà hàng),4,1126000.0
-68,21,Tiền phòng,Tiền thuê phòng #50 (15 đêm),15,2500000.0
-69,21,Dịch vụ,Chăm Sóc Toàn Thân Tinh Chất Ngọc Trai Biển (Gói Cao Cấp #136) (Spa),1,688000.0
-70,21,Dịch vụ,Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #99) (Spa),4,659000.0
-71,21,Dịch vụ,Chăm Sóc Toàn Thân Tinh Chất Ngọc Trai Biển (Gói Cao Cấp #118) (Spa),4,1495000.0
-72,21,Dịch vụ,Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #890) (Khác),3,416000.0
-73,21,Dịch vụ,Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #753) (Tour),2,610000.0
-74,21,Dịch vụ,Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #274) (Nhà hàng),4,721000.0
-75,22,Tiền phòng,Tiền thuê phòng #50 (15 đêm),15,2500000.0
-76,22,Dịch vụ,Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #187) (Spa),1,369000.0
-77,22,Dịch vụ,Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #880) (Khác),1,1308000.0
-78,22,Dịch vụ,Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #236) (Spa),4,752000.0
-79,23,Tiền phòng,Tiền thuê phòng #51 (15 đêm),15,2500000.0
-80,23,Dịch vụ,Liệu Trình Giảm Mỡ Bụng Đông Y Đắp Cao Thảo Dược (Gói Cao Cấp #213) (Spa),4,1259000.0
-81,24,Tiền phòng,Tiền thuê phòng #51 (15 đêm),15,2500000.0
-82,24,Dịch vụ,Bánh Mì Kẹp Thịt Nướng Bơ Tỏi Đặc Sản Phố Cổ (Gói Cao Cấp #378) (Nhà hàng),4,1229000.0
-83,24,Dịch vụ,Tour Khám Phá Quần Thể Di Sản Tràng An Ninh Bình (Gói Cao Cấp #534) (Tour),1,1499000.0
-84,25,Tiền phòng,Tiền thuê phòng #52 (15 đêm),15,2500000.0
-85,25,Dịch vụ,Dịch Vụ Quản Gia Riêng Phục Vụ 24/7 Phong Cách Hoàng Gia (Gói Cao Cấp #850) (Khác),4,922000.0
-86,26,Tiền phòng,Tiền thuê phòng #53 (15 đêm),15,2500000.0
-87,26,Dịch vụ,Lẩu Cá Tầm Nóng Hổi Nấm Rừng Tây Bắc (Gói Cao Cấp #304) (Nhà hàng),4,899000.0
-88,26,Dịch vụ,Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #178) (Spa),1,702000.0
-89,26,Dịch vụ,Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #93) (Spa),2,486000.0
-90,27,Tiền phòng,Tiền thuê phòng #53 (15 đêm),15,2500000.0
-91,28,Tiền phòng,Tiền thuê phòng #54 (15 đêm),15,2500000.0
-92,28,Dịch vụ,Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya (Spa),1,395000.0
-93,28,Dịch vụ,Tẩy Tế Bào Chết Cà Phê Đắk Lắk & Dầu Dừa Bến Tre (Gói Cao Cấp #158) (Spa),2,574000.0
-94,28,Dịch vụ,Trị Liệu Chuông Xoay Tây Tạng Cân Bằng Năng Lượng (Gói Cao Cấp #71) (Spa),2,872000.0
-95,29,Tiền phòng,Tiền thuê phòng #54 (15 đêm),15,2500000.0
-96,29,Dịch vụ,Tour Xe Jeep Địa Hình Khám Phá Đồi Cát Trắng Mũi Né (Gói Cao Cấp #617) (Tour),4,1302000.0
-97,29,Dịch vụ,Tour Khám Phá Quần Thể Di Sản Tràng An Ninh Bình (Gói Cao Cấp #529) (Tour),4,796000.0
-98,29,Dịch vụ,Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #911) (Khác),3,843000.0
-99,29,Dịch vụ,Set Trà Chiều Cung Đình Huế & Bánh Đậu Xanh (Nhà hàng),4,782000.0
-100,30,Tiền phòng,Tiền thuê phòng #55 (15 đêm),15,2500000.0
-101,31,Tiền phòng,Tiền thuê phòng #55 (15 đêm),15,2500000.0
-102,31,Dịch vụ,Trị Liệu Chuông Xoay Tây Tạng Cân Bằng Năng Lượng (Gói Cao Cấp #84) (Spa),2,1398000.0
-103,31,Dịch vụ,Bê Chao Mộc Châu Sốt Tương Gừng Cay Nồng (Gói Cao Cấp #464) (Nhà hàng),1,1204000.0
-104,31,Dịch vụ,Lẩu Cá Tầm Nóng Hổi Nấm Rừng Tây Bắc (Gói Cao Cấp #301) (Nhà hàng),4,1741000.0
-105,32,Tiền phòng,Tiền thuê phòng #56 (15 đêm),15,2500000.0
-106,32,Dịch vụ,Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #869) (Khác),1,1105000.0
-107,32,Dịch vụ,Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #493) (Nhà hàng),2,1585000.0
-108,33,Tiền phòng,Tiền thuê phòng #56 (15 đêm),15,2500000.0
-109,34,Tiền phòng,Tiền thuê phòng #57 (15 đêm),15,2500000.0
-110,34,Dịch vụ,Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #902) (Khác),2,450000.0
-111,34,Dịch vụ,Liệu Trình Giảm Mỡ Bụng Đông Y Đắp Cao Thảo Dược (Gói Cao Cấp #206) (Spa),4,1519000.0
-112,35,Tiền phòng,Tiền thuê phòng #57 (15 đêm),15,2500000.0
-113,35,Dịch vụ,Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #896) (Khác),2,437000.0
-114,35,Dịch vụ,Dịch Vụ Dọn Phòng Nhanh Theo Yêu Cầu Express Housekeeping (Gói Cao Cấp #982) (Khác),2,844000.0
-115,36,Tiền phòng,Tiền thuê phòng #58 (15 đêm),15,2500000.0
-116,36,Dịch vụ,Tour Khám Phá Quần Thể Di Sản Tràng An Ninh Bình (Gói Cao Cấp #537) (Tour),3,1549000.0
-117,36,Dịch vụ,Tour Chèo Thuyền Kayak Vịnh Lan Hạ Đảo Cát Bà (Gói Cao Cấp #691) (Tour),2,310000.0
-118,37,Tiền phòng,Tiền thuê phòng #58 (15 đêm),15,2500000.0
-119,37,Dịch vụ,Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #180) (Spa),1,1415000.0
-120,37,Dịch vụ,Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #884) (Khác),2,1756000.0
-121,37,Dịch vụ,Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #112) (Spa),4,1246000.0
-122,38,Tiền phòng,Tiền thuê phòng #59 (15 đêm),15,2500000.0
-123,38,Dịch vụ,Trị Liệu Chuông Xoay Tây Tạng Cân Bằng Năng Lượng (Gói Cao Cấp #75) (Spa),4,872000.0
-124,38,Dịch vụ,Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #186) (Spa),4,636000.0
-125,39,Tiền phòng,Tiền thuê phòng #59 (15 đêm),15,2500000.0
-126,39,Dịch vụ,Dịch Vụ Thuê Xe Máy Khám Phá Thắng Cảnh Tự Túc (Gói Cao Cấp #778) (Khác),2,980000.0
-127,40,Tiền phòng,Tiền thuê phòng #60 (15 đêm),15,2500000.0
-128,40,Dịch vụ,Dịch Vụ Thuê Xe Máy Khám Phá Thắng Cảnh Tự Túc (Gói Cao Cấp #790) (Khác),4,619000.0
-129,41,Tiền phòng,Tiền thuê phòng #60 (15 đêm),15,2500000.0
-130,41,Dịch vụ,Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #490) (Nhà hàng),1,1301000.0
-131,41,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #719) (Tour),4,1409000.0
-132,41,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #736) (Tour),4,1185000.0
-133,41,Dịch vụ,Dịch Vụ Dọn Phòng Nhanh Theo Yêu Cầu Express Housekeeping (Gói Cao Cấp #972) (Khác),4,1213000.0
-134,42,Tiền phòng,Tiền thuê phòng #61 (15 đêm),15,2500000.0
-135,42,Dịch vụ,Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #50) (Spa),1,1639000.0
-136,43,Tiền phòng,Tiền thuê phòng #61 (15 đêm),15,2500000.0
-137,43,Dịch vụ,Bê Chao Mộc Châu Sốt Tương Gừng Cay Nồng (Gói Cao Cấp #456) (Nhà hàng),1,786000.0
-138,44,Tiền phòng,Tiền thuê phòng #62 (15 đêm),15,2500000.0
-139,45,Tiền phòng,Tiền thuê phòng #63 (15 đêm),15,2500000.0
-140,46,Tiền phòng,Tiền thuê phòng #63 (15 đêm),15,2500000.0
-141,46,Dịch vụ,Gỏi Cá Trích Phú Quốc Cuốn Bánh Tráng Rau Rừng (Gói Cao Cấp #325) (Nhà hàng),4,1495000.0
-142,46,Dịch vụ,Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #906) (Khác),1,1215000.0
-143,46,Dịch vụ,Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #174) (Spa),4,793000.0
-144,46,Dịch vụ,Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #608) (Tour),4,688000.0
-145,47,Tiền phòng,Tiền thuê phòng #64 (15 đêm),15,2500000.0
-146,48,Tiền phòng,Tiền thuê phòng #64 (15 đêm),15,2500000.0
-147,48,Dịch vụ,Bún Chả Hà Nội Nướng Than Hoa Bát Gốm (Gói Cao Cấp #441) (Nhà hàng),1,371000.0
-148,49,Tiền phòng,Tiền thuê phòng #65 (15 đêm),15,2500000.0
-149,49,Dịch vụ,Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #715) (Tour),1,1203000.0
-150,49,Dịch vụ,Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #764) (Tour),4,893000.0
-151,49,Dịch vụ,Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #912) (Khác),2,1778000.0
-152,50,Tiền phòng,Tiền thuê phòng #65 (15 đêm),15,2500000.0
-153,51,Tiền phòng,Tiền thuê phòng #66 (15 đêm),15,2500000.0
-154,52,Tiền phòng,Tiền thuê phòng #66 (15 đêm),15,2500000.0
-155,52,Dịch vụ,Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #879) (Khác),1,1502000.0
-156,52,Dịch vụ,Tour Xe Jeep Địa Hình Khám Phá Đồi Cát Trắng Mũi Né (Gói Cao Cấp #631) (Tour),3,1201000.0
-157,52,Dịch vụ,Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #800) (Khác),3,1620000.0
-158,53,Tiền phòng,Tiền thuê phòng #67 (15 đêm),15,2500000.0
-159,53,Dịch vụ,Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #182) (Spa),1,1150000.0
-160,53,Dịch vụ,Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #593) (Tour),3,1332000.0
-161,53,Dịch vụ,Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #950) (Khác),4,466000.0
-162,54,Tiền phòng,Tiền thuê phòng #67 (15 đêm),15,2500000.0
-163,54,Dịch vụ,Gỏi Cá Trích Phú Quốc Cuốn Bánh Tráng Rau Rừng (Gói Cao Cấp #318) (Nhà hàng),2,842000.0
-164,54,Dịch vụ,Chả Cá Lã Vọng Hà Nội Bếp Cổ Truyền (Gói Cao Cấp #342) (Nhà hàng),1,1204000.0
-165,54,Dịch vụ,Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #961) (Khác),4,1449000.0
-166,55,Tiền phòng,Tiền thuê phòng #68 (15 đêm),15,2500000.0
-167,55,Dịch vụ,Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #482) (Nhà hàng),3,282000.0
-168,55,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #734) (Tour),3,1256000.0
-169,55,Dịch vụ,Nem Nướng Nha Trang Cuốn Bánh Tráng Nước Lèo (Gói Cao Cấp #401) (Nhà hàng),2,950000.0
-170,55,Dịch vụ,Tour Thám Hiểm Hang Động Phong Nha Kẻ Bàng (Gói Cao Cấp #552) (Tour),3,862000.0
-171,55,Dịch vụ,Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #498) (Nhà hàng),1,1180000.0
-172,55,Dịch vụ,Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #870) (Khác),3,1768000.0
-173,55,Dịch vụ,Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #235) (Spa),1,1331000.0
-174,56,Tiền phòng,Tiền thuê phòng #69 (15 đêm),15,2500000.0
-175,56,Dịch vụ,Bún Chả Hà Nội Nướng Than Hoa Bát Gốm (Gói Cao Cấp #417) (Nhà hàng),2,383000.0
-176,57,Tiền phòng,Tiền thuê phòng #69 (15 đêm),15,2500000.0
-177,57,Dịch vụ,Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #643) (Tour),2,1272000.0
-178,58,Tiền phòng,Tiền thuê phòng #70 (15 đêm),15,2500000.0
-179,58,Dịch vụ,Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #48) (Spa),4,1217000.0
-180,58,Dịch vụ,Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #703) (Tour),3,508000.0
-181,59,Tiền phòng,Tiền thuê phòng #70 (15 đêm),15,2500000.0
-182,59,Dịch vụ,Bê Chao Mộc Châu Sốt Tương Gừng Cay Nồng (Gói Cao Cấp #449) (Nhà hàng),2,1205000.0
-228,76,Tiền phòng,Tiền thuê phòng #39 (2 đêm),2,1918000.0
-229,76,Dịch vụ,Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #55) (Spa),4,1258000.0
-247,82,Tiền phòng,Tiền thuê phòng #33 (4 đêm),4,4750000.0
-248,82,Dịch vụ,Massage Nến Ấm Tinh Dầu Trầm Hương Xứ Quảng (Gói Cao Cấp #170) (Spa),3,1349000.0
-249,82,Dịch vụ,Chăm Sóc Toàn Thân Tinh Chất Ngọc Trai Biển (Gói Cao Cấp #118) (Spa),2,508000.0
-250,82,Dịch vụ,Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #98) (Spa),2,1176000.0
-265,87,Tiền phòng,Tiền thuê phòng #1474 (5 đêm),5,1718000.0
-266,87,Dịch vụ,Massage Bấm Huyệt Ngải Cứu Đông Y Toàn Thân (Spa),2,1234000.0
-304,105,Tiền phòng,Tiền thuê phòng #1474 (2 đêm),2,3251000.0
-305,105,Dịch vụ,Tour Khám Phá Quần Thể Di Sản Tràng An Ninh Bình (Gói Cao Cấp #523) (Tour),1,604000.0
-306,105,Dịch vụ,Liệu Trình Giảm Mỡ Bụng Đông Y Đắp Cao Thảo Dược (Gói Cao Cấp #204) (Spa),2,1023000.0
-369,128,Tiền phòng,Tiền thuê phòng #26 (4 đêm),4,3165000.0
-370,128,Dịch vụ,Tẩy Tế Bào Chết Cà Phê Đắk Lắk & Dầu Dừa Bến Tre (Gói Cao Cấp #146) (Spa),2,255000.0
-394,137,Tiền phòng,Tiền thuê phòng #58 (3 đêm),3,2391000.0
-395,137,Dịch vụ,Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #909) (Khác),4,1111000.0
-502,176,Tiền phòng,Tiền thuê phòng #68 (4 đêm),4,2829000.0
-503,176,Dịch vụ,Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #487) (Nhà hàng),3,1364000.0
-653,232,Tiền phòng,Tiền thuê phòng #15 (2 đêm),2,1889000.0
-654,232,Dịch vụ,Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #758) (Tour),1,1776000.0
-655,232,Dịch vụ,Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #98) (Spa),4,536000.0
-669,238,Tiền phòng,Tiền thuê phòng #54 (5 đêm),5,3828000.0
-670,238,Dịch vụ,Dịch Vụ Quản Gia Riêng Phục Vụ 24/7 Phong Cách Hoàng Gia (Gói Cao Cấp #857) (Khác),2,1261000.0
-671,238,Dịch vụ,Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #26) (Spa),1,1349000.0
-728,258,Tiền phòng,Tiền thuê phòng #27 (4 đêm),4,4705000.0
-729,258,Dịch vụ,Dịch Vụ Dọn Phòng Nhanh Theo Yêu Cầu Express Housekeeping (Gói Cao Cấp #974) (Khác),4,534000.0
-730,258,Dịch vụ,Bánh Mì Kẹp Thịt Nướng Bơ Tỏi Đặc Sản Phố Cổ (Gói Cao Cấp #373) (Nhà hàng),2,788000.0
-801,285,Tiền phòng,Tiền thuê phòng #32 (2 đêm),2,1810000.0
-802,285,Dịch vụ,Tour Khám Phá Quần Thể Di Sản Tràng An Ninh Bình (Gói Cao Cấp #530) (Tour),4,1369000.0
-803,285,Dịch vụ,Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #886) (Khác),3,475000.0
-876,314,Tiền phòng,Tiền thuê phòng #69 (3 đêm),3,1766000.0
-877,314,Dịch vụ,Liệu Trình Giảm Mỡ Bụng Đông Y Đắp Cao Thảo Dược (Gói Cao Cấp #205) (Spa),2,342000.0
-878,314,Dịch vụ,Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #707) (Tour),2,851000.0
-891,319,Tiền phòng,Tiền thuê phòng #48 (5 đêm),5,4358000.0
-892,319,Dịch vụ,Nem Nướng Nha Trang Cuốn Bánh Tráng Nước Lèo (Gói Cao Cấp #414) (Nhà hàng),1,1303000.0
-893,319,Dịch vụ,Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #53) (Spa),4,857000.0
-905,324,Tiền phòng,Tiền thuê phòng #3 (2 đêm),2,2856000.0
-906,324,Dịch vụ,Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #890) (Khác),4,894000.0
-950,343,Tiền phòng,Tiền thuê phòng #37 (3 đêm),3,3920000.0
-951,343,Dịch vụ,Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #765) (Tour),3,1488000.0
-952,343,Dịch vụ,Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #291) (Nhà hàng),1,529000.0
-953,343,Dịch vụ,Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #947) (Khác),1,664000.0
-954,343,Dịch vụ,Dịch Vụ Dọn Phòng Nhanh Theo Yêu Cầu Express Housekeeping (Gói Cao Cấp #969) (Khác),4,505000.0
-970,352,Tiền phòng,Tiền thuê phòng #20 (2 đêm),2,1659000.0
-971,352,Dịch vụ,Tour Trải Nghiệm Làm Nông Dân Làng Rau Trà Quế Hội An (Gói Cao Cấp #692) (Tour),2,403000.0
-972,352,Dịch vụ,Tour Thám Hiểm Hang Động Phong Nha Kẻ Bàng (Gói Cao Cấp #561) (Tour),4,1075000.0
-973,352,Dịch vụ,Lớp Học Nấu Ăn Ẩm Thực Việt Nam Cùng Bếp Trưởng 5 Sao (Gói Cao Cấp #924) (Khác),1,1588000.0
-1042,378,Tiền phòng,Tiền thuê phòng #7 (5 đêm),5,2422000.0
-1043,378,Dịch vụ,Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #510) (Nhà hàng),3,1645000.0
-1044,378,Dịch vụ,Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #953) (Khác),3,1675000.0
-1165,418,Tiền phòng,Tiền thuê phòng #62 (4 đêm),4,3693000.0
-1166,418,Dịch vụ,Dịch Vụ Quản Gia Riêng Phục Vụ 24/7 Phong Cách Hoàng Gia (Gói Cao Cấp #846) (Khác),3,1593000.0
-1167,418,Dịch vụ,Trị Liệu Chuông Xoay Tây Tạng Cân Bằng Năng Lượng (Gói Cao Cấp #70) (Spa),1,530000.0
-1218,438,Tiền phòng,Tiền thuê phòng #6 (2 đêm),2,2172000.0
-1266,461,Tiền phòng,Tiền thuê phòng #70 (5 đêm),5,3470000.0
-1314,479,Tiền phòng,Tiền thuê phòng #54 (5 đêm),5,5154000.0
-1315,479,Dịch vụ,Dịch Vụ Quản Gia Riêng Phục Vụ 24/7 Phong Cách Hoàng Gia (Gói Cao Cấp #844) (Khác),4,1717000.0
-1429,524,Tiền phòng,Tiền thuê phòng #62 (3 đêm),3,2203000.0
-1430,524,Dịch vụ,Chả Cá Lã Vọng Hà Nội Bếp Cổ Truyền (Gói Cao Cấp #363) (Nhà hàng),1,1706000.0
-1493,546,Tiền phòng,Tiền thuê phòng #26 (3 đêm),3,4012000.0
-1494,546,Dịch vụ,Dịch Vụ Dọn Phòng Nhanh Theo Yêu Cầu Express Housekeeping (Gói Cao Cấp #989) (Khác),1,1063000.0
-1495,546,Dịch vụ,Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #604) (Tour),2,338000.0
-1530,562,Tiền phòng,Tiền thuê phòng #57 (2 đêm),2,3323000.0
-1531,562,Dịch vụ,Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #217) (Spa),3,670000.0
-1532,562,Dịch vụ,Dịch Vụ Trông Giữ & Hướng Dẫn Kỹ Năng Cho Trẻ Em Kids Club (Gói Cao Cấp #839) (Khác),2,446000.0
-1533,562,Dịch vụ,Gỏi Cá Trích Phú Quốc Cuốn Bánh Tráng Rau Rừng (Gói Cao Cấp #338) (Nhà hàng),2,1358000.0
-1534,562,Dịch vụ,Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #46) (Spa),1,312000.0
-1557,572,Tiền phòng,Tiền thuê phòng #59 (3 đêm),3,4217000.0
-1573,577,Tiền phòng,Tiền thuê phòng #1 (2 đêm),2,2629000.0
-1574,577,Dịch vụ,Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #802) (Khác),2,702000.0
-1634,598,Tiền phòng,Tiền thuê phòng #67 (3 đêm),3,4915000.0
-1635,598,Dịch vụ,Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #642) (Tour),2,1588000.0
-1655,606,Tiền phòng,Tiền thuê phòng #60 (4 đêm),4,3051000.0
-1656,606,Dịch vụ,Tẩy Tế Bào Chết Cà Phê Đắk Lắk & Dầu Dừa Bến Tre (Gói Cao Cấp #147) (Spa),4,1097000.0
-1657,606,Dịch vụ,Bê Chao Mộc Châu Sốt Tương Gừng Cay Nồng (Gói Cao Cấp #454) (Nhà hàng),2,779000.0
-1658,606,Dịch vụ,Lớp Học Nấu Ăn Ẩm Thực Việt Nam Cùng Bếp Trưởng 5 Sao (Gói Cao Cấp #931) (Khác),2,876000.0
-1685,618,Tiền phòng,Tiền thuê phòng #8 (2 đêm),2,3694000.0
-1686,618,Dịch vụ,Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #912) (Khác),2,1002000.0
-1687,618,Dịch vụ,Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #25) (Spa),3,285000.0
-1688,618,Dịch vụ,Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #471) (Nhà hàng),1,1075000.0
-1699,622,Tiền phòng,Tiền thuê phòng #13 (4 đêm),4,3696000.0
-1700,622,Dịch vụ,Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #467) (Nhà hàng),3,286000.0
-1823,672,Tiền phòng,Tiền thuê phòng #42 (2 đêm),2,3925000.0
-1824,672,Dịch vụ,Dịch Vụ Cho Thuê Trang Phục Cổ Trang Việt Cổ & Áo Dài (Gói Cao Cấp #994) (Khác),2,563000.0
-2006,749,Tiền phòng,Tiền thuê phòng #15 (3 đêm),3,2956000.0
-2007,749,Dịch vụ,Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #953) (Khác),2,998000.0
-2008,749,Dịch vụ,Dịch Vụ Đặt Bàn Ưu Tiên & Phục Vụ Bữa Ăn Tại Giường Room Service (Gói Cao Cấp #956) (Khác),1,1593000.0
-2009,749,Dịch vụ,Tẩy Tế Bào Chết Cà Phê Đắk Lắk & Dầu Dừa Bến Tre (Gói Cao Cấp #157) (Spa),4,1665000.0
-2010,749,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #733) (Tour),3,1163000.0
-2011,749,Dịch vụ,Lẩu Cá Tầm Nóng Hổi Nấm Rừng Tây Bắc (Gói Cao Cấp #305) (Nhà hàng),2,1155000.0
-2071,774,Tiền phòng,Tiền thuê phòng #1 (4 đêm),4,3137000.0
-2084,781,Tiền phòng,Tiền thuê phòng #41 (2 đêm),2,2744000.0
-2085,781,Dịch vụ,Lẩu Cá Tầm Nóng Hổi Nấm Rừng Tây Bắc (Gói Cao Cấp #298) (Nhà hàng),1,1120000.0
-2182,817,Tiền phòng,Tiền thuê phòng #29 (2 đêm),2,2089000.0
-2183,817,Dịch vụ,Tour Xe Jeep Địa Hình Khám Phá Đồi Cát Trắng Mũi Né (Gói Cao Cấp #638) (Tour),2,1174000.0
-2184,817,Dịch vụ,Dịch Vụ Chụp Ảnh Ngoại Cảnh Kỷ Yếu & Cặp Đôi Cùng Nhiếp Ảnh Gia (Gói Cao Cấp #867) (Khác),4,922000.0
-2185,817,Dịch vụ,Ngâm Bùn Khoáng Nóng Tự Nhiên Thải Độc (Gói Cao Cấp #111) (Spa),1,695000.0
-2225,832,Tiền phòng,Tiền thuê phòng #60 (2 đêm),2,2991000.0
-2226,832,Dịch vụ,Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #29) (Spa),3,1224000.0
-2265,846,Tiền phòng,Tiền thuê phòng #35 (4 đêm),4,2476000.0
-2266,846,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #724) (Tour),1,982000.0
-2267,846,Dịch vụ,Xông Hơi Thảo Mộc Lá Bưởi Lá Tía Tô (Gói Cao Cấp #66) (Spa),3,1437000.0
-2268,846,Dịch vụ,Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #235) (Spa),1,1131000.0
-2275,850,Tiền phòng,Tiền thuê phòng #70 (4 đêm),4,1823000.0
-2276,850,Dịch vụ,Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #272) (Nhà hàng),3,612000.0
-2277,850,Dịch vụ,Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #604) (Tour),4,304000.0
-2278,851,Tiền phòng,Tiền thuê phòng #36 (4 đêm),4,2406000.0
-2279,851,Dịch vụ,Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #650) (Tour),3,743000.0
-2280,851,Dịch vụ,Set Menu Cơm Niêu Cá Kho Tộ & Canh Cua Rau Đay (Gói Cao Cấp #271) (Nhà hàng),3,646000.0
-2289,856,Tiền phòng,Tiền thuê phòng #70 (5 đêm),5,3292000.0
-2290,856,Dịch vụ,Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #475) (Nhà hàng),1,788000.0
-2291,856,Dịch vụ,Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #593) (Tour),2,1491000.0
-2355,878,Tiền phòng,Tiền thuê phòng #30 (4 đêm),4,2784000.0
-2356,878,Dịch vụ,Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #662) (Tour),4,366000.0
-2357,878,Dịch vụ,Tour Thám Hiểm Hang Động Phong Nha Kẻ Bàng (Gói Cao Cấp #562) (Tour),2,1626000.0
-2358,878,Dịch vụ,Trị Liệu Chuông Xoay Tây Tạng Cân Bằng Năng Lượng (Gói Cao Cấp #77) (Spa),2,1586000.0
-2359,878,Dịch vụ,Dịch Vụ Trông Giữ & Hướng Dẫn Kỹ Năng Cho Trẻ Em Kids Club (Gói Cao Cấp #827) (Khác),2,878000.0
-2360,878,Dịch vụ,Dịch Vụ Quản Gia Riêng Phục Vụ 24/7 Phong Cách Hoàng Gia (Gói Cao Cấp #863) (Khác),4,1610000.0
-2361,878,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #739) (Tour),4,1795000.0
-2367,882,Tiền phòng,Tiền thuê phòng #7 (5 đêm),5,2959000.0
-2368,882,Dịch vụ,Tour Lặn Ngắm Rạn San Hô Hòn Mun Nha Trang (Gói Cao Cấp #648) (Tour),3,1561000.0
-2369,882,Dịch vụ,Tour Bay Dù Lượn Ngắm Mù Cang Chải Mùa Lúa Chín (Gói Cao Cấp #765) (Tour),3,1779000.0
-2443,910,Tiền phòng,Tiền thuê phòng #34 (3 đêm),3,1848000.0
-2444,911,Tiền phòng,Tiền thuê phòng #1 (2 đêm),2,2657000.0
-2445,911,Dịch vụ,Chườm Đá Nóng Núi Lửa Thư Giãn Thần Kinh (Gói Cao Cấp #226) (Spa),1,369000.0
-2446,912,Tiền phòng,Tiền thuê phòng #42 (2 đêm),2,1593000.0
-2447,912,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #735) (Tour),3,1652000.0
-2448,912,Dịch vụ,Dịch Vụ Thuê Xe Máy Khám Phá Thắng Cảnh Tự Túc (Gói Cao Cấp #773) (Khác),3,1669000.0
-2449,912,Dịch vụ,Gỏi Cá Trích Phú Quốc Cuốn Bánh Tráng Rau Rừng (Gói Cao Cấp #325) (Nhà hàng),3,1541000.0
-2450,912,Dịch vụ,Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #806) (Khác),2,1349000.0
-2451,912,Dịch vụ,Bánh Mì Kẹp Thịt Nướng Bơ Tỏi Đặc Sản Phố Cổ (Gói Cao Cấp #388) (Nhà hàng),4,1749000.0
-2452,912,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #737) (Tour),3,1527000.0
-2486,927,Tiền phòng,Tiền thuê phòng #36 (2 đêm),2,2299000.0
-2487,927,Dịch vụ,Dịch Vụ Thuê Xe Đạp Đôi Dạo Quanh Bờ Hồ & Biển (Gói Cao Cấp #910) (Khác),4,1181000.0
-2689,1005,Tiền phòng,Tiền thuê phòng #35 (3 đêm),3,4826000.0
-2690,1005,Dịch vụ,Tour Chèo Thuyền Kayak Vịnh Lan Hạ Đảo Cát Bà (Gói Cao Cấp #680) (Tour),1,1486000.0
-2697,1009,Tiền phòng,Tiền thuê phòng #54 (4 đêm),4,4140000.0
-2698,1009,Dịch vụ,Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #24) (Spa),1,999000.0
-2699,1009,Dịch vụ,Lẩu Mắm Miền Tây Đậm Đà Tôm Mực Cá Kèo (Gói Cao Cấp #505) (Nhà hàng),2,654000.0
-2854,1068,Tiền phòng,Tiền thuê phòng #27 (3 đêm),3,4765000.0
-2910,1090,Tiền phòng,Tiền thuê phòng #55 (2 đêm),2,2719000.0
-2911,1090,Dịch vụ,Tour Săn Mây Đỉnh Đèo Ô Quy Hồ Hoàng Liên Sơn (Gói Cao Cấp #594) (Tour),3,542000.0
-2971,1112,Tiền phòng,Tiền thuê phòng #52 (2 đêm),2,2567000.0
-2972,1112,Dịch vụ,Dịch Vụ Trang Trí Phòng Trăng Mật Kỷ Niệm Hoa Hồng Nến Thơm (Gói Cao Cấp #812) (Khác),3,1607000.0
-2973,1112,Dịch vụ,Tour Đi Thuyền Sông Hương Nghe Ca Huế & Thăm Chùa Thiên Mụ (Gói Cao Cấp #724) (Tour),1,882000.0
-2974,1112,Dịch vụ,Liệu Trình Giảm Mỡ Bụng Đông Y Đắp Cao Thảo Dược (Gói Cao Cấp #205) (Spa),1,1736000.0
-2975,1112,Dịch vụ,Chả Cá Lã Vọng Hà Nội Bếp Cổ Truyền (Gói Cao Cấp #349) (Nhà hàng),3,1550000.0
-3098,1157,Tiền phòng,Tiền thuê phòng #68 (2 đêm),2,4298000.0
-3099,1157,Dịch vụ,Nem Nướng Nha Trang Cuốn Bánh Tráng Nước Lèo (Gói Cao Cấp #406) (Nhà hàng),2,1404000.0
-3100,1157,Dịch vụ,Cơm Gà Tam Kỳ Hạt Dẻo Nước Luộc Gà Vàng Óng (Gói Cao Cấp #472) (Nhà hàng),1,585000.0
-3147,1177,Tiền phòng,Tiền thuê phòng #45 (3 đêm),3,1956000.0
+MaCTHD,MaHD,LoaiKhoanThu,MoTa,SoLuong,DonGia
+1,1,Tiền phòng,Tiền phòng #2 (3 đêm),3,1200000
+2,2,Tiền phòng,Tiền phòng #41 (10 đêm),10,1782000
+3,2,Tiền phòng,Tiền phòng #42 (10 đêm),10,1752000
+4,3,Tiền phòng,Tiền phòng #266 (5 đêm),5,1472000
+5,4,Tiền phòng,Tiền phòng #1520 (6 đêm),6,1248440
+6,5,Tiền phòng,Tiền phòng #969 (15 đêm),15,1752000
+7,5,Tiền phòng,Tiền phòng #1540 (15 đêm),15,1500000
+8,6,Tiền phòng,Tiền phòng #1233 (15 đêm),15,1816000
+9,6,Tiền phòng,Tiền phòng #1559 (15 đêm),15,1500000
+10,7,Tiền phòng,Tiền phòng #1577 (15 đêm),15,1500000
+11,7,Tiền phòng,Tiền phòng #1578 (15 đêm),15,1792000
+12,8,Tiền phòng,Tiền phòng #1597 (15 đêm),15,1816000
+13,8,Tiền phòng,Tiền phòng #1598 (15 đêm),15,1816000
+14,9,Tiền phòng,Tiền phòng #1617 (15 đêm),15,1500000
+15,9,Tiền phòng,Tiền phòng #1618 (15 đêm),15,1792000
+16,10,Tiền phòng,Tiền phòng #1637 (15 đêm),15,1816000
+17,10,Tiền phòng,Tiền phòng #1638 (15 đêm),15,1792000
+18,11,Tiền phòng,Tiền phòng #3 (15 đêm),15,1500000
+19,11,Tiền phòng,Tiền phòng #4 (15 đêm),15,1752000
+20,12,Tiền phòng,Tiền phòng #43 (15 đêm),15,1782000
+21,12,Tiền phòng,Tiền phòng #44 (15 đêm),15,1782000
+22,13,Tiền phòng,Tiền phòng #1501 (15 đêm),15,1816000
+23,13,Tiền phòng,Tiền phòng #1502 (15 đêm),15,1816000
+24,14,Tiền phòng,Tiền phòng #1521 (15 đêm),15,1792000
+25,14,Tiền phòng,Tiền phòng #1522 (15 đêm),15,1816000
+26,15,Tiền phòng,Tiền phòng #1541 (15 đêm),15,1792000
+27,15,Tiền phòng,Tiền phòng #1542 (15 đêm),15,1816000
+28,16,Tiền phòng,Tiền phòng #1560 (15 đêm),15,1792000
+29,16,Tiền phòng,Tiền phòng #1561 (15 đêm),15,1816000
+30,17,Tiền phòng,Tiền phòng #1579 (15 đêm),15,1816000
+31,17,Tiền phòng,Tiền phòng #1580 (15 đêm),15,1782000
+32,18,Tiền phòng,Tiền phòng #1599 (15 đêm),15,1792000
+33,18,Tiền phòng,Tiền phòng #1600 (15 đêm),15,1782000
+34,19,Tiền phòng,Tiền phòng #1619 (15 đêm),15,1816000
+35,19,Tiền phòng,Tiền phòng #1620 (15 đêm),15,1752000
+36,20,Tiền phòng,Tiền phòng #1639 (15 đêm),15,1816000
+37,20,Tiền phòng,Tiền phòng #1640 (15 đêm),15,1782000
+38,21,Tiền phòng,Tiền phòng #5 (15 đêm),15,1816000
+39,21,Tiền phòng,Tiền phòng #6 (15 đêm),15,1816000
+40,22,Tiền phòng,Tiền phòng #45 (15 đêm),15,1500000
+41,22,Tiền phòng,Tiền phòng #46 (15 đêm),15,1792000
+42,23,Tiền phòng,Tiền phòng #1503 (15 đêm),15,1792000
+43,23,Tiền phòng,Tiền phòng #1504 (15 đêm),15,1782000
+44,24,Tiền phòng,Tiền phòng #1523 (15 đêm),15,1782000
+45,24,Tiền phòng,Tiền phòng #1524 (15 đêm),15,1500000
+46,25,Tiền phòng,Tiền phòng #1543 (15 đêm),15,1752000
+47,25,Tiền phòng,Tiền phòng #1544 (15 đêm),15,1782000
+48,26,Tiền phòng,Tiền phòng #1562 (15 đêm),15,1752000
+49,26,Tiền phòng,Tiền phòng #1563 (15 đêm),15,1782000
+50,27,Tiền phòng,Tiền phòng #1581 (15 đêm),15,1752000
+51,27,Tiền phòng,Tiền phòng #1582 (15 đêm),15,1500000
+52,28,Tiền phòng,Tiền phòng #1601 (15 đêm),15,1500000
+53,28,Tiền phòng,Tiền phòng #1602 (15 đêm),15,1816000
+54,29,Tiền phòng,Tiền phòng #1621 (15 đêm),15,1782000
+55,29,Tiền phòng,Tiền phòng #1622 (15 đêm),15,1500000
+56,30,Tiền phòng,Tiền phòng #1641 (15 đêm),15,1500000
+57,30,Tiền phòng,Tiền phòng #1642 (15 đêm),15,1816000
+58,31,Tiền phòng,Tiền phòng #7 (15 đêm),15,1782000
+59,31,Tiền phòng,Tiền phòng #9 (15 đêm),15,1782000
+60,32,Tiền phòng,Tiền phòng #47 (15 đêm),15,1782000
+61,32,Tiền phòng,Tiền phòng #48 (15 đêm),15,1782000
+62,33,Tiền phòng,Tiền phòng #1505 (15 đêm),15,1500000
+63,33,Tiền phòng,Tiền phòng #1506 (15 đêm),15,1816000
+64,34,Tiền phòng,Tiền phòng #1525 (15 đêm),15,1816000
+65,34,Tiền phòng,Tiền phòng #1526 (15 đêm),15,1752000
+66,35,Tiền phòng,Tiền phòng #1545 (15 đêm),15,1500000
+67,35,Tiền phòng,Tiền phòng #1546 (15 đêm),15,1792000
+68,36,Tiền phòng,Tiền phòng #1564 (15 đêm),15,1500000
+69,36,Tiền phòng,Tiền phòng #1565 (15 đêm),15,1792000
+70,37,Tiền phòng,Tiền phòng #1583 (15 đêm),15,1792000
+71,37,Tiền phòng,Tiền phòng #1584 (15 đêm),15,1816000
+72,38,Tiền phòng,Tiền phòng #1603 (15 đêm),15,1752000
+73,38,Tiền phòng,Tiền phòng #1604 (15 đêm),15,1782000
+74,39,Tiền phòng,Tiền phòng #1623 (15 đêm),15,1792000
+75,39,Tiền phòng,Tiền phòng #1624 (15 đêm),15,1816000
+76,40,Tiền phòng,Tiền phòng #1643 (15 đêm),15,1752000
+77,40,Tiền phòng,Tiền phòng #1644 (15 đêm),15,1782000
+78,41,Tiền phòng,Tiền phòng #10 (15 đêm),15,1752000
+79,41,Tiền phòng,Tiền phòng #11 (15 đêm),15,1792000
+80,42,Tiền phòng,Tiền phòng #49 (15 đêm),15,1792000
+81,42,Tiền phòng,Tiền phòng #50 (15 đêm),15,1792000
+82,43,Tiền phòng,Tiền phòng #1507 (15 đêm),15,1752000
+83,43,Tiền phòng,Tiền phòng #1508 (15 đêm),15,1782000
+84,44,Tiền phòng,Tiền phòng #1527 (15 đêm),15,1782000
+85,44,Tiền phòng,Tiền phòng #1528 (15 đêm),15,1792000
+86,45,Tiền phòng,Tiền phòng #1547 (15 đêm),15,1816000
+87,45,Tiền phòng,Tiền phòng #1548 (15 đêm),15,1752000
+88,46,Tiền phòng,Tiền phòng #1566 (15 đêm),15,1816000
+89,46,Tiền phòng,Tiền phòng #1567 (15 đêm),15,1752000
+90,47,Tiền phòng,Tiền phòng #1585 (15 đêm),15,1752000
+91,47,Tiền phòng,Tiền phòng #1586 (15 đêm),15,1782000
+92,48,Tiền phòng,Tiền phòng #1605 (15 đêm),15,1792000
+93,48,Tiền phòng,Tiền phòng #1606 (15 đêm),15,1816000
+94,49,Tiền phòng,Tiền phòng #1625 (15 đêm),15,1752000
+95,49,Tiền phòng,Tiền phòng #1626 (15 đêm),15,1782000
+96,50,Tiền phòng,Tiền phòng #1645 (15 đêm),15,1792000
+97,50,Tiền phòng,Tiền phòng #1646 (15 đêm),15,1816000
+98,51,Tiền phòng,Tiền phòng #13 (15 đêm),15,1792000
+99,51,Tiền phòng,Tiền phòng #14 (15 đêm),15,1816000
+100,52,Tiền phòng,Tiền phòng #51 (15 đêm),15,1752000
+101,52,Tiền phòng,Tiền phòng #52 (15 đêm),15,1782000
+102,53,Tiền phòng,Tiền phòng #1509 (15 đêm),15,1792000
+103,53,Tiền phòng,Tiền phòng #1510 (15 đêm),15,1816000
+104,54,Tiền phòng,Tiền phòng #1529 (15 đêm),15,1816000
+105,54,Tiền phòng,Tiền phòng #1530 (15 đêm),15,15625000
+106,55,Tiền phòng,Tiền phòng #1549 (15 đêm),15,1782000
+107,55,Tiền phòng,Tiền phòng #1550 (15 đêm),15,15625000
+108,56,Tiền phòng,Tiền phòng #1568 (15 đêm),15,1782000
+109,56,Tiền phòng,Tiền phòng #1569 (15 đêm),15,15625000
+110,57,Tiền phòng,Tiền phòng #1587 (15 đêm),15,15625000
+111,57,Tiền phòng,Tiền phòng #1588 (15 đêm),15,1752000
+112,58,Tiền phòng,Tiền phòng #1607 (15 đêm),15,15625000
+113,58,Tiền phòng,Tiền phòng #1608 (15 đêm),15,1752000
+114,59,Tiền phòng,Tiền phòng #1627 (15 đêm),15,15625000
+115,59,Tiền phòng,Tiền phòng #1628 (15 đêm),15,1752000
+116,76,Tiền phòng,Tiền phòng #1647 (2 đêm),2,15625000
+117,82,Tiền phòng,Tiền phòng #15 (4 đêm),4,1531000
+118,87,Tiền phòng,Tiền phòng #53 (5 đêm),5,1531000
+119,105,Tiền phòng,Tiền phòng #1511 (2 đêm),2,13125000
+120,128,Tiền phòng,Tiền phòng #1531 (4 đêm),4,1401000
+121,137,Tiền phòng,Tiền phòng #1551 (3 đêm),3,1472000
+122,176,Tiền phòng,Tiền phòng #1570 (4 đêm),4,1472000
+123,232,Tiền phòng,Tiền phòng #1589 (2 đêm),2,1475000
+124,238,Tiền phòng,Tiền phòng #1609 (5 đêm),5,1531000
+125,258,Tiền phòng,Tiền phòng #1629 (4 đêm),4,1816000
+126,285,Tiền phòng,Tiền phòng #1648 (2 đêm),2,1401000
+127,314,Tiền phòng,Tiền phòng #17 (3 đêm),3,1200000
+128,319,Tiền phòng,Tiền phòng #54 (5 đêm),5,1200000
+129,324,Tiền phòng,Tiền phòng #1512 (2 đêm),2,1752000
+130,343,Tiền phòng,Tiền phòng #1532 (3 đêm),3,1531000
+131,352,Tiền phòng,Tiền phòng #1552 (2 đêm),2,1531000
+132,378,Tiền phòng,Tiền phòng #1571 (5 đêm),5,1531000
+133,418,Tiền phòng,Tiền phòng #1591 (4 đêm),4,1792000
+134,438,Tiền phòng,Tiền phòng #1611 (2 đêm),2,1514000
+135,461,Tiền phòng,Tiền phòng #1631 (5 đêm),5,1514000
+136,479,Tiền phòng,Tiền phòng #1649 (5 đêm),5,1475000
+137,524,Tiền phòng,Tiền phòng #18 (3 đêm),3,1472000
+138,546,Tiền phòng,Tiền phòng #55 (3 đêm),3,1792000
+139,562,Tiền phòng,Tiền phòng #1513 (2 đêm),2,1475000
+140,572,Tiền phòng,Tiền phòng #1534 (3 đêm),3,1522000
+141,577,Tiền phòng,Tiền phòng #1554 (2 đêm),2,1792000
+142,598,Tiền phòng,Tiền phòng #1573 (3 đêm),3,1522000
+143,606,Tiền phòng,Tiền phòng #1592 (4 đêm),4,1508000
+144,618,Tiền phòng,Tiền phòng #1612 (2 đêm),2,1531000
+145,622,Tiền phòng,Tiền phòng #1632 (4 đêm),4,1200000
+146,672,Tiền phòng,Tiền phòng #1651 (2 đêm),2,1792000
+147,749,Tiền phòng,Tiền phòng #19 (3 đêm),3,1531000
+148,774,Tiền phòng,Tiền phòng #56 (4 đêm),4,1514000
+149,781,Tiền phòng,Tiền phòng #1515 (2 đêm),2,1522000
+150,817,Tiền phòng,Tiền phòng #1535 (2 đêm),2,1816000
+151,832,Tiền phòng,Tiền phòng #1555 (2 đêm),2,1200000
+152,846,Tiền phòng,Tiền phòng #1574 (4 đêm),4,1500000
+153,850,Tiền phòng,Tiền phòng #1593 (4 đêm),4,1401000
+154,851,Tiền phòng,Tiền phòng #1613 (4 đêm),4,1401000
+155,856,Tiền phòng,Tiền phòng #1633 (5 đêm),5,1401000
+156,878,Tiền phòng,Tiền phòng #1652 (4 đêm),4,1816000
+157,882,Tiền phòng,Tiền phòng #20 (5 đêm),5,1479000
+158,910,Tiền phòng,Tiền phòng #57 (3 đêm),3,1508000
+159,911,Tiền phòng,Tiền phòng #1516 (2 đêm),2,1531000
+160,912,Tiền phòng,Tiền phòng #1536 (2 đêm),2,1401000
+161,927,Tiền phòng,Tiền phòng #1556 (2 đêm),2,1472000
+162,1005,Tiền phòng,Tiền phòng #1575 (3 đêm),3,1401000
+163,1009,Tiền phòng,Tiền phòng #1594 (4 đêm),4,1426000
+164,1068,Tiền phòng,Tiền phòng #1614 (3 đêm),3,1426000
+165,1090,Tiền phòng,Tiền phòng #1634 (2 đêm),2,1426000
+166,1112,Tiền phòng,Tiền phòng #1653 (2 đêm),2,1401000
+167,1157,Tiền phòng,Tiền phòng #21 (2 đêm),2,25000000
+168,1177,Tiền phòng,Tiền phòng #58 (3 đêm),3,1500000
+169,1,Dịch vụ,Massage Bấm Huyệt Ngải Cứu Đông Y Toàn Thân (Spa),2,850000
+170,1,Dịch vụ,Đại Tiệc Buffet Hải Sản Tôm Hùm & Cua Hoàng Đế (Nhà hàng),2,650000
+171,1,Dịch vụ,Bữa Tối Nến Lãng Mạn Bò Wagyu A5 & Rượu Vang Đỏ (Nhà hàng),1,2500000
+172,1,Dịch vụ,Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya (Spa),2,600000
+173,28,Dịch vụ,Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya (Spa),1,395000
+174,17,Dịch vụ,Trị Liệu Xông Hơi Đá Muối Khoáng Himalaya (Spa),3,376000
+175,87,Dịch vụ,Massage Bấm Huyệt Ngải Cứu Đông Y Toàn Thân (Spa),2,1234000
+176,832,Dịch vụ,Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #29) (Spa),3,1224000
+177,29,Dịch vụ,Set Trà Chiều Cung Đình Huế & Bánh Đậu Xanh (Nhà hàng),4,782000
+178,618,Dịch vụ,Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #25) (Spa),3,285000
+179,1009,Dịch vụ,Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #24) (Spa),1,999000
+180,238,Dịch vụ,Massage Chân Bấm Huyệt Ngâm Chân Nước Thuốc (Gói Cao Cấp #26) (Spa),1,1349000
