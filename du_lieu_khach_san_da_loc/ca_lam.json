@@ -1,62 +1,62 @@
 [
   {
     "MaCa": 1,
-    "TenCa": "Ca Sáng Lễ Tân (06:00 - 14:30)",
+    "TenCa": "Ca Sáng Lễ Tân (06:00 - 12:00)",
     "GioBD": "06:00:00",
-    "GioKT": "14:30:00"
+    "GioKT": "12:00:00"
   },
   {
     "MaCa": 2,
-    "TenCa": "Ca Chiều Lễ Tân (14:00 - 22:30)",
+    "TenCa": "Ca Chiều Lễ Tân (14:00 - 20:00)",
     "GioBD": "14:00:00",
-    "GioKT": "22:30:00"
+    "GioKT": "20:00:00"
   },
   {
     "MaCa": 3,
-    "TenCa": "Ca Đêm Lễ Tân & Kiểm Toán Đêm (22:00 - 06:30)",
+    "TenCa": "Ca Đêm Lễ Tân & Kiểm Toán Đêm (22:00 - 04:00)",
     "GioBD": "22:00:00",
-    "GioKT": "06:30:00"
+    "GioKT": "04:00:00"
   },
   {
     "MaCa": 4,
-    "TenCa": "Ca Sáng Buồng Phòng Housekeeping (07:00 - 15:30)",
+    "TenCa": "Ca Sáng Buồng Phòng Housekeeping (07:00 - 13:00)",
     "GioBD": "07:00:00",
-    "GioKT": "15:30:00"
+    "GioKT": "13:00:00"
   },
   {
     "MaCa": 5,
-    "TenCa": "Ca Chiều Dọn Phòng Turndown Service (14:30 - 23:00)",
-    "GioBD": "14:30:00",
-    "GioKT": "23:00:00"
+    "TenCa": "Ca Chiều Buồng Phòng & Dọn Phòng (15:00 - 21:00)",
+    "GioBD": "15:00:00",
+    "GioKT": "21:00:00"
   },
   {
     "MaCa": 6,
-    "TenCa": "Ca Sáng Bếp Buffet Sáng (05:30 - 14:00)",
-    "GioBD": "05:30:00",
-    "GioKT": "14:00:00"
+    "TenCa": "Ca Sáng Bếp Buffet Sáng (05:00 - 11:00)",
+    "GioBD": "05:00:00",
+    "GioKT": "11:00:00"
   },
   {
     "MaCa": 7,
-    "TenCa": "Ca Chiều Tối Nhà Hàng Fine Dining (15:00 - 23:30)",
-    "GioBD": "15:00:00",
-    "GioKT": "23:30:00"
+    "TenCa": "Ca Tối Nhà Hàng Fine Dining (17:00 - 23:00)",
+    "GioBD": "17:00:00",
+    "GioKT": "23:00:00"
   },
   {
     "MaCa": 8,
-    "TenCa": "Ca Gãy Nhà Hàng Split Shift (10:00 - 14:00 & 17:30 - 21:30)",
+    "TenCa": "Ca Trưa Nhà Hàng & Phục Vụ (10:00 - 16:00)",
     "GioBD": "10:00:00",
-    "GioKT": "21:30:00"
+    "GioKT": "16:00:00"
   },
   {
     "MaCa": 9,
-    "TenCa": "Ca Kỹ Thuật Bảo Trì Điện Lạnh (08:00 - 16:30)",
+    "TenCa": "Ca Kỹ Thuật Bảo Trì Điện Lạnh (08:00 - 14:00)",
     "GioBD": "08:00:00",
-    "GioKT": "16:30:00"
+    "GioKT": "14:00:00"
   },
   {
     "MaCa": 10,
-    "TenCa": "Ca An Ninh & Bảo Vệ Cổng Chính (06:00 - 18:00)",
-    "GioBD": "06:00:00",
-    "GioKT": "18:00:00"
+    "TenCa": "Ca An Ninh & Bảo Vệ Cổng Chính (18:00 - 00:00)",
+    "GioBD": "18:00:00",
+    "GioKT": "00:00:00"
   }
 ]
