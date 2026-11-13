@@ -3,42 +3,70 @@
     "MaCN": 1,
     "TenCN": "Chi nhánh 1 - Grand Hanoi Hotel & Spa (Hà Nội)",
     "DiaChi": "Số 120 Hoàng Hoa Thám, Phường Thụy Khuê, Quận Ba Đình, Hà Nội",
-    "SDT": 2439998888,
+    "SDT": "02439998888",
     "Email": "hanoi.grand@luxuryresort.vn"
   },
   {
     "MaCN": 2,
     "TenCN": "Chi nhánh 2 - Danang Beachfront Luxury Resort (Đà Nẵng)",
     "DiaChi": "Số 50 Võ Nguyên Giáp, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, TP. Đà Nẵng",
-    "SDT": 2363999999,
+    "SDT": "02363999999",
     "Email": "danang.beach@luxuryresort.vn"
   },
   {
     "MaCN": 3,
     "TenCN": "Chi nhánh 3 - Phu Quoc Emerald Bay Retreat (Phú Quốc)",
     "DiaChi": "Khu Du Lịch Sinh Thái Bãi Trường, Xã Dương Tơ, TP. Phú Quốc, Tỉnh Kiên Giang",
-    "SDT": 2973888888,
+    "SDT": "02973888888",
     "Email": "phuquoc.emerald@luxuryresort.vn"
   },
   {
     "MaCN": 4,
     "TenCN": "Chi nhánh 4 - Nha Trang Ocean Pearl Resort (Nha Trang)",
     "DiaChi": "Số 78 Trần Phú, Phường Lộc Thọ, TP. Nha Trang, Tỉnh Khánh Hòa",
-    "SDT": 2583889999,
+    "SDT": "02583889999",
     "Email": "nhatrang.pearl@luxuryresort.vn"
   },
   {
     "MaCN": 5,
     "TenCN": "Chi nhánh 5 - Sapa Misty Mountain Resort & Spa (Sa Pa)",
     "DiaChi": "Thung Lũng Mường Hoa, Phường Cầu Mây, Thị Xã Sa Pa, Tỉnh Lào Cai",
-    "SDT": 2143778899,
+    "SDT": "02143778899",
     "Email": "sapa.misty@luxuryresort.vn"
   },
   {
     "MaCN": 6,
     "TenCN": "Chi nhánh 6 - Dalat Pine Forest Palace (Đà Lạt)",
     "DiaChi": "Số 15 Trần Hưng Đạo, Phường 10, TP. Đà Lạt, Tỉnh Lâm Đồng",
-    "SDT": 2633887766,
+    "SDT": "02633887766",
     "Email": "dalat.pine@luxuryresort.vn"
+  },
+  {
+    "MaCN": 7,
+    "TenCN": "Chi nhánh 7 - Hội An Imperial Palace Hotel (Quảng Nam)",
+    "DiaChi": "Số 673 Đường Trần Hưng Đạo, Hội An, Tỉnh/TP. Quảng Nam",
+    "SDT": "02902783754",
+    "Email": "chinhanh49.quảngnam@luxuryresort.vn"
+  },
+  {
+    "MaCN": 8,
+    "TenCN": "Chi nhánh 8 - Hạ Long Colonial Historic Hotel (Quảng Ninh)",
+    "DiaChi": "Số 148 Đường Bùi Thị Xuân, Hạ Long, Tỉnh/TP. Quảng Ninh",
+    "SDT": "02129064455",
+    "Email": "chinhanh103.quảngninh@luxuryresort.vn"
+  },
+  {
+    "MaCN": 9,
+    "TenCN": "Chi nhánh 9 - Thành phố Huế Heritage Grand Hotel (Thừa Thiên Huế)",
+    "DiaChi": "Số 83 Đường Võ Nguyên Giáp, Thành phố Huế, Tỉnh/TP. Thừa Thiên Huế",
+    "SDT": "02778590653",
+    "Email": "chinhanh131.thừathiênhuế@luxuryresort.vn"
+  },
+  {
+    "MaCN": 10,
+    "TenCN": "Chi nhánh 10 - Bãi Trước Lagoon Villas & Suites (Bà Rịa - Vũng Tàu)",
+    "DiaChi": "Số 620 Đường Hai Bà Trưng, Bãi Trước, Tỉnh/TP. Bà Rịa - Vũng Tàu",
+    "SDT": "02698149173",
+    "Email": "chinhanh54.bàrịavũngtàu@luxuryresort.vn"
   }
 ]
